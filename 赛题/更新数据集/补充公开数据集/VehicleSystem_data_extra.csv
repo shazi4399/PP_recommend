@@ -1,0 +1,3806 @@
+ID,destination,passanger,toCoupon_GEQ15min,toCoupon_GEQ25min,direction_same,direction_opp
+19943,Work,Alone,1,0,1,0
+18765,No Urgent Place,Friend(s),1,0,0,1
+11739,Work,Alone,1,0,0,1
+16933,No Urgent Place,Kid(s),1,0,0,1
+14728,Home,Alone,0,0,0,1
+22349,No Urgent Place,Friend(s),1,0,0,1
+20524,Home,Alone,1,0,0,1
+12077,No Urgent Place,Friend(s),1,0,0,1
+12630,No Urgent Place,Friend(s),1,0,0,1
+11351,No Urgent Place,Friend(s),1,0,0,1
+10974,No Urgent Place,Friend(s),1,0,0,1
+19421,Work,Alone,0,0,0,1
+14447,Home,Alone,0,0,1,0
+22578,Home,Alone,0,0,0,1
+10966,Work,Alone,0,0,0,1
+17641,No Urgent Place,Alone,1,0,0,1
+17828,Home,Alone,1,0,1,0
+15193,No Urgent Place,Alone,0,0,0,1
+19684,Work,Alone,1,0,1,0
+16383,Work,Alone,0,0,1,0
+19465,Work,Alone,1,0,1,0
+11551,No Urgent Place,Friend(s),1,0,0,1
+19123,Home,Kid(s),1,0,0,1
+14599,No Urgent Place,Partner,1,0,0,1
+20086,Home,Alone,0,0,1,0
+20005,Work,Alone,1,0,1,0
+11926,No Urgent Place,Friend(s),1,0,0,1
+22093,No Urgent Place,Partner,0,0,0,1
+17401,No Urgent Place,Friend(s),1,0,0,1
+19550,Work,Alone,1,0,1,0
+13850,No Urgent Place,Friend(s),1,0,0,1
+12776,Work,Alone,0,0,0,1
+21387,Work,Alone,0,0,1,0
+11421,No Urgent Place,Kid(s),1,0,0,1
+11036,No Urgent Place,Friend(s),1,0,0,1
+18477,No Urgent Place,Friend(s),0,0,0,1
+15511,Home,Alone,0,0,1,0
+20189,No Urgent Place,Friend(s),1,0,0,1
+11449,Home,Alone,1,0,0,1
+16809,Home,Partner,1,0,0,1
+12088,Home,Alone,0,0,0,1
+20589,Work,Alone,1,1,0,1
+17316,No Urgent Place,Alone,0,0,0,1
+21645,Home,Alone,0,0,1,0
+16600,Work,Alone,1,0,1,0
+20013,No Urgent Place,Friend(s),1,0,0,1
+17827,No Urgent Place,Alone,0,0,0,1
+10811,No Urgent Place,Friend(s),1,0,0,1
+21476,No Urgent Place,Friend(s),1,0,0,1
+17745,Home,Partner,0,0,1,0
+17649,No Urgent Place,Partner,1,0,0,1
+17439,No Urgent Place,Kid(s),1,0,0,1
+14567,No Urgent Place,Alone,0,0,0,1
+13448,No Urgent Place,Alone,0,0,0,1
+15377,Home,Alone,0,0,0,1
+22148,Work,Alone,0,0,0,1
+15753,Home,Alone,0,0,0,1
+13573,Home,Alone,0,0,0,1
+17922,Work,Alone,1,1,0,1
+15039,No Urgent Place,Kid(s),1,0,0,1
+17549,Work,Alone,1,1,0,1
+19441,Work,Alone,1,0,1,0
+17175,No Urgent Place,Alone,0,0,0,1
+19524,Home,Alone,1,0,0,1
+11468,No Urgent Place,Kid(s),1,0,0,1
+14971,Home,Alone,0,0,1,0
+19709,No Urgent Place,Friend(s),1,0,0,1
+20072,Work,Alone,0,0,1,0
+22487,No Urgent Place,Partner,0,0,0,1
+14871,Work,Alone,1,1,0,1
+17943,Work,Alone,1,1,0,1
+19151,Home,Alone,1,1,0,1
+17703,Work,Alone,1,1,0,1
+22194,Work,Alone,0,0,1,0
+18052,Home,Alone,0,0,1,0
+11566,Work,Alone,1,0,0,1
+14715,Home,Alone,0,0,1,0
+15710,Home,Alone,0,0,1,0
+20904,No Urgent Place,Friend(s),0,0,0,1
+12619,Home,Alone,0,0,0,1
+16779,No Urgent Place,Kid(s),1,0,0,1
+13453,No Urgent Place,Friend(s),1,0,0,1
+18419,No Urgent Place,Partner,1,0,0,1
+16428,Work,Alone,1,0,0,1
+21774,Work,Alone,0,0,0,1
+16969,Home,Partner,0,0,1,0
+17154,No Urgent Place,Alone,1,0,0,1
+10727,No Urgent Place,Friend(s),1,0,0,1
+16591,Home,Alone,1,0,1,0
+11260,No Urgent Place,Friend(s),0,0,0,1
+22469,Home,Alone,0,0,1,0
+21926,Work,Alone,0,0,1,0
+21778,Work,Alone,0,0,1,0
+21016,No Urgent Place,Friend(s),1,0,0,1
+15091,Home,Alone,0,0,0,1
+17632,No Urgent Place,Partner,1,0,0,1
+13189,No Urgent Place,Friend(s),1,0,0,1
+16260,No Urgent Place,Friend(s),1,0,0,1
+18440,No Urgent Place,Friend(s),1,0,0,1
+14217,No Urgent Place,Alone,0,0,0,1
+12016,No Urgent Place,Partner,0,0,0,1
+15127,No Urgent Place,Alone,0,0,0,1
+15873,No Urgent Place,Alone,0,0,0,1
+12399,Home,Alone,0,0,1,0
+17126,Work,Alone,1,1,0,1
+10398,No Urgent Place,Friend(s),1,0,0,1
+16446,Work,Alone,1,0,0,1
+12514,Work,Alone,0,0,0,1
+15014,No Urgent Place,Partner,0,0,0,1
+14584,Work,Alone,1,0,1,0
+10612,No Urgent Place,Friend(s),0,0,0,1
+16855,Home,Alone,1,0,1,0
+19420,Work,Alone,0,0,1,0
+13282,No Urgent Place,Partner,1,0,0,1
+20206,No Urgent Place,Alone,1,0,0,1
+10205,No Urgent Place,Alone,0,0,0,1
+20724,No Urgent Place,Friend(s),1,0,0,1
+21684,Work,Alone,0,0,1,0
+12030,No Urgent Place,Friend(s),0,0,0,1
+17259,Work,Alone,1,1,0,1
+16681,Work,Alone,1,1,0,1
+19109,Work,Alone,1,0,1,0
+19542,Home,Alone,1,1,0,1
+13860,Work,Alone,1,1,0,1
+20075,Work,Alone,1,0,1,0
+11142,Work,Alone,0,0,0,1
+15153,No Urgent Place,Friend(s),0,0,0,1
+21785,No Urgent Place,Friend(s),0,0,0,1
+22672,Home,Alone,1,0,1,0
+15540,Work,Alone,1,1,0,1
+15657,No Urgent Place,Friend(s),0,0,0,1
+16025,Work,Alone,1,0,0,1
+11920,No Urgent Place,Friend(s),0,0,0,1
+15793,No Urgent Place,Partner,0,0,0,1
+16579,Work,Alone,1,1,0,1
+13546,No Urgent Place,Friend(s),0,0,0,1
+12741,No Urgent Place,Friend(s),1,0,0,1
+16777,Work,Alone,1,1,0,1
+17002,No Urgent Place,Friend(s),1,0,0,1
+15319,Home,Alone,0,0,1,0
+10645,No Urgent Place,Alone,0,0,0,1
+20897,Home,Partner,1,1,0,1
+18953,Work,Alone,0,0,1,0
+13000,Work,Alone,1,0,0,1
+12725,Home,Alone,0,0,1,0
+18301,No Urgent Place,Friend(s),0,0,0,1
+15654,No Urgent Place,Friend(s),1,0,0,1
+20301,No Urgent Place,Kid(s),0,0,0,1
+21253,Work,Alone,0,0,1,0
+16070,No Urgent Place,Alone,0,0,0,1
+17051,No Urgent Place,Partner,0,0,0,1
+11373,No Urgent Place,Friend(s),1,0,0,1
+10025,No Urgent Place,Friend(s),1,0,0,1
+19614,Work,Alone,1,0,1,0
+11079,No Urgent Place,Friend(s),0,0,0,1
+12837,Home,Alone,0,0,0,1
+15212,Work,Alone,1,1,0,1
+14299,Home,Alone,0,0,1,0
+10125,Home,Alone,0,0,0,1
+13652,No Urgent Place,Friend(s),1,0,0,1
+22268,No Urgent Place,Alone,0,0,0,1
+17637,Home,Alone,0,0,1,0
+18557,Work,Alone,1,1,0,1
+21344,No Urgent Place,Friend(s),0,0,0,1
+10344,No Urgent Place,Friend(s),0,0,0,1
+17241,No Urgent Place,Kid(s),1,0,0,1
+17773,No Urgent Place,Alone,1,0,0,1
+12620,Work,Alone,1,1,0,1
+13382,No Urgent Place,Alone,0,0,0,1
+22370,No Urgent Place,Friend(s),0,0,0,1
+16182,Home,Alone,0,0,0,1
+17396,No Urgent Place,Alone,1,0,0,1
+20111,Home,Alone,0,0,1,0
+20768,Home,Alone,1,0,0,1
+14800,Home,Alone,1,0,1,0
+13411,No Urgent Place,Partner,0,0,0,1
+22338,Home,Partner,1,1,0,1
+20037,No Urgent Place,Partner,0,0,0,1
+21695,No Urgent Place,Friend(s),0,0,0,1
+14511,No Urgent Place,Partner,1,0,0,1
+22322,Home,Partner,0,0,1,0
+15241,No Urgent Place,Friend(s),0,0,0,1
+21517,Work,Alone,1,1,0,1
+17022,No Urgent Place,Friend(s),1,0,0,1
+18687,Home,Alone,0,0,1,0
+13628,No Urgent Place,Friend(s),0,0,0,1
+21897,No Urgent Place,Alone,1,0,0,1
+10487,Home,Alone,1,0,0,1
+13556,Work,Alone,0,0,0,1
+16209,Work,Alone,0,0,1,0
+21962,No Urgent Place,Alone,0,0,0,1
+17697,No Urgent Place,Partner,1,0,0,1
+13287,Home,Alone,0,0,0,1
+14399,Home,Alone,1,1,0,1
+13675,No Urgent Place,Partner,0,0,0,1
+18276,Work,Alone,0,0,1,0
+18195,No Urgent Place,Friend(s),0,0,0,1
+11503,No Urgent Place,Friend(s),1,0,0,1
+13111,Work,Alone,0,0,1,0
+16830,Home,Alone,0,0,1,0
+16973,Work,Alone,1,1,0,1
+16513,Work,Alone,1,0,1,0
+14660,No Urgent Place,Partner,0,0,0,1
+12966,No Urgent Place,Friend(s),1,0,0,1
+11001,No Urgent Place,Kid(s),1,0,0,1
+21986,Home,Kid(s),1,0,1,0
+19521,Home,Alone,1,1,0,1
+16275,Work,Alone,0,0,1,0
+11363,Work,Alone,1,1,0,1
+12564,No Urgent Place,Friend(s),1,0,0,1
+13517,No Urgent Place,Friend(s),1,0,0,1
+12392,No Urgent Place,Friend(s),1,0,0,1
+15312,No Urgent Place,Partner,0,0,0,1
+19950,No Urgent Place,Alone,1,0,0,1
+17111,No Urgent Place,Friend(s),0,0,0,1
+12785,No Urgent Place,Friend(s),1,0,0,1
+22018,Work,Alone,1,1,0,1
+12326,No Urgent Place,Alone,0,0,0,1
+15640,Home,Alone,1,1,0,1
+20583,Home,Alone,1,1,0,1
+12449,Work,Alone,0,0,1,0
+16154,Home,Alone,1,0,0,1
+21965,Home,Kid(s),1,0,0,1
+10088,No Urgent Place,Alone,0,0,0,1
+14159,No Urgent Place,Partner,0,0,0,1
+13699,No Urgent Place,Partner,0,0,0,1
+17284,No Urgent Place,Alone,0,0,0,1
+17417,No Urgent Place,Alone,0,0,0,1
+14523,No Urgent Place,Alone,0,0,0,1
+15376,Home,Alone,0,0,1,0
+21704,Home,Alone,0,0,0,1
+12762,No Urgent Place,Friend(s),1,0,0,1
+19539,No Urgent Place,Alone,0,0,0,1
+21009,Work,Alone,0,0,0,1
+16637,Work,Alone,1,1,0,1
+14252,Home,Alone,0,0,1,0
+17355,No Urgent Place,Friend(s),1,0,0,1
+20210,No Urgent Place,Alone,0,0,0,1
+14563,Work,Alone,1,0,1,0
+12375,Work,Alone,1,1,0,1
+10059,Home,Alone,0,0,0,1
+12258,No Urgent Place,Friend(s),1,0,0,1
+13964,No Urgent Place,Friend(s),0,0,0,1
+13181,Work,Alone,1,1,0,1
+21493,Work,Alone,0,0,0,1
+19662,Work,Alone,1,1,0,1
+22099,Home,Alone,1,0,0,1
+18995,Work,Alone,1,0,1,0
+18240,No Urgent Place,Friend(s),0,0,0,1
+19571,Work,Alone,1,0,1,0
+19731,No Urgent Place,Friend(s),1,0,0,1
+12852,No Urgent Place,Friend(s),0,0,0,1
+18936,No Urgent Place,Friend(s),1,0,0,1
+21855,Home,Alone,1,0,1,0
+11032,Work,Alone,0,0,0,1
+14964,No Urgent Place,Friend(s),1,0,0,1
+18300,No Urgent Place,Friend(s),1,0,0,1
+22313,No Urgent Place,Partner,1,0,0,1
+19385,No Urgent Place,Friend(s),1,0,0,1
+19651,No Urgent Place,Alone,0,0,0,1
+12804,No Urgent Place,Friend(s),0,0,0,1
+17455,Work,Alone,1,1,0,1
+19031,No Urgent Place,Alone,0,0,0,1
+14742,No Urgent Place,Alone,0,0,0,1
+22439,No Urgent Place,Friend(s),1,0,0,1
+10994,No Urgent Place,Friend(s),1,0,0,1
+13418,Home,Alone,1,0,0,1
+18402,Home,Alone,0,0,1,0
+20958,Home,Kid(s),1,0,1,0
+11852,Work,Alone,1,0,0,1
+16044,Work,Alone,1,0,1,0
+12423,Home,Alone,0,0,0,1
+18568,No Urgent Place,Friend(s),0,0,0,1
+15699,No Urgent Place,Friend(s),1,0,0,1
+13713,No Urgent Place,Friend(s),0,0,0,1
+10704,No Urgent Place,Friend(s),1,0,0,1
+21496,Work,Alone,0,0,1,0
+22083,Work,Alone,0,0,1,0
+18352,No Urgent Place,Partner,0,0,0,1
+11678,No Urgent Place,Friend(s),0,0,0,1
+21350,No Urgent Place,Alone,0,0,0,1
+11547,No Urgent Place,Friend(s),0,0,0,1
+13014,No Urgent Place,Kid(s),0,0,0,1
+13840,Work,Alone,1,0,0,1
+13808,No Urgent Place,Partner,0,0,0,1
+16736,No Urgent Place,Friend(s),0,0,0,1
+18508,Home,Alone,1,0,1,0
+12990,No Urgent Place,Friend(s),0,0,0,1
+20426,No Urgent Place,Friend(s),1,0,0,1
+12625,No Urgent Place,Alone,0,0,0,1
+17196,No Urgent Place,Kid(s),1,0,0,1
+16731,Work,Alone,0,0,0,1
+10181,No Urgent Place,Friend(s),1,0,0,1
+11309,No Urgent Place,Friend(s),1,0,0,1
+13617,Home,Alone,0,0,0,1
+19676,Home,Alone,0,0,1,0
+22051,No Urgent Place,Kid(s),1,0,0,1
+14753,Home,Alone,1,1,0,1
+21706,Home,Alone,1,0,0,1
+13031,No Urgent Place,Friend(s),1,0,0,1
+21727,Home,Alone,0,0,1,0
+14306,No Urgent Place,Friend(s),1,0,0,1
+10005,No Urgent Place,Friend(s),1,0,0,1
+16609,No Urgent Place,Alone,0,0,0,1
+10591,No Urgent Place,Friend(s),0,0,0,1
+17063,No Urgent Place,Alone,1,0,0,1
+11069,Home,Alone,0,0,1,0
+20031,Work,Alone,1,0,1,0
+20476,Home,Alone,0,0,1,0
+16858,Home,Alone,1,0,1,0
+21629,Home,Alone,1,0,0,1
+17276,Home,Alone,0,0,0,1
+19982,Work,Alone,1,0,1,0
+15183,Home,Alone,0,0,1,0
+19480,Home,Alone,1,1,0,1
+18553,Home,Alone,1,0,0,1
+15206,Home,Alone,0,0,1,0
+11008,Work,Alone,1,0,0,1
+21287,Home,Alone,1,0,1,0
+11153,No Urgent Place,Partner,0,0,0,1
+10602,Home,Alone,0,0,1,0
+15722,No Urgent Place,Friend(s),1,0,0,1
+21928,Work,Alone,0,0,1,0
+11991,No Urgent Place,Friend(s),1,0,0,1
+11217,No Urgent Place,Friend(s),0,0,0,1
+20780,No Urgent Place,Friend(s),0,0,0,1
+20645,No Urgent Place,Alone,0,0,0,1
+11780,Home,Alone,0,0,0,1
+11653,Work,Alone,0,0,0,1
+14208,Home,Alone,0,0,1,0
+18505,No Urgent Place,Friend(s),1,0,0,1
+21649,Home,Alone,0,0,0,1
+10065,Work,Alone,1,0,0,1
+19117,No Urgent Place,Alone,0,0,0,1
+15271,Home,Alone,0,0,0,1
+17991,Work,Alone,0,0,1,0
+18560,Work,Alone,0,0,1,0
+19694,Home,Alone,0,0,1,0
+17912,No Urgent Place,Partner,1,0,0,1
+22088,No Urgent Place,Friend(s),1,0,0,1
+18212,No Urgent Place,Friend(s),0,0,0,1
+15090,Home,Alone,0,0,1,0
+16172,No Urgent Place,Friend(s),1,0,0,1
+13369,No Urgent Place,Friend(s),1,0,0,1
+10568,No Urgent Place,Friend(s),0,0,0,1
+20061,No Urgent Place,Alone,1,0,0,1
+12527,No Urgent Place,Kid(s),1,0,0,1
+21209,Work,Alone,1,0,0,1
+15408,Work,Alone,0,0,1,0
+18162,Home,Partner,0,0,1,0
+18954,Work,Alone,1,1,0,1
+10565,Work,Alone,0,0,0,1
+17807,Home,Alone,1,0,1,0
+16774,Work,Alone,1,0,1,0
+14382,Home,Alone,1,1,0,1
+10303,No Urgent Place,Friend(s),1,0,0,1
+11672,Work,Alone,1,1,0,1
+18327,No Urgent Place,Friend(s),0,0,0,1
+15795,No Urgent Place,Partner,1,0,0,1
+15218,No Urgent Place,Friend(s),1,0,0,1
+16326,No Urgent Place,Friend(s),1,0,0,1
+20238,Home,Alone,1,1,0,1
+17691,No Urgent Place,Friend(s),1,0,0,1
+12222,Work,Alone,1,1,0,1
+10585,Work,Alone,1,0,0,1
+19343,No Urgent Place,Alone,1,0,0,1
+18588,No Urgent Place,Friend(s),1,0,0,1
+18316,Work,Alone,1,1,0,1
+16722,Home,Kid(s),1,1,0,1
+14341,Home,Alone,0,0,1,0
+22225,No Urgent Place,Partner,1,0,0,1
+13176,No Urgent Place,Partner,1,0,0,1
+19288,Work,Alone,1,0,1,0
+15318,Home,Alone,0,0,1,0
+17043,No Urgent Place,Friend(s),1,0,0,1
+21980,No Urgent Place,Friend(s),1,0,0,1
+14450,Home,Alone,0,0,1,0
+18186,Work,Alone,1,1,0,1
+13376,Work,Alone,1,1,0,1
+11038,No Urgent Place,Friend(s),1,0,0,1
+14460,No Urgent Place,Friend(s),0,0,0,1
+17629,No Urgent Place,Partner,1,0,0,1
+20991,Work,Alone,0,0,1,0
+10037,Home,Alone,0,0,0,1
+11339,Home,Alone,1,0,0,1
+21682,Home,Partner,1,0,1,0
+18934,No Urgent Place,Alone,1,0,0,1
+12819,Work,Alone,0,0,1,0
+15783,Work,Alone,0,0,1,0
+12892,Work,Alone,0,0,0,1
+19256,No Urgent Place,Alone,0,0,0,1
+14914,Work,Alone,1,0,1,0
+12951,Home,Alone,0,0,1,0
+12743,No Urgent Place,Friend(s),1,0,0,1
+13200,Home,Alone,0,0,0,1
+13034,No Urgent Place,Friend(s),0,0,0,1
+11800,Home,Alone,0,0,1,0
+16029,No Urgent Place,Friend(s),1,0,0,1
+16359,Home,Alone,0,0,1,0
+11120,Work,Alone,0,0,0,1
+16469,Work,Alone,1,1,0,1
+18908,Work,Alone,1,0,1,0
+18408,No Urgent Place,Alone,1,0,0,1
+12179,Work,Alone,1,0,0,1
+13859,Home,Alone,0,0,0,1
+10320,Work,Alone,0,0,1,0
+15689,Home,Alone,1,0,1,0
+19341,No Urgent Place,Friend(s),1,0,0,1
+10873,Home,Alone,0,0,0,1
+15387,Work,Alone,1,1,0,1
+13535,Work,Alone,1,0,0,1
+22281,Work,Alone,1,1,0,1
+11506,No Urgent Place,Friend(s),1,0,0,1
+17878,Work,Alone,1,1,0,1
+18732,Home,Alone,0,0,1,0
+17583,No Urgent Place,Alone,0,0,0,1
+21392,No Urgent Place,Friend(s),0,0,0,1
+16857,Home,Alone,1,0,0,1
+17166,Home,Alone,0,0,0,1
+18718,No Urgent Place,Friend(s),0,0,0,1
+21069,Home,Kid(s),1,0,0,1
+22311,No Urgent Place,Alone,0,0,0,1
+22009,Home,Alone,0,0,0,1
+16707,Work,Alone,1,1,0,1
+20662,Work,Alone,1,0,1,0
+18747,No Urgent Place,Friend(s),1,0,0,1
+17230,Home,Alone,1,0,1,0
+17296,Home,Alone,1,0,1,0
+20356,Work,Alone,0,0,1,0
+20700,Work,Alone,1,0,1,0
+17469,No Urgent Place,Friend(s),1,0,0,1
+22215,Work,Alone,1,1,0,1
+21856,Home,Alone,0,0,0,1
+19874,Work,Alone,0,0,1,0
+18635,No Urgent Place,Partner,1,0,0,1
+13439,Home,Alone,0,0,1,0
+21972,Work,Alone,0,0,0,1
+16405,Work,Alone,0,0,1,0
+16871,No Urgent Place,Friend(s),0,0,0,1
+12867,No Urgent Place,Kid(s),1,0,0,1
+10534,No Urgent Place,Kid(s),1,0,0,1
+16956,No Urgent Place,Friend(s),0,0,0,1
+10311,No Urgent Place,Kid(s),0,0,0,1
+15924,Home,Alone,0,0,1,0
+14220,No Urgent Place,Friend(s),1,0,0,1
+12530,Home,Alone,1,0,0,1
+17081,Work,Alone,1,1,0,1
+19549,Work,Alone,1,0,0,1
+18852,No Urgent Place,Kid(s),0,0,0,1
+11884,No Urgent Place,Friend(s),1,0,0,1
+18369,No Urgent Place,Friend(s),1,0,0,1
+20276,No Urgent Place,Friend(s),1,0,0,1
+10740,Work,Alone,0,0,1,0
+18928,Work,Alone,1,0,1,0
+16486,Home,Alone,0,0,1,0
+11572,No Urgent Place,Friend(s),1,0,0,1
+14440,No Urgent Place,Partner,0,0,0,1
+19355,Work,Alone,0,0,0,1
+11207,Home,Alone,1,0,0,1
+14400,Home,Alone,0,0,1,0
+14309,No Urgent Place,Friend(s),0,0,0,1
+20804,No Urgent Place,Alone,0,0,0,1
+19495,No Urgent Place,Alone,1,0,0,1
+14734,Home,Alone,1,0,1,0
+13601,Work,Alone,1,0,0,1
+20580,Home,Kid(s),1,0,0,1
+17812,Work,Alone,1,1,0,1
+21988,Home,Partner,1,1,0,1
+10359,Work,Alone,1,1,0,1
+15532,Home,Alone,0,0,1,0
+22642,No Urgent Place,Friend(s),0,0,0,1
+10341,Work,Alone,0,0,0,1
+10182,No Urgent Place,Friend(s),1,0,0,1
+17810,Home,Partner,0,0,1,0
+17173,No Urgent Place,Alone,1,0,0,1
+13385,No Urgent Place,Friend(s),1,0,0,1
+19820,Home,Alone,0,0,0,1
+14592,No Urgent Place,Friend(s),1,0,0,1
+17024,No Urgent Place,Friend(s),1,0,0,1
+14373,No Urgent Place,Partner,0,0,0,1
+20998,No Urgent Place,Alone,0,0,0,1
+11971,No Urgent Place,Kid(s),1,0,0,1
+18005,Home,Alone,1,0,1,0
+17933,No Urgent Place,Friend(s),0,0,0,1
+12184,No Urgent Place,Friend(s),0,0,0,1
+17054,Home,Alone,1,0,1,0
+12071,Work,Alone,0,0,0,1
+17861,No Urgent Place,Friend(s),0,0,0,1
+15033,No Urgent Place,Partner,0,0,0,1
+21847,No Urgent Place,Friend(s),1,0,0,1
+11804,Work,Alone,1,1,0,1
+13228,No Urgent Place,Alone,0,0,0,1
+21309,No Urgent Place,Partner,0,0,0,1
+21262,No Urgent Place,Alone,0,0,0,1
+17712,No Urgent Place,Friend(s),1,0,0,1
+18924,Home,Alone,0,0,1,0
+16653,No Urgent Place,Partner,1,0,0,1
+10809,No Urgent Place,Alone,0,0,0,1
+15145,Work,Alone,1,1,0,1
+16583,No Urgent Place,Kid(s),1,0,0,1
+12415,No Urgent Place,Friend(s),1,0,0,1
+17992,No Urgent Place,Alone,1,0,0,1
+18038,No Urgent Place,Alone,0,0,0,1
+13486,Work,Alone,1,1,0,1
+21320,Work,Alone,1,1,0,1
+11937,Work,Alone,1,0,0,1
+12708,Work,Alone,1,0,0,1
+11176,No Urgent Place,Friend(s),1,0,0,1
+15455,Work,Alone,0,0,1,0
+11900,No Urgent Place,Friend(s),1,0,0,1
+13271,Work,Alone,1,0,0,1
+21568,Work,Alone,0,0,1,0
+18915,No Urgent Place,Friend(s),1,0,0,1
+16713,No Urgent Place,Kid(s),1,0,0,1
+13458,No Urgent Place,Friend(s),0,0,0,1
+21106,No Urgent Place,Friend(s),0,0,0,1
+12217,No Urgent Place,Partner,1,0,0,1
+19414,Home,Alone,0,0,1,0
+22676,Home,Alone,0,0,1,0
+19279,Home,Alone,0,0,1,0
+15577,Home,Alone,0,0,0,1
+21293,Home,Alone,0,0,0,1
+10824,Work,Alone,1,1,0,1
+22366,Work,Alone,0,0,1,0
+15537,Work,Alone,0,0,1,0
+11965,No Urgent Place,Friend(s),1,0,0,1
+14591,No Urgent Place,Friend(s),1,0,0,1
+17525,No Urgent Place,Alone,1,0,0,1
+22620,No Urgent Place,Partner,1,0,0,1
+15352,No Urgent Place,Partner,0,0,0,1
+21416,No Urgent Place,Alone,0,0,0,1
+10174,Work,Alone,0,0,0,1
+19195,Home,Alone,1,1,0,1
+20073,Work,Alone,0,0,0,1
+12676,No Urgent Place,Partner,0,0,0,1
+18690,Work,Alone,1,1,0,1
+15981,Work,Alone,1,0,0,1
+19767,Home,Alone,1,0,0,1
+10254,Work,Alone,1,1,0,1
+11452,Work,Alone,1,1,0,1
+18157,No Urgent Place,Partner,1,0,0,1
+21557,Home,Kid(s),1,0,1,0
+19621,No Urgent Place,Friend(s),1,0,0,1
+16202,No Urgent Place,Partner,1,0,0,1
+11541,Work,Alone,1,0,0,1
+17907,No Urgent Place,Friend(s),0,0,0,1
+16033,No Urgent Place,Partner,1,0,0,1
+15902,No Urgent Place,Kid(s),1,0,0,1
+14544,Work,Alone,1,0,0,1
+21449,Home,Partner,0,0,1,0
+16848,No Urgent Place,Friend(s),0,0,0,1
+14141,Home,Alone,0,0,0,1
+21208,Work,Alone,0,0,1,0
+13688,Work,Alone,0,0,0,1
+14855,No Urgent Place,Friend(s),1,0,0,1
+20995,No Urgent Place,Friend(s),0,0,0,1
+19653,Home,Alone,0,0,0,1
+12236,No Urgent Place,Partner,0,0,0,1
+17360,No Urgent Place,Partner,1,0,0,1
+17117,No Urgent Place,Partner,0,0,0,1
+20960,Home,Partner,1,1,0,1
+16116,No Urgent Place,Friend(s),1,0,0,1
+14920,No Urgent Place,Friend(s),1,0,0,1
+12836,Home,Alone,1,0,0,1
+18185,Work,Alone,1,1,0,1
+17769,Work,Alone,1,1,0,1
+10826,Work,Alone,1,0,0,1
+16372,No Urgent Place,Friend(s),0,0,0,1
+13005,No Urgent Place,Friend(s),0,0,0,1
+11808,Work,Alone,1,0,0,1
+21732,Work,Alone,1,0,0,1
+19920,Work,Alone,1,1,0,1
+10776,No Urgent Place,Friend(s),1,0,0,1
+12715,No Urgent Place,Friend(s),1,0,0,1
+12081,No Urgent Place,Kid(s),1,0,0,1
+18763,No Urgent Place,Friend(s),0,0,0,1
+10856,No Urgent Place,Partner,0,0,0,1
+14631,Work,Alone,0,0,1,0
+20946,Work,Alone,1,1,0,1
+14098,Home,Alone,0,0,0,1
+12635,No Urgent Place,Kid(s),0,0,0,1
+14360,Home,Alone,1,1,0,1
+19764,Home,Alone,0,0,1,0
+21358,Home,Alone,0,0,1,0
+17215,Work,Alone,1,1,0,1
+21371,No Urgent Place,Friend(s),0,0,0,1
+15887,Home,Alone,1,1,0,1
+18626,Work,Alone,0,0,1,0
+22249,Home,Alone,1,0,1,0
+13384,No Urgent Place,Friend(s),1,0,0,1
+16771,Home,Alone,0,0,0,1
+21422,Home,Alone,0,0,1,0
+16219,No Urgent Place,Kid(s),1,0,0,1
+11524,No Urgent Place,Friend(s),0,0,0,1
+19903,No Urgent Place,Alone,1,0,0,1
+11633,No Urgent Place,Alone,0,0,0,1
+21403,Home,Partner,1,1,0,1
+15744,No Urgent Place,Friend(s),1,0,0,1
+20625,No Urgent Place,Alone,1,0,0,1
+11219,No Urgent Place,Friend(s),0,0,0,1
+20147,No Urgent Place,Partner,0,0,0,1
+21307,No Urgent Place,Partner,0,0,0,1
+17271,No Urgent Place,Partner,0,0,0,1
+17864,No Urgent Place,Friend(s),0,0,0,1
+20827,No Urgent Place,Friend(s),1,0,0,1
+17340,Home,Alone,1,0,1,0
+19770,Work,Alone,0,0,1,0
+13135,Work,Alone,0,0,0,1
+14047,No Urgent Place,Partner,0,0,0,1
+22316,Home,Alone,0,0,0,1
+11998,Home,Alone,0,0,1,0
+13656,No Urgent Place,Kid(s),0,0,0,1
+14262,No Urgent Place,Friend(s),1,0,0,1
+15125,Work,Alone,0,0,1,0
+11320,Work,Alone,1,1,0,1
+17792,Work,Alone,1,1,0,1
+10512,Work,Alone,1,1,0,1
+17273,No Urgent Place,Partner,1,0,0,1
+10459,No Urgent Place,Friend(s),1,0,0,1
+15747,No Urgent Place,Kid(s),1,0,0,1
+18938,No Urgent Place,Alone,0,0,0,1
+12424,Work,Alone,1,1,0,1
+16963,No Urgent Place,Partner,0,0,0,1
+13717,No Urgent Place,Friend(s),1,0,0,1
+12528,No Urgent Place,Kid(s),1,0,0,1
+18380,Home,Alone,0,0,1,0
+14424,Home,Alone,0,0,0,1
+20546,Work,Alone,1,0,1,0
+15497,Work,Alone,1,1,0,1
+18661,Home,Alone,1,0,1,0
+11354,No Urgent Place,Partner,0,0,0,1
+12363,No Urgent Place,Friend(s),1,0,0,1
+15163,Home,Alone,1,1,0,1
+18112,No Urgent Place,Friend(s),1,0,0,1
+22021,No Urgent Place,Friend(s),1,0,0,1
+15662,Home,Alone,1,1,0,1
+18354,No Urgent Place,Partner,1,0,0,1
+19409,No Urgent Place,Alone,1,0,0,1
+19154,Work,Alone,1,0,1,0
+12950,No Urgent Place,Kid(s),1,0,0,1
+15604,Work,Alone,1,0,0,1
+11654,Work,Alone,1,0,0,1
+17452,Home,Alone,0,0,0,1
+19665,No Urgent Place,Friend(s),1,0,0,1
+11009,Work,Alone,0,0,1,0
+19930,No Urgent Place,Alone,0,0,0,1
+15674,Work,Alone,1,0,0,1
+14598,No Urgent Place,Partner,0,0,0,1
+18599,Home,Partner,0,0,1,0
+14140,Home,Alone,0,0,1,0
+21776,Work,Alone,1,0,0,1
+13855,No Urgent Place,Friend(s),1,0,0,1
+22483,No Urgent Place,Friend(s),0,0,0,1
+13869,No Urgent Place,Friend(s),1,0,0,1
+12333,Work,Alone,0,0,1,0
+20890,No Urgent Place,Partner,1,0,0,1
+16394,Home,Alone,1,1,0,1
+18684,Home,Alone,0,0,1,0
+21976,No Urgent Place,Kid(s),0,0,0,1
+15664,Home,Alone,1,1,0,1
+15257,Work,Alone,0,0,1,0
+18631,No Urgent Place,Friend(s),0,0,0,1
+19964,Work,Alone,1,1,0,1
+14092,No Urgent Place,Partner,0,0,0,1
+22237,Work,Alone,1,1,0,1
+21098,Work,Alone,0,0,1,0
+12858,Home,Alone,1,0,0,1
+18926,Home,Alone,1,1,0,1
+21711,Work,Alone,1,1,0,1
+18810,No Urgent Place,Friend(s),1,0,0,1
+10011,No Urgent Place,Kid(s),1,0,0,1
+21176,No Urgent Place,Alone,1,0,0,1
+12611,No Urgent Place,Kid(s),1,0,0,1
+19364,No Urgent Place,Alone,1,0,0,1
+20537,Home,Alone,0,0,0,1
+15386,Work,Alone,1,0,0,1
+22321,Home,Partner,1,0,1,0
+15422,Home,Alone,1,1,0,1
+22379,Home,Alone,1,0,1,0
+12218,Home,Alone,0,0,1,0
+19115,No Urgent Place,Partner,0,0,0,1
+12008,No Urgent Place,Friend(s),0,0,0,1
+18562,No Urgent Place,Kid(s),1,0,0,1
+16588,No Urgent Place,Friend(s),0,0,0,1
+10971,No Urgent Place,Friend(s),1,0,0,1
+13479,No Urgent Place,Kid(s),1,0,0,1
+21795,Home,Alone,1,0,0,1
+21101,Work,Alone,0,0,1,0
+22023,No Urgent Place,Friend(s),0,0,0,1
+22477,Work,Alone,1,0,0,1
+15086,No Urgent Place,Friend(s),1,0,0,1
+16026,No Urgent Place,Alone,0,0,0,1
+22654,Home,Alone,0,0,0,1
+11213,Work,Alone,0,0,0,1
+16615,Home,Alone,1,0,1,0
+13909,Work,Alone,1,0,0,1
+13811,No Urgent Place,Partner,0,0,0,1
+16947,Home,Alone,0,0,1,0
+20173,Home,Kid(s),1,0,1,0
+13351,Work,Alone,0,0,1,0
+13665,Work,Alone,0,0,1,0
+10012,No Urgent Place,Kid(s),1,0,0,1
+16263,No Urgent Place,Partner,0,0,0,1
+20393,Home,Kid(s),1,0,0,1
+22130,No Urgent Place,Friend(s),0,0,0,1
+20091,Home,Alone,1,0,0,1
+21070,Home,Partner,1,1,0,1
+20805,No Urgent Place,Alone,0,0,0,1
+15006,No Urgent Place,Friend(s),1,0,0,1
+11512,No Urgent Place,Partner,0,0,0,1
+12050,Work,Alone,1,0,0,1
+18147,No Urgent Place,Alone,0,0,0,1
+21841,Work,Alone,0,0,0,1
+21118,Work,Alone,0,0,1,0
+15320,Work,Alone,0,0,1,0
+15665,Home,Alone,0,0,1,0
+16684,Work,Alone,0,0,0,1
+21876,No Urgent Place,Kid(s),1,0,0,1
+18744,No Urgent Place,Friend(s),0,0,0,1
+19816,No Urgent Place,Alone,0,0,0,1
+19615,Work,Alone,1,0,0,1
+12288,Work,Alone,1,1,0,1
+14168,Work,Alone,0,0,1,0
+19751,No Urgent Place,Alone,1,0,0,1
+18606,No Urgent Place,Kid(s),1,0,0,1
+11021,No Urgent Place,Friend(s),1,0,0,1
+14496,Work,Alone,1,0,0,1
+20250,No Urgent Place,Alone,1,0,0,1
+11463,No Urgent Place,Friend(s),1,0,0,1
+19340,No Urgent Place,Friend(s),1,0,0,1
+18583,No Urgent Place,Alone,1,0,0,1
+16248,Home,Alone,0,0,1,0
+17380,No Urgent Place,Partner,1,0,0,1
+21298,Work,Alone,1,1,0,1
+18395,No Urgent Place,Friend(s),1,0,0,1
+19002,No Urgent Place,Friend(s),1,0,0,1
+15558,Home,Alone,1,1,0,1
+13621,Work,Alone,0,0,1,0
+21537,Work,Alone,0,0,1,0
+13696,No Urgent Place,Friend(s),1,0,0,1
+17202,No Urgent Place,Friend(s),0,0,0,1
+19748,Work,Alone,0,0,0,1
+13003,Work,Alone,1,0,0,1
+14508,No Urgent Place,Partner,1,0,0,1
+15798,Home,Alone,0,0,1,0
+20134,Home,Alone,1,0,0,1
+12234,No Urgent Place,Partner,0,0,0,1
+12051,No Urgent Place,Alone,0,0,0,1
+11288,No Urgent Place,Partner,0,0,0,1
+13725,Home,Alone,0,0,1,0
+18345,No Urgent Place,Friend(s),0,0,0,1
+14752,Home,Alone,0,0,1,0
+10515,Work,Alone,0,0,0,1
+20033,No Urgent Place,Friend(s),1,0,0,1
+20910,No Urgent Place,Alone,0,0,0,1
+18281,No Urgent Place,Friend(s),0,0,0,1
+11482,No Urgent Place,Friend(s),1,0,0,1
+11754,No Urgent Place,Friend(s),1,0,0,1
+19143,No Urgent Place,Friend(s),1,0,0,1
+10376,No Urgent Place,Kid(s),1,0,0,1
+19981,Home,Partner,0,0,1,0
+22342,Home,Alone,1,0,0,1
+17323,Work,Alone,1,1,0,1
+19454,Home,Alone,0,0,1,0
+11464,No Urgent Place,Kid(s),1,0,0,1
+20818,Work,Alone,1,1,0,1
+14004,No Urgent Place,Kid(s),1,0,0,1
+19522,Home,Partner,1,1,0,1
+16142,No Urgent Place,Partner,0,0,0,1
+14906,No Urgent Place,Kid(s),1,0,0,1
+15557,Home,Alone,0,0,1,0
+15833,No Urgent Place,Friend(s),0,0,0,1
+20230,No Urgent Place,Friend(s),1,0,0,1
+14459,No Urgent Place,Friend(s),1,0,0,1
+19871,Home,Alone,1,0,0,1
+15837,Home,Alone,0,0,0,1
+19577,No Urgent Place,Friend(s),1,0,0,1
+15638,Home,Alone,0,0,1,0
+10282,No Urgent Place,Friend(s),0,0,0,1
+10702,No Urgent Place,Friend(s),1,0,0,1
+19916,Work,Alone,1,0,1,0
+16299,Work,Alone,1,1,0,1
+21399,Home,Alone,0,0,0,1
+15765,No Urgent Place,Friend(s),1,0,0,1
+18511,Home,Alone,0,0,1,0
+16403,Work,Alone,1,1,0,1
+17279,Work,Alone,1,1,0,1
+13079,No Urgent Place,Friend(s),1,0,0,1
+21296,Work,Alone,0,0,1,0
+15450,Work,Alone,0,0,1,0
+18069,No Urgent Place,Alone,0,0,0,1
+11619,No Urgent Place,Friend(s),0,0,0,1
+13393,No Urgent Place,Partner,0,0,0,1
+14672,Work,Alone,0,0,1,0
+11364,Work,Alone,1,1,0,1
+16407,No Urgent Place,Alone,0,0,0,1
+22680,Work,Alone,0,0,0,1
+22221,No Urgent Place,Friend(s),0,0,0,1
+13558,No Urgent Place,Alone,0,0,0,1
+18500,No Urgent Place,Friend(s),1,0,0,1
+16545,Home,Alone,0,0,1,0
+16063,Work,Alone,0,0,1,0
+20771,Work,Alone,1,0,0,1
+10316,Home,Alone,0,0,0,1
+15296,Home,Alone,0,0,1,0
+18697,No Urgent Place,Friend(s),0,0,0,1
+10597,No Urgent Place,Friend(s),0,0,0,1
+13472,No Urgent Place,Friend(s),1,0,0,1
+14810,No Urgent Place,Friend(s),1,0,0,1
+14074,No Urgent Place,Kid(s),1,0,0,1
+10677,No Urgent Place,Alone,0,0,0,1
+12440,No Urgent Place,Partner,1,0,0,1
+17518,Home,Alone,0,0,0,1
+12924,No Urgent Place,Kid(s),1,0,0,1
+18725,No Urgent Place,Partner,0,0,0,1
+18282,No Urgent Place,Friend(s),1,0,0,1
+11613,No Urgent Place,Friend(s),0,0,0,1
+17829,Home,Alone,0,0,1,0
+16327,No Urgent Place,Friend(s),1,0,0,1
+17108,No Urgent Place,Alone,0,0,0,1
+14366,Work,Alone,0,0,1,0
+16087,Work,Alone,1,0,0,1
+18906,Work,Alone,1,0,1,0
+17901,Work,Alone,1,1,0,1
+22299,Work,Alone,0,0,1,0
+15896,No Urgent Place,Friend(s),1,0,0,1
+21730,Work,Alone,0,0,0,1
+10681,No Urgent Place,Friend(s),1,0,0,1
+13346,Home,Alone,1,0,0,1
+12092,Work,Alone,0,0,1,0
+20806,No Urgent Place,Alone,1,0,0,1
+18118,Home,Alone,0,0,1,0
+16425,Work,Alone,1,0,1,0
+15720,No Urgent Place,Friend(s),1,0,0,1
+22486,No Urgent Place,Alone,0,0,0,1
+14609,Work,Alone,0,0,1,0
+10887,No Urgent Place,Friend(s),1,0,0,1
+17718,No Urgent Place,Alone,0,0,0,1
+13372,No Urgent Place,Alone,0,0,0,1
+14153,No Urgent Place,Friend(s),1,0,0,1
+16696,Home,Alone,0,0,1,0
+16904,Work,Alone,1,1,0,1
+13927,Work,Alone,1,1,0,1
+16536,Work,Alone,0,0,1,0
+20480,Work,Alone,1,0,1,0
+13163,Work,Alone,1,0,0,1
+22402,Home,Kid(s),1,0,1,0
+18524,No Urgent Place,Friend(s),0,0,0,1
+22172,Work,Alone,0,0,1,0
+18166,Work,Alone,1,1,0,1
+12467,Home,Alone,0,0,0,1
+10567,No Urgent Place,Alone,0,0,0,1
+18507,No Urgent Place,Kid(s),1,0,0,1
+22294,Home,Alone,0,0,1,0
+21671,Home,Kid(s),1,0,1,0
+14144,Home,Alone,0,0,1,0
+20281,No Urgent Place,Alone,0,0,0,1
+22484,No Urgent Place,Friend(s),0,0,0,1
+10054,No Urgent Place,Friend(s),0,0,0,1
+17358,No Urgent Place,Partner,1,0,0,1
+10711,No Urgent Place,Partner,1,0,0,1
+10451,Work,Alone,1,0,0,1
+21290,Home,Alone,1,0,0,1
+18604,Work,Alone,0,0,1,0
+15727,Home,Alone,0,0,0,1
+10393,No Urgent Place,Friend(s),1,0,0,1
+14118,No Urgent Place,Kid(s),1,0,0,1
+17946,Work,Alone,1,1,0,1
+12257,No Urgent Place,Friend(s),0,0,0,1
+11025,Home,Alone,0,0,1,0
+14521,Work,Alone,0,0,1,0
+10792,No Urgent Place,Friend(s),1,0,0,1
+20164,No Urgent Place,Alone,1,0,0,1
+17714,No Urgent Place,Friend(s),0,0,0,1
+14510,No Urgent Place,Partner,0,0,0,1
+15133,Home,Alone,1,0,0,1
+19654,Home,Alone,0,0,1,0
+18776,Home,Alone,0,0,1,0
+18925,Home,Alone,1,1,0,1
+17977,No Urgent Place,Friend(s),0,0,0,1
+12492,Work,Alone,0,0,0,1
+22165,Home,Alone,1,1,0,1
+22035,Home,Alone,0,0,0,1
+19860,No Urgent Place,Friend(s),1,0,0,1
+11507,No Urgent Place,Friend(s),1,0,0,1
+12007,No Urgent Place,Alone,0,0,0,1
+20420,Work,Alone,1,0,0,1
+14922,No Urgent Place,Friend(s),0,0,0,1
+16077,Home,Alone,0,0,1,0
+19224,Work,Alone,1,1,0,1
+14476,Work,Alone,0,0,1,0
+13706,Work,Alone,1,1,0,1
+18748,No Urgent Place,Kid(s),0,0,0,1
+10666,No Urgent Place,Partner,0,0,0,1
+13086,Work,Alone,1,1,0,1
+10421,No Urgent Place,Partner,1,0,0,1
+20496,Home,Alone,0,0,1,0
+18326,No Urgent Place,Friend(s),0,0,0,1
+21357,Home,Alone,1,1,0,1
+16162,Home,Alone,1,0,1,0
+12809,No Urgent Place,Friend(s),1,0,0,1
+13507,Home,Alone,0,0,0,1
+20287,Home,Alone,1,0,0,1
+13374,Home,Alone,1,0,0,1
+11322,Work,Alone,0,0,1,0
+17562,No Urgent Place,Friend(s),1,0,0,1
+21558,Home,Kid(s),1,0,0,1
+18550,No Urgent Place,Partner,1,0,0,1
+14466,Home,Alone,0,0,1,0
+10328,No Urgent Place,Friend(s),1,0,0,1
+21784,No Urgent Place,Friend(s),0,0,0,1
+15742,No Urgent Place,Friend(s),1,0,0,1
+22129,Work,Alone,0,0,1,0
+10430,No Urgent Place,Alone,0,0,0,1
+17032,Home,Alone,0,0,1,0
+11897,No Urgent Place,Alone,0,0,0,1
+22274,Home,Alone,1,1,0,1
+18817,Home,Alone,0,0,0,1
+14565,Work,Alone,0,0,1,0
+22187,Home,Alone,0,0,1,0
+14615,No Urgent Place,Friend(s),0,0,0,1
+17920,Home,Partner,0,0,1,0
+10696,Work,Alone,0,0,1,0
+22185,Home,Alone,1,0,0,1
+14104,Work,Alone,1,0,1,0
+17981,No Urgent Place,Kid(s),0,0,0,1
+18235,No Urgent Place,Kid(s),1,0,0,1
+18389,No Urgent Place,Friend(s),1,0,0,1
+10720,Work,Alone,1,0,0,1
+18745,No Urgent Place,Friend(s),1,0,0,1
+16180,No Urgent Place,Partner,1,0,0,1
+13890,No Urgent Place,Friend(s),0,0,0,1
+17553,Work,Alone,0,0,1,0
+17685,No Urgent Place,Alone,1,0,0,1
+14956,Work,Alone,1,0,1,0
+17219,No Urgent Place,Kid(s),1,0,0,1
+20510,No Urgent Place,Friend(s),1,0,0,1
+20146,No Urgent Place,Alone,0,0,0,1
+22634,No Urgent Place,Kid(s),0,0,0,1
+21666,No Urgent Place,Alone,1,0,0,1
+14078,Home,Alone,1,1,0,1
+21470,Home,Alone,0,0,1,0
+13515,No Urgent Place,Friend(s),0,0,0,1
+21142,Work,Alone,0,0,1,0
+20140,Work,Alone,1,1,0,1
+22391,Work,Alone,0,0,1,0
+12970,No Urgent Place,Kid(s),0,0,0,1
+18775,Home,Partner,0,0,1,0
+12331,Work,Alone,1,1,0,1
+16526,Home,Alone,1,1,0,1
+18442,Home,Alone,1,0,1,0
+11607,Work,Alone,1,0,0,1
+13654,No Urgent Place,Kid(s),1,0,0,1
+17112,No Urgent Place,Friend(s),1,0,0,1
+22053,Home,Kid(s),1,0,0,1
+10593,No Urgent Place,Friend(s),0,0,0,1
+22000,No Urgent Place,Friend(s),1,0,0,1
+18262,No Urgent Place,Friend(s),0,0,0,1
+22647,No Urgent Place,Alone,1,0,0,1
+20691,Home,Alone,0,0,0,1
+15991,Home,Alone,1,1,0,1
+18722,No Urgent Place,Friend(s),1,0,0,1
+16641,Work,Alone,1,1,0,1
+12486,Home,Alone,0,0,1,0
+21858,Home,Alone,1,0,0,1
+13222,Work,Alone,1,1,0,1
+20718,Work,Alone,1,0,1,0
+13234,No Urgent Place,Friend(s),1,0,0,1
+15944,No Urgent Place,Partner,0,0,0,1
+12052,No Urgent Place,Friend(s),0,0,0,1
+15036,No Urgent Place,Partner,0,0,0,1
+13590,No Urgent Place,Partner,1,0,0,1
+12698,No Urgent Place,Kid(s),1,0,0,1
+15161,Home,Alone,0,0,0,1
+20449,No Urgent Place,Friend(s),1,0,0,1
+11076,Work,Alone,0,0,0,1
+10866,No Urgent Place,Partner,0,0,0,1
+19995,No Urgent Place,Alone,1,0,0,1
+12434,No Urgent Place,Friend(s),1,0,0,1
+21179,Home,Alone,0,0,1,0
+19667,No Urgent Place,Friend(s),1,0,0,1
+21276,Work,Alone,1,1,0,1
+18450,Work,Alone,0,0,1,0
+13190,No Urgent Place,Friend(s),1,0,0,1
+14042,No Urgent Place,Alone,0,0,0,1
+20598,No Urgent Place,Friend(s),1,0,0,1
+20794,Work,Alone,0,0,1,0
+13096,No Urgent Place,Friend(s),1,0,0,1
+19339,No Urgent Place,Friend(s),1,0,0,1
+19098,Home,Kid(s),1,0,0,1
+19020,Work,Alone,1,1,0,1
+10461,No Urgent Place,Friend(s),1,0,0,1
+10221,No Urgent Place,Friend(s),1,0,0,1
+21100,Work,Alone,1,1,0,1
+19092,No Urgent Place,Alone,0,0,0,1
+15453,Work,Alone,1,1,0,1
+12494,No Urgent Place,Alone,0,0,0,1
+18702,No Urgent Place,Partner,1,0,0,1
+15797,Home,Alone,0,0,0,1
+10653,Work,Alone,0,0,0,1
+15246,No Urgent Place,Partner,0,0,0,1
+18426,Work,Alone,1,1,0,1
+12669,No Urgent Place,Friend(s),0,0,0,1
+20463,Home,Alone,1,0,0,1
+10348,No Urgent Place,Friend(s),1,0,0,1
+15563,Work,Alone,1,1,0,1
+14927,No Urgent Place,Kid(s),1,0,0,1
+21943,Home,Alone,0,0,0,1
+22569,No Urgent Place,Friend(s),1,0,0,1
+21973,Work,Alone,0,0,1,0
+15503,No Urgent Place,Friend(s),1,0,0,1
+13460,No Urgent Place,Alone,0,0,0,1
+12418,No Urgent Place,Friend(s),0,0,0,1
+14019,Work,Alone,1,0,0,1
+15796,Home,Alone,0,0,1,0
+10675,Work,Alone,0,0,0,1
+21400,Home,Alone,0,0,1,0
+12256,No Urgent Place,Friend(s),1,0,0,1
+16237,No Urgent Place,Friend(s),1,0,0,1
+17953,No Urgent Place,Friend(s),1,0,0,1
+12877,No Urgent Place,Friend(s),1,0,0,1
+10173,Work,Alone,0,0,1,0
+10965,Work,Alone,0,0,1,0
+18655,No Urgent Place,Friend(s),1,0,0,1
+11617,No Urgent Place,Friend(s),1,0,0,1
+16923,Home,Alone,1,0,0,1
+18800,Work,Alone,1,1,0,1
+13648,No Urgent Place,Friend(s),1,0,0,1
+13913,No Urgent Place,Friend(s),1,0,0,1
+20376,Work,Alone,1,0,1,0
+22476,Work,Alone,0,0,1,0
+21611,Work,Alone,1,1,0,1
+14804,Work,Alone,1,1,0,1
+15472,Work,Alone,1,0,1,0
+19371,Home,Alone,1,1,0,1
+15510,No Urgent Place,Partner,1,0,0,1
+12860,Work,Alone,1,1,0,1
+15247,No Urgent Place,Partner,1,0,0,1
+18001,No Urgent Place,Partner,1,0,0,1
+20395,Home,Alone,0,0,1,0
+21547,No Urgent Place,Kid(s),0,0,0,1
+20672,Home,Kid(s),1,0,1,0
+21072,Home,Alone,0,0,0,1
+20383,No Urgent Place,Friend(s),1,0,0,1
+16932,No Urgent Place,Kid(s),1,0,0,1
+15018,Home,Alone,0,0,1,0
+12059,No Urgent Place,Kid(s),1,0,0,1
+17670,No Urgent Place,Friend(s),0,0,0,1
+19724,Work,Alone,1,0,0,1
+17841,No Urgent Place,Friend(s),0,0,0,1
+22542,Work,Alone,0,0,1,0
+17522,Work,Alone,1,1,0,1
+14947,Home,Alone,0,0,1,0
+20217,Home,Alone,1,1,0,1
+19148,Home,Alone,0,0,1,0
+21614,No Urgent Place,Kid(s),0,0,0,1
+10698,Work,Alone,1,0,0,1
+12605,No Urgent Place,Friend(s),0,0,0,1
+12244,Work,Alone,1,1,0,1
+21528,Home,Alone,1,0,1,0
+11708,No Urgent Place,Kid(s),1,0,0,1
+19321,No Urgent Place,Alone,1,0,0,1
+17160,No Urgent Place,Friend(s),1,0,0,1
+17262,No Urgent Place,Alone,0,0,0,1
+12478,No Urgent Place,Friend(s),0,0,0,1
+15571,No Urgent Place,Kid(s),1,0,0,1
+14579,Home,Alone,0,0,0,1
+19568,Home,Alone,1,1,0,1
+16811,Home,Alone,1,0,1,0
+20213,No Urgent Place,Alone,0,0,0,1
+12873,No Urgent Place,Friend(s),0,0,0,1
+12768,No Urgent Place,Kid(s),1,0,0,1
+10110,No Urgent Place,Alone,0,0,0,1
+21808,No Urgent Place,Alone,1,0,0,1
+17085,No Urgent Place,Alone,1,0,0,1
+11131,No Urgent Place,Kid(s),1,0,0,1
+13006,No Urgent Place,Friend(s),1,0,0,1
+18119,Home,Partner,1,0,0,1
+14880,No Urgent Place,Kid(s),1,0,0,1
+10728,No Urgent Place,Friend(s),1,0,0,1
+13463,Home,Alone,0,0,0,1
+15174,No Urgent Place,Friend(s),1,0,0,1
+20394,Home,Alone,0,0,0,1
+17076,Home,Alone,1,0,1,0
+12261,No Urgent Place,Alone,0,0,0,1
+22206,Home,Kid(s),1,0,0,1
+19800,No Urgent Place,Partner,0,0,0,1
+19039,Work,Alone,1,0,1,0
+18208,Work,Alone,1,1,0,1
+19295,No Urgent Place,Friend(s),1,0,0,1
+19971,No Urgent Place,Partner,0,0,0,1
+20338,No Urgent Place,Alone,1,0,0,1
+15233,Work,Alone,1,0,1,0
+17425,No Urgent Place,Friend(s),1,0,0,1
+11067,No Urgent Place,Partner,0,0,0,1
+13088,Work,Alone,1,0,0,1
+12140,No Urgent Place,Friend(s),0,0,0,1
+14576,No Urgent Place,Partner,0,0,0,1
+16655,Home,Partner,1,0,0,1
+11537,Home,Alone,1,0,0,1
+11015,No Urgent Place,Friend(s),1,0,0,1
+16201,No Urgent Place,Partner,0,0,0,1
+20757,No Urgent Place,Alone,1,0,0,1
+11242,No Urgent Place,Friend(s),1,0,0,1
+12682,Home,Alone,1,0,0,1
+19121,Home,Kid(s),1,0,1,0
+10865,No Urgent Place,Partner,0,0,0,1
+15740,Work,Alone,1,0,0,1
+15888,Home,Alone,0,0,1,0
+16984,No Urgent Place,Friend(s),1,0,0,1
+21160,Home,Alone,0,0,0,1
+18873,No Urgent Place,Friend(s),1,0,0,1
+11274,Home,Alone,0,0,0,1
+11478,Work,Alone,1,0,0,1
+11930,No Urgent Place,Friend(s),1,0,0,1
+11966,No Urgent Place,Friend(s),1,0,0,1
+22374,No Urgent Place,Friend(s),0,0,0,1
+18137,Home,Alone,0,0,1,0
+22528,No Urgent Place,Friend(s),0,0,0,1
+11701,No Urgent Place,Friend(s),1,0,0,1
+21211,Work,Alone,0,0,1,0
+19696,Home,Alone,1,1,0,1
+18017,No Urgent Place,Friend(s),1,0,0,1
+17037,Work,Alone,1,1,0,1
+18290,Home,Alone,1,0,0,1
+17125,Work,Alone,1,1,0,1
+12972,No Urgent Place,Kid(s),1,0,0,1
+10545,No Urgent Place,Alone,0,0,0,1
+18899,Home,Alone,0,0,1,0
+17194,Work,Alone,0,0,1,0
+12523,No Urgent Place,Kid(s),1,0,0,1
+12158,Work,Alone,0,0,1,0
+21140,Work,Alone,0,0,1,0
+16355,No Urgent Place,Partner,0,0,0,1
+17433,Work,Alone,1,1,0,1
+16093,No Urgent Place,Friend(s),1,0,0,1
+10133,No Urgent Place,Friend(s),0,0,0,1
+19945,No Urgent Place,Friend(s),1,0,0,1
+12318,No Urgent Place,Friend(s),1,0,0,1
+18641,Home,Alone,1,0,0,1
+21463,No Urgent Place,Kid(s),1,0,0,1
+17145,Home,Alone,0,0,1,0
+19530,Work,Alone,1,1,0,1
+10765,No Urgent Place,Alone,0,0,0,1
+15866,Home,Alone,0,0,1,0
+17025,No Urgent Place,Friend(s),1,0,0,1
+21697,No Urgent Place,Alone,1,0,0,1
+17203,No Urgent Place,Friend(s),1,0,0,1
+11853,No Urgent Place,Alone,0,0,0,1
+21918,No Urgent Place,Alone,0,0,0,1
+12104,No Urgent Place,Friend(s),1,0,0,1
+19706,Work,Alone,1,0,1,0
+13056,No Urgent Place,Kid(s),1,0,0,1
+18387,No Urgent Place,Friend(s),0,0,0,1
+11813,No Urgent Place,Friend(s),1,0,0,1
+13092,No Urgent Place,Alone,0,0,0,1
+15572,No Urgent Place,Kid(s),1,0,0,1
+16000,Work,Alone,1,1,0,1
+14322,Work,Alone,1,0,0,1
+10098,No Urgent Place,Friend(s),0,0,0,1
+12074,No Urgent Place,Friend(s),0,0,0,1
+17114,No Urgent Place,Friend(s),1,0,0,1
+13605,No Urgent Place,Friend(s),1,0,0,1
+16582,No Urgent Place,Kid(s),0,0,0,1
+20430,No Urgent Place,Friend(s),1,0,0,1
+13363,No Urgent Place,Friend(s),1,0,0,1
+15421,Home,Alone,0,0,0,1
+10443,Home,Alone,0,0,1,0
+20083,No Urgent Place,Alone,1,0,0,1
+11063,No Urgent Place,Partner,0,0,0,1
+16281,No Urgent Place,Friend(s),1,0,0,1
+19668,No Urgent Place,Friend(s),1,0,0,1
+11166,No Urgent Place,Partner,0,0,0,1
+20444,Work,Alone,0,0,0,1
+18547,No Urgent Place,Partner,1,0,0,1
+18396,No Urgent Place,Friend(s),1,0,0,1
+15480,No Urgent Place,Friend(s),1,0,0,1
+11989,No Urgent Place,Friend(s),1,0,0,1
+11429,Work,Alone,1,1,0,1
+18675,No Urgent Place,Friend(s),0,0,0,1
+11200,No Urgent Place,Friend(s),1,0,0,1
+22060,Work,Alone,0,0,0,1
+16996,Work,Alone,0,0,1,0
+13896,No Urgent Place,Friend(s),0,0,0,1
+22521,Work,Alone,0,0,1,0
+13055,No Urgent Place,Kid(s),1,0,0,1
+12557,Work,Alone,0,0,1,0
+12541,No Urgent Place,Friend(s),1,0,0,1
+19287,Work,Alone,1,0,0,1
+21374,No Urgent Place,Alone,0,0,0,1
+21286,No Urgent Place,Alone,1,0,0,1
+21522,No Urgent Place,Friend(s),0,0,0,1
+17006,No Urgent Place,Friend(s),1,0,0,1
+14974,Home,Alone,0,0,1,0
+21793,Home,Alone,0,0,0,1
+15943,No Urgent Place,Friend(s),0,0,0,1
+15443,Home,Alone,0,0,0,1
+13903,Home,Alone,0,0,0,1
+12533,Work,Alone,1,1,0,1
+15707,No Urgent Place,Partner,1,0,0,1
+12729,Work,Alone,1,1,0,1
+14304,Work,Alone,1,0,0,1
+18283,No Urgent Place,Friend(s),0,0,0,1
+20859,No Urgent Place,Partner,0,0,0,1
+13446,Work,Alone,0,0,0,1
+18699,No Urgent Place,Friend(s),1,0,0,1
+18438,No Urgent Place,Friend(s),1,0,0,1
+16900,Home,Alone,1,0,1,0
+12617,Home,Alone,0,0,1,0
+10829,Work,Alone,1,0,0,1
+11755,No Urgent Place,Alone,0,0,0,1
+16571,Home,Alone,0,0,1,0
+12111,Work,Alone,1,1,0,1
+13555,Work,Alone,0,0,1,0
+19290,Work,Alone,1,1,0,1
+19881,No Urgent Place,Friend(s),1,0,0,1
+10135,No Urgent Place,Friend(s),1,0,0,1
+18585,No Urgent Place,Friend(s),1,0,0,1
+21212,No Urgent Place,Friend(s),0,0,0,1
+18788,No Urgent Place,Partner,1,0,0,1
+10649,Work,Alone,1,1,0,1
+15105,No Urgent Place,Alone,0,0,0,1
+18358,Home,Partner,0,0,1,0
+13635,No Urgent Place,Friend(s),1,0,0,1
+14711,Home,Alone,0,0,0,1
+14542,Work,Alone,1,1,0,1
+14280,Work,Alone,1,1,0,1
+21904,Home,Alone,0,0,0,1
+12656,No Urgent Place,Kid(s),1,0,0,1
+17642,No Urgent Place,Alone,0,0,0,1
+20069,Home,Alone,1,0,0,1
+14043,No Urgent Place,Friend(s),1,0,0,1
+18958,No Urgent Place,Friend(s),1,0,0,1
+11669,Home,Alone,1,0,0,1
+13254,No Urgent Place,Friend(s),1,0,0,1
+18128,No Urgent Place,Friend(s),0,0,0,1
+20227,Work,Alone,1,0,1,0
+17646,No Urgent Place,Friend(s),1,0,0,1
+19877,Work,Alone,1,0,1,0
+22421,No Urgent Place,Alone,1,0,0,1
+19132,Work,Alone,1,0,1,0
+18344,No Urgent Place,Friend(s),1,0,0,1
+10412,No Urgent Place,Friend(s),1,0,0,1
+10131,Work,Alone,1,0,0,1
+15800,Home,Alone,0,0,1,0
+21656,No Urgent Place,Kid(s),0,0,0,1
+11549,No Urgent Place,Friend(s),0,0,0,1
+15782,Work,Alone,1,1,0,1
+21406,Work,Alone,0,0,0,1
+14204,No Urgent Place,Partner,0,0,0,1
+18463,No Urgent Place,Kid(s),1,0,0,1
+16965,No Urgent Place,Partner,1,0,0,1
+17761,No Urgent Place,Partner,0,0,0,1
+16929,Work,Alone,1,1,0,1
+10927,No Urgent Place,Friend(s),1,0,0,1
+14008,No Urgent Place,Kid(s),1,0,0,1
+15851,No Urgent Place,Alone,0,0,0,1
+12887,Home,Alone,0,0,0,1
+17119,No Urgent Place,Partner,1,0,0,1
+15458,No Urgent Place,Friend(s),1,0,0,1
+21172,No Urgent Place,Friend(s),0,0,0,1
+13664,Work,Alone,1,0,0,1
+16144,No Urgent Place,Partner,1,0,0,1
+11999,Home,Alone,1,0,0,1
+16347,No Urgent Place,Friend(s),1,0,0,1
+17369,Work,Alone,1,1,0,1
+15942,No Urgent Place,Friend(s),1,0,0,1
+16111,Work,Alone,1,1,0,1
+19649,No Urgent Place,Alone,1,0,0,1
+15451,Work,Alone,1,0,1,0
+15079,Work,Alone,1,0,1,0
+20226,Work,Alone,1,1,0,1
+10808,Work,Alone,1,0,0,1
+12965,No Urgent Place,Friend(s),1,0,0,1
+17561,No Urgent Place,Alone,0,0,0,1
+10445,Home,Alone,0,0,0,1
+17463,No Urgent Place,Alone,0,0,0,1
+20122,No Urgent Place,Friend(s),1,0,0,1
+22197,No Urgent Place,Friend(s),0,0,0,1
+21278,No Urgent Place,Friend(s),0,0,0,1
+20677,Home,Alone,1,1,0,1
+14976,Work,Alone,0,0,1,0
+19844,Home,Alone,1,1,0,1
+16333,Home,Alone,1,1,0,1
+18848,No Urgent Place,Friend(s),1,0,0,1
+10601,No Urgent Place,Alone,0,0,0,1
+20461,Home,Alone,1,1,0,1
+10511,Work,Alone,1,1,0,1
+22275,Home,Alone,0,0,1,0
+17138,No Urgent Place,Friend(s),1,0,0,1
+15668,Work,Alone,0,0,1,0
+21869,No Urgent Place,Friend(s),0,0,0,1
+15337,Home,Alone,0,0,0,1
+20318,No Urgent Place,Friend(s),1,0,0,1
+14564,Work,Alone,1,1,0,1
+22300,Work,Alone,0,0,0,1
+14809,No Urgent Place,Friend(s),1,0,0,1
+11405,Home,Alone,1,0,0,1
+20535,No Urgent Place,Alone,0,0,0,1
+20884,No Urgent Place,Friend(s),1,0,0,1
+21039,No Urgent Place,Friend(s),0,0,0,1
+18502,No Urgent Place,Friend(s),0,0,0,1
+16155,Home,Alone,0,0,1,0
+10610,Work,Alone,1,0,0,1
+10327,No Urgent Place,Friend(s),1,0,0,1
+15568,No Urgent Place,Friend(s),1,0,0,1
+13390,No Urgent Place,Partner,0,0,0,1
+12230,No Urgent Place,Friend(s),1,0,0,1
+16395,Home,Alone,0,0,1,0
+13405,No Urgent Place,Friend(s),0,0,0,1
+13624,No Urgent Place,Alone,0,0,0,1
+11335,No Urgent Place,Friend(s),0,0,0,1
+11936,Work,Alone,1,1,0,1
+22468,Home,Alone,0,0,0,1
+11311,No Urgent Place,Partner,0,0,0,1
+19027,No Urgent Place,Friend(s),1,0,0,1
+17179,No Urgent Place,Friend(s),1,0,0,1
+19309,Work,Alone,1,0,1,0
+16011,Home,Alone,0,0,1,0
+21590,Work,Alone,0,0,1,0
+19534,No Urgent Place,Friend(s),1,0,0,1
+17374,No Urgent Place,Friend(s),0,0,0,1
+19328,Home,Alone,1,1,0,1
+12463,No Urgent Place,Partner,0,0,0,1
+19664,No Urgent Place,Alone,1,0,0,1
+18377,Home,Alone,1,0,1,0
+10772,No Urgent Place,Friend(s),1,0,0,1
+13296,No Urgent Place,Friend(s),0,0,0,1
+10215,No Urgent Place,Alone,0,0,0,1
+16533,Work,Alone,1,0,1,0
+14526,No Urgent Place,Friend(s),1,0,0,1
+11890,Home,Alone,0,0,0,1
+15415,No Urgent Place,Friend(s),1,0,0,1
+15427,Home,Alone,1,0,1,0
+10077,No Urgent Place,Kid(s),1,0,0,1
+11269,No Urgent Place,Friend(s),0,0,0,1
+10839,No Urgent Place,Kid(s),1,0,0,1
+10413,No Urgent Place,Friend(s),1,0,0,1
+15332,No Urgent Place,Partner,1,0,0,1
+13653,No Urgent Place,Kid(s),1,0,0,1
+21472,Work,Alone,0,0,1,0
+15867,Home,Alone,0,0,1,0
+13603,No Urgent Place,Friend(s),0,0,0,1
+14058,Home,Alone,0,0,1,0
+17322,Work,Alone,1,1,0,1
+14625,Home,Alone,1,0,1,0
+17329,No Urgent Place,Kid(s),1,0,0,1
+19975,Home,Alone,0,0,1,0
+15217,No Urgent Place,Friend(s),1,0,0,1
+12262,Home,Alone,0,0,1,0
+21959,No Urgent Place,Friend(s),0,0,0,1
+22546,No Urgent Place,Friend(s),0,0,0,1
+15968,No Urgent Place,Partner,1,0,0,1
+16512,Work,Alone,0,0,1,0
+17611,No Urgent Place,Kid(s),1,0,0,1
+10368,No Urgent Place,Friend(s),1,0,0,1
+10930,No Urgent Place,Friend(s),1,0,0,1
+11100,No Urgent Place,Alone,0,0,0,1
+22467,Home,Alone,1,0,1,0
+21411,No Urgent Place,Friend(s),1,0,0,1
+10800,Home,Alone,0,0,1,0
+14818,Home,Alone,0,0,1,0
+15362,Home,Alone,0,0,1,0
+20699,Work,Alone,1,1,0,1
+13686,Work,Alone,1,0,0,1
+18468,Home,Partner,1,0,0,1
+13288,Work,Alone,1,1,0,1
+19616,Work,Alone,1,0,1,0
+22494,Home,Alone,0,0,1,0
+15877,No Urgent Place,Friend(s),0,0,0,1
+17459,No Urgent Place,Kid(s),1,0,0,1
+22385,Home,Alone,0,0,0,1
+20494,No Urgent Place,Alone,0,0,0,1
+15963,No Urgent Place,Friend(s),1,0,0,1
+13623,Work,Alone,1,0,0,1
+21595,No Urgent Place,Friend(s),0,0,0,1
+16224,No Urgent Place,Kid(s),1,0,0,1
+22116,No Urgent Place,Partner,1,0,0,1
+13076,No Urgent Place,Friend(s),1,0,0,1
+22422,No Urgent Place,Alone,0,0,0,1
+19153,Home,Alone,1,0,0,1
+11939,Work,Alone,0,0,0,1
+13902,Home,Alone,1,0,0,1
+16232,Work,Alone,1,0,1,0
+13807,No Urgent Place,Partner,0,0,0,1
+13831,No Urgent Place,Kid(s),1,0,0,1
+10641,No Urgent Place,Friend(s),0,0,0,1
+19858,No Urgent Place,Friend(s),1,0,0,1
+15414,No Urgent Place,Friend(s),1,0,0,1
+20735,Work,Alone,1,0,1,0
+13764,No Urgent Place,Kid(s),1,0,0,1
+12686,Work,Alone,1,0,0,1
+20320,No Urgent Place,Alone,0,0,0,1
+20118,Work,Alone,1,1,0,1
+11521,Work,Alone,0,0,0,1
+17838,No Urgent Place,Alone,1,0,0,1
+13918,No Urgent Place,Friend(s),0,0,0,1
+22681,Work,Alone,0,0,1,0
+15825,Work,Alone,1,0,1,0
+22492,Home,Alone,0,0,1,0
+21916,No Urgent Place,Alone,1,0,0,1
+20085,No Urgent Place,Alone,0,0,0,1
+10423,Home,Alone,1,0,0,1
+19004,No Urgent Place,Friend(s),1,0,0,1
+21139,Home,Alone,0,0,0,1
+12763,No Urgent Place,Kid(s),1,0,0,1
+12714,No Urgent Place,Friend(s),0,0,0,1
+13350,Work,Alone,1,0,0,1
+21773,Work,Alone,0,0,1,0
+11306,No Urgent Place,Friend(s),1,0,0,1
+19989,No Urgent Place,Friend(s),1,0,0,1
+12135,Work,Alone,1,0,0,1
+12974,Home,Alone,1,0,0,1
+21123,Work,Alone,0,0,1,0
+15831,No Urgent Place,Friend(s),1,0,0,1
+19298,No Urgent Place,Alone,1,0,0,1
+16370,No Urgent Place,Friend(s),1,0,0,1
+10648,Home,Alone,0,0,0,1
+13727,Home,Alone,0,0,0,1
+14762,Work,Alone,0,0,1,0
+12348,No Urgent Place,Kid(s),1,0,0,1
+19704,Work,Alone,0,0,1,0
+16869,No Urgent Place,Friend(s),1,0,0,1
+10989,Work,Alone,1,0,0,1
+18868,No Urgent Place,Alone,1,0,0,1
+14071,No Urgent Place,Kid(s),1,0,0,1
+12935,Work,Alone,0,0,1,0
+15274,Home,Alone,0,0,1,0
+17510,No Urgent Place,Friend(s),0,0,0,1
+14859,Home,Alone,0,0,1,0
+12087,Home,Alone,1,0,0,1
+16981,No Urgent Place,Friend(s),0,0,0,1
+22149,Work,Alone,0,0,1,0
+10791,No Urgent Place,Friend(s),1,0,0,1
+13011,No Urgent Place,Kid(s),1,0,0,1
+19529,Work,Alone,0,0,1,0
+16883,Work,Alone,1,1,0,1
+17445,No Urgent Place,Friend(s),1,0,0,1
+16436,Home,Alone,0,0,1,0
+10983,Home,Alone,0,0,0,1
+20915,Home,Alone,0,0,0,1
+16095,No Urgent Place,Friend(s),1,0,0,1
+21993,Home,Alone,0,0,1,0
+10840,No Urgent Place,Kid(s),0,0,0,1
+17535,No Urgent Place,Friend(s),1,0,0,1
+18184,Home,Alone,0,0,1,0
+14259,Work,Alone,0,0,1,0
+20712,Home,Kid(s),1,0,0,1
+13779,No Urgent Place,Friend(s),0,0,0,1
+13835,Home,Alone,0,0,1,0
+20838,Home,Alone,1,0,0,1
+16901,Home,Partner,0,0,0,1
+13010,No Urgent Place,Friend(s),1,0,0,1
+20921,Home,Partner,0,0,1,0
+16750,Work,Alone,0,0,0,1
+13095,No Urgent Place,Friend(s),1,0,0,1
+20777,No Urgent Place,Friend(s),1,0,0,1
+19342,No Urgent Place,Alone,1,0,0,1
+18260,No Urgent Place,Friend(s),1,0,0,1
+19833,Work,Alone,1,0,1,0
+15590,No Urgent Place,Friend(s),1,0,0,1
+15598,Home,Alone,1,1,0,1
+19693,Home,Alone,0,0,0,1
+15243,No Urgent Place,Partner,0,0,0,1
+10773,No Urgent Place,Friend(s),0,0,0,1
+11336,No Urgent Place,Friend(s),1,0,0,1
+13945,Home,Alone,0,0,1,0
+21457,No Urgent Place,Friend(s),1,0,0,1
+19821,Home,Alone,0,0,1,0
+13527,Home,Alone,0,0,1,0
+11412,Work,Alone,1,0,0,1
+10250,Home,Alone,0,0,1,0
+20304,Home,Kid(s),1,0,0,1
+18561,No Urgent Place,Kid(s),1,0,0,1
+11461,No Urgent Place,Friend(s),1,0,0,1
+16748,Work,Alone,1,1,0,1
+14988,No Urgent Place,Alone,1,0,0,1
+15017,Home,Alone,0,0,0,1
+20538,Home,Alone,0,0,1,0
+13392,No Urgent Place,Partner,1,0,0,1
+22604,Home,Alone,0,0,1,0
+12174,Home,Alone,0,0,1,0
+17871,No Urgent Place,Alone,0,0,0,1
+14801,Work,Alone,0,0,1,0
+16856,Home,Kid(s),1,0,0,1
+19629,No Urgent Place,Alone,0,0,0,1
+12810,No Urgent Place,Friend(s),0,0,0,1
+15671,Work,Alone,1,1,0,1
+20554,No Urgent Place,Alone,1,0,0,1
+18941,No Urgent Place,Kid(s),0,0,0,1
+15799,Home,Alone,1,1,0,1
+16920,No Urgent Place,Partner,1,0,0,1
+16667,Work,Alone,1,1,0,1
+16546,Home,Alone,0,0,0,1
+20801,No Urgent Place,Friend(s),0,0,0,1
+15152,No Urgent Place,Friend(s),1,0,0,1
+19251,No Urgent Place,Friend(s),1,0,0,1
+17210,Home,Alone,0,0,0,1
+12468,Work,Alone,1,1,0,1
+11636,No Urgent Place,Friend(s),1,0,0,1
+15730,Home,Alone,1,1,0,1
+11050,Work,Alone,1,1,0,1
+12128,No Urgent Place,Friend(s),1,0,0,1
+15694,Work,Alone,1,1,0,1
+13091,Work,Alone,1,0,0,1
+22052,Home,Kid(s),1,0,1,0
+15488,Home,Alone,0,0,1,0
+22659,Work,Alone,0,0,1,0
+14035,Home,Alone,0,0,1,0
+16840,Work,Alone,1,0,1,0
+12581,Work,Alone,1,0,0,1
+10072,No Urgent Place,Friend(s),1,0,0,1
+10577,No Urgent Place,Friend(s),0,0,0,1
+12372,Home,Alone,1,0,0,1
+20198,Home,Alone,1,1,0,1
+16398,Home,Alone,0,0,1,0
+19879,No Urgent Place,Friend(s),1,0,0,1
+10855,No Urgent Place,Partner,1,0,0,1
+20979,Home,Alone,1,0,1,0
+21941,No Urgent Place,Partner,0,0,0,1
+22418,No Urgent Place,Friend(s),1,0,0,1
+15002,Work,Alone,1,1,0,1
+10475,No Urgent Place,Friend(s),0,0,0,1
+13715,No Urgent Place,Friend(s),1,0,0,1
+12134,Work,Alone,1,1,0,1
+21362,Work,Alone,0,0,1,0
+17879,Work,Alone,1,1,0,1
+16678,Home,Alone,1,0,0,1
+16955,No Urgent Place,Friend(s),1,0,0,1
+15815,No Urgent Place,Kid(s),0,0,0,1
+10726,No Urgent Place,Friend(s),1,0,0,1
+18310,No Urgent Place,Partner,1,0,0,1
+19527,Work,Alone,1,0,0,1
+11066,No Urgent Place,Partner,1,0,0,1
+19184,No Urgent Place,Friend(s),1,0,0,1
+21395,No Urgent Place,Partner,0,0,0,1
+10107,Work,Alone,0,0,1,0
+19543,Home,Alone,1,1,0,1
+14678,No Urgent Place,Friend(s),1,0,0,1
+12793,Home,Alone,0,0,0,1
+14677,No Urgent Place,Alone,0,0,0,1
+14551,No Urgent Place,Kid(s),1,0,0,1
+13220,Home,Alone,1,0,0,1
+15844,Work,Alone,0,0,1,0
+18682,No Urgent Place,Alone,0,0,0,1
+10163,No Urgent Place,Friend(s),1,0,0,1
+20943,Home,Alone,0,0,1,0
+19592,Home,Alone,1,0,0,1
+12386,No Urgent Place,Alone,0,0,0,1
+13157,Home,Alone,1,0,0,1
+14337,Home,Alone,0,0,0,1
+12266,Work,Alone,1,1,0,1
+17287,No Urgent Place,Friend(s),0,0,0,1
+16221,No Urgent Place,Kid(s),1,0,0,1
+18141,Work,Alone,1,1,0,1
+13332,No Urgent Place,Alone,0,0,0,1
+15035,No Urgent Place,Partner,1,0,0,1
+17877,Work,Alone,1,1,0,1
+21165,Work,Alone,0,0,1,0
+12027,Work,Alone,0,0,0,1
+17633,Home,Alone,1,0,1,0
+18927,Home,Alone,1,0,0,1
+20903,Work,Alone,0,0,1,0
+19173,Home,Alone,1,1,0,1
+14240,No Urgent Place,Friend(s),1,0,0,1
+17453,Home,Alone,0,0,1,0
+20701,No Urgent Place,Alone,1,0,0,1
+16563,No Urgent Place,Friend(s),1,0,0,1
+15062,No Urgent Place,Friend(s),1,0,0,1
+10558,Home,Alone,0,0,1,0
+10723,No Urgent Place,Friend(s),0,0,0,1
+18151,No Urgent Place,Friend(s),1,0,0,1
+17887,No Urgent Place,Friend(s),1,0,0,1
+20483,Work,Alone,0,0,1,0
+10347,No Urgent Place,Friend(s),1,0,0,1
+11574,No Urgent Place,Friend(s),1,0,0,1
+18624,Work,Alone,1,1,0,1
+17661,Work,Alone,1,1,0,1
+15184,Home,Alone,0,0,1,0
+13318,No Urgent Place,Friend(s),1,0,0,1
+13554,Work,Alone,1,0,0,1
+22572,No Urgent Place,Friend(s),0,0,0,1
+12474,No Urgent Place,Alone,0,0,0,1
+20866,Home,Alone,1,0,1,0
+15470,Home,Alone,0,0,1,0
+18515,Work,Alone,1,1,0,1
+11116,Work,Alone,1,1,0,1
+14575,No Urgent Place,Partner,0,0,0,1
+18566,No Urgent Place,Friend(s),1,0,0,1
+19284,Home,Alone,1,0,0,1
+17146,Home,Partner,1,0,0,1
+17783,No Urgent Place,Friend(s),1,0,0,1
+22549,No Urgent Place,Friend(s),0,0,0,1
+20734,Home,Alone,1,0,0,1
+10070,No Urgent Place,Friend(s),1,0,0,1
+15078,Work,Alone,0,0,1,0
+20945,Work,Alone,0,0,1,0
+22369,Work,Alone,0,0,1,0
+22158,No Urgent Place,Alone,0,0,0,1
+12563,No Urgent Place,Friend(s),1,0,0,1
+20418,Home,Partner,0,0,1,0
+15167,Work,Alone,1,0,1,0
+11873,Work,Alone,0,0,0,1
+20060,No Urgent Place,Alone,1,0,0,1
+18496,No Urgent Place,Kid(s),1,0,0,1
+18079,Work,Alone,0,0,1,0
+16454,No Urgent Place,Friend(s),1,0,0,1
+19103,Home,Alone,1,1,0,1
+14395,No Urgent Place,Alone,1,0,0,1
+11912,Home,Alone,0,0,0,1
+17748,Work,Alone,1,1,0,1
+16290,No Urgent Place,Partner,1,0,0,1
+20764,Home,Alone,1,1,0,1
+16586,No Urgent Place,Friend(s),0,0,0,1
+10760,Work,Alone,1,1,0,1
+15938,Work,Alone,1,0,0,1
+17538,No Urgent Place,Partner,1,0,0,1
+15407,Home,Alone,0,0,1,0
+16397,Home,Alone,0,0,1,0
+21736,No Urgent Place,Friend(s),1,0,0,1
+14803,Work,Alone,1,0,0,1
+15103,Work,Alone,0,0,1,0
+10362,Work,Alone,0,0,1,0
+13336,No Urgent Place,Friend(s),1,0,0,1
+19062,Work,Alone,1,0,1,0
+18792,No Urgent Place,Partner,1,0,0,1
+19612,Home,Alone,1,0,0,1
+18101,Work,Alone,0,0,1,0
+17598,Work,Alone,0,0,1,0
+12342,No Urgent Place,Friend(s),1,0,0,1
+15346,Work,Alone,1,0,0,1
+18774,Home,Alone,0,0,0,1
+20518,Home,Kid(s),1,0,0,1
+19797,No Urgent Place,Friend(s),1,0,0,1
+15705,No Urgent Place,Partner,0,0,0,1
+12253,No Urgent Place,Friend(s),0,0,0,1
+13525,No Urgent Place,Partner,0,0,0,1
+20752,Work,Alone,1,1,0,1
+22226,No Urgent Place,Partner,0,0,0,1
+17556,No Urgent Place,Kid(s),1,0,0,1
+14324,Work,Alone,1,1,0,1
+12995,Home,Alone,0,0,1,0
+19956,Home,Alone,0,0,1,0
+10355,No Urgent Place,Kid(s),1,0,0,1
+12926,No Urgent Place,Kid(s),0,0,0,1
+10858,No Urgent Place,Alone,0,0,0,1
+16723,Home,Alone,1,0,1,0
+20265,Home,Alone,1,1,0,1
+19237,Home,Alone,1,1,0,1
+10226,No Urgent Place,Partner,0,0,0,1
+18449,Work,Alone,1,1,0,1
+10733,No Urgent Place,Alone,0,0,0,1
+11641,No Urgent Place,Kid(s),1,0,0,1
+18378,Home,Alone,1,0,0,1
+11643,No Urgent Place,Kid(s),0,0,0,1
+16178,No Urgent Place,Partner,0,0,0,1
+14714,Home,Alone,0,0,1,0
+10725,No Urgent Place,Friend(s),0,0,0,1
+17489,No Urgent Place,Friend(s),1,0,0,1
+11086,No Urgent Place,Kid(s),1,0,0,1
+15781,Work,Alone,1,1,0,1
+19772,Work,Alone,1,0,1,0
+18972,Home,Alone,1,0,0,1
+22293,Home,Alone,0,0,0,1
+20017,No Urgent Place,Alone,1,0,0,1
+15595,Home,Alone,0,0,0,1
+22550,No Urgent Place,Friend(s),0,0,0,1
+13540,No Urgent Place,Friend(s),0,0,0,1
+19302,Home,Alone,0,0,1,0
+11000,No Urgent Place,Kid(s),0,0,0,1
+19030,No Urgent Place,Alone,0,0,0,1
+16617,Home,Alone,1,0,0,1
+15315,Home,Alone,0,0,0,1
+14823,Work,Alone,0,0,1,0
+11044,No Urgent Place,Partner,1,0,0,1
+20916,Home,Alone,0,0,1,0
+17406,Home,Alone,1,0,1,0
+22424,Home,Kid(s),1,0,1,0
+19703,Work,Alone,1,0,1,0
+17711,No Urgent Place,Friend(s),0,0,0,1
+20148,No Urgent Place,Partner,0,0,0,1
+13977,No Urgent Place,Friend(s),0,0,0,1
+11175,No Urgent Place,Friend(s),1,0,0,1
+22384,Home,Alone,0,0,1,0
+11599,No Urgent Place,Kid(s),0,0,0,1
+14577,No Urgent Place,Partner,1,0,0,1
+13767,No Urgent Place,Kid(s),1,0,0,1
+16334,Home,Alone,0,0,1,0
+15609,No Urgent Place,Alone,0,0,0,1
+17192,Work,Alone,1,1,0,1
+10547,No Urgent Place,Friend(s),0,0,0,1
+19388,No Urgent Place,Alone,0,0,0,1
+20220,Home,Alone,1,0,0,1
+12170,No Urgent Place,Friend(s),1,0,0,1
+18254,Work,Alone,0,0,1,0
+11759,Work,Alone,1,1,0,1
+22553,No Urgent Place,Partner,0,0,0,1
+21561,Home,Alone,0,0,0,1
+11604,Home,Alone,0,0,0,1
+15636,No Urgent Place,Alone,1,0,0,1
+15476,Work,Alone,0,0,1,0
+11460,No Urgent Place,Friend(s),1,0,0,1
+11856,No Urgent Place,Friend(s),1,0,0,1
+20365,No Urgent Place,Partner,0,0,0,1
+16781,No Urgent Place,Friend(s),1,0,0,1
+12146,No Urgent Place,Kid(s),1,0,0,1
+12547,No Urgent Place,Friend(s),1,0,0,1
+14277,Work,Alone,1,0,1,0
+16016,Home,Alone,0,0,1,0
+21429,Work,Alone,0,0,1,0
+14099,Home,Alone,0,0,1,0
+18537,Work,Alone,1,1,0,1
+14032,Home,Alone,0,0,0,1
+18244,No Urgent Place,Kid(s),0,0,0,1
+10208,Home,Alone,0,0,0,1
+21607,Work,Alone,0,0,1,0
+18556,Home,Alone,0,0,1,0
+11992,No Urgent Place,Partner,0,0,0,1
+18156,No Urgent Place,Partner,0,0,0,1
+20416,Home,Partner,0,0,1,0
+13164,No Urgent Place,Alone,0,0,0,1
+21091,Home,Alone,0,0,1,0
+14200,No Urgent Place,Partner,0,0,0,1
+21004,Home,Alone,1,0,0,1
+17644,No Urgent Place,Friend(s),0,0,0,1
+14311,Home,Alone,1,0,0,1
+16674,Home,Alone,0,0,1,0
+10122,No Urgent Place,Alone,0,0,0,1
+13219,Home,Alone,0,0,1,0
+13032,No Urgent Place,Friend(s),1,0,0,1
+19954,Home,Alone,0,0,1,0
+14897,No Urgent Place,Friend(s),1,0,0,1
+11251,Home,Alone,1,0,0,1
+13167,No Urgent Place,Friend(s),1,0,0,1
+13972,Work,Alone,1,0,0,1
+18559,Work,Alone,1,1,0,1
+17052,No Urgent Place,Partner,1,0,0,1
+20000,Home,Alone,0,0,1,0
+14361,Home,Alone,0,0,1,0
+21831,No Urgent Place,Partner,1,0,0,1
+16878,Home,Alone,0,0,0,1
+17735,No Urgent Place,Friend(s),1,0,0,1
+14239,No Urgent Place,Alone,0,0,0,1
+14634,No Urgent Place,Friend(s),1,0,0,1
+20680,Work,Alone,1,0,1,0
+17135,No Urgent Place,Friend(s),0,0,0,1
+21896,No Urgent Place,Alone,0,0,0,1
+11081,No Urgent Place,Friend(s),1,0,0,1
+14458,No Urgent Place,Friend(s),1,0,0,1
+11731,No Urgent Place,Partner,1,0,0,1
+18338,Work,Alone,1,1,0,1
+11689,No Urgent Place,Alone,0,0,0,1
+14770,No Urgent Place,Partner,0,0,0,1
+20053,Work,Alone,1,0,1,0
+20411,Home,Alone,0,0,0,1
+11277,Work,Alone,1,0,0,1
+19492,No Urgent Place,Friend(s),1,0,0,1
+12151,No Urgent Place,Kid(s),1,0,0,1
+10802,Home,Alone,0,0,0,1
+13636,No Urgent Place,Alone,0,0,0,1
+12828,No Urgent Place,Friend(s),1,0,0,1
+16839,Work,Alone,1,1,0,1
+20035,No Urgent Place,Alone,1,0,0,1
+17096,No Urgent Place,Alone,0,0,0,1
+18506,No Urgent Place,Kid(s),0,0,0,1
+16891,No Urgent Place,Partner,1,0,0,1
+11479,No Urgent Place,Alone,0,0,0,1
+12993,No Urgent Place,Friend(s),1,0,0,1
+17897,Home,Alone,0,0,0,1
+12518,No Urgent Place,Friend(s),1,0,0,1
+15164,Home,Alone,0,0,1,0
+21304,No Urgent Place,Friend(s),0,0,0,1
+12280,No Urgent Place,Friend(s),1,0,0,1
+18363,Work,Alone,0,0,1,0
+22636,No Urgent Place,Kid(s),1,0,0,1
+17225,No Urgent Place,Friend(s),1,0,0,1
+18495,No Urgent Place,Kid(s),1,0,0,1
+16250,Home,Alone,1,0,1,0
+22407,Home,Alone,0,0,1,0
+16970,Home,Alone,0,0,1,0
+22622,Home,Alone,1,0,1,0
+10166,No Urgent Place,Alone,0,0,0,1
+20739,Work,Alone,1,0,1,0
+16066,Work,Alone,1,1,0,1
+14558,Home,Alone,0,0,1,0
+18051,Home,Alone,0,0,0,1
+13310,Work,Alone,1,1,0,1
+15060,Work,Alone,1,0,0,1
+15118,Home,Alone,0,0,1,0
+19514,No Urgent Place,Alone,0,0,0,1
+18859,Home,Alone,0,0,1,0
+18457,No Urgent Place,Friend(s),0,0,0,1
+15886,Home,Alone,0,0,1,0
+11273,Home,Alone,1,0,0,1
+16986,No Urgent Place,Kid(s),0,0,0,1
+15575,No Urgent Place,Kid(s),1,0,0,1
+21525,No Urgent Place,Alone,0,0,0,1
+15910,Home,Alone,0,0,1,0
+21085,No Urgent Place,Alone,1,0,0,1
+20135,Home,Partner,0,0,1,0
+14767,No Urgent Place,Friend(s),1,0,0,1
+17120,Home,Alone,1,0,1,0
+12457,No Urgent Place,Friend(s),1,0,0,1
+19552,Work,Alone,1,1,0,1
+20644,No Urgent Place,Alone,1,0,0,1
+19191,No Urgent Place,Alone,0,0,0,1
+19857,No Urgent Place,Friend(s),1,0,0,1
+18608,No Urgent Place,Alone,1,0,0,1
+21760,No Urgent Place,Friend(s),0,0,0,1
+13911,No Urgent Place,Friend(s),0,0,0,1
+17651,No Urgent Place,Partner,0,0,0,1
+16782,No Urgent Place,Friend(s),0,0,0,1
+18013,Work,Alone,0,0,1,0
+16325,No Urgent Place,Friend(s),1,0,0,1
+12100,No Urgent Place,Friend(s),1,0,0,1
+13365,No Urgent Place,Friend(s),1,0,0,1
+10118,No Urgent Place,Friend(s),0,0,0,1
+12147,No Urgent Place,Kid(s),1,0,0,1
+10529,No Urgent Place,Friend(s),1,0,0,1
+14112,No Urgent Place,Friend(s),0,0,0,1
+13980,No Urgent Place,Friend(s),0,0,0,1
+13249,Work,Alone,1,0,0,1
+12913,Work,Alone,0,0,1,0
+13204,Work,Alone,0,0,0,1
+16802,No Urgent Place,Alone,0,0,0,1
+11558,Home,Alone,0,0,1,0
+13607,No Urgent Place,Friend(s),1,0,0,1
+13865,Work,Alone,1,0,0,1
+11697,Work,Alone,0,0,0,1
+10418,No Urgent Place,Partner,0,0,0,1
+18418,No Urgent Place,Partner,0,0,0,1
+10793,No Urgent Place,Friend(s),1,0,0,1
+22665,No Urgent Place,Friend(s),0,0,0,1
+13359,No Urgent Place,Alone,0,0,0,1
+11934,Home,Alone,0,0,0,1
+21761,No Urgent Place,Friend(s),0,0,0,1
+12085,No Urgent Place,Kid(s),1,0,0,1
+20098,No Urgent Place,Alone,1,0,0,1
+16476,No Urgent Place,Friend(s),1,0,0,1
+12013,No Urgent Place,Friend(s),1,0,0,1
+14505,No Urgent Place,Friend(s),0,0,0,1
+16505,No Urgent Place,Kid(s),1,0,0,1
+21480,No Urgent Place,Alone,1,0,0,1
+22552,No Urgent Place,Alone,0,0,0,1
+18595,No Urgent Place,Partner,1,0,0,1
+20105,No Urgent Place,Kid(s),0,0,0,1
+18905,Home,Partner,0,0,1,0
+17504,No Urgent Place,Kid(s),1,0,0,1
+10322,Work,Alone,1,0,0,1
+16141,No Urgent Place,Alone,1,0,0,1
+11874,Work,Alone,1,0,0,1
+17935,No Urgent Place,Friend(s),1,0,0,1
+16331,Home,Alone,0,0,1,0
+21579,Home,Alone,1,0,1,0
+20501,Home,Alone,1,0,0,1
+21114,Home,Alone,1,0,0,1
+13100,No Urgent Place,Kid(s),1,0,0,1
+16775,Work,Alone,0,0,0,1
+14010,Home,Alone,0,0,0,1
+12456,No Urgent Place,Friend(s),1,0,0,1
+15794,No Urgent Place,Partner,0,0,0,1
+12516,No Urgent Place,Alone,0,0,0,1
+18898,Home,Alone,0,0,0,1
+10229,Home,Alone,1,0,0,1
+10042,Work,Alone,0,0,0,1
+18726,No Urgent Place,Partner,1,0,0,1
+10403,Work,Alone,1,1,0,1
+20317,No Urgent Place,Friend(s),1,0,0,1
+12593,No Urgent Place,Friend(s),1,0,0,1
+19108,Work,Alone,1,1,0,1
+10342,Work,Alone,1,0,0,1
+19087,Work,Alone,1,0,1,0
+14602,Home,Alone,0,0,1,0
+19647,No Urgent Place,Friend(s),1,0,0,1
+15582,Work,Alone,0,0,1,0
+22574,No Urgent Place,Alone,0,0,0,1
+20882,No Urgent Place,Friend(s),0,0,0,1
+17356,No Urgent Place,Friend(s),1,0,0,1
+19717,Home,Alone,0,0,1,0
+16786,Home,Alone,0,0,1,0
+17825,No Urgent Place,Friend(s),1,0,0,1
+19223,Work,Alone,0,0,1,0
+20456,Home,Kid(s),1,0,1,0
+21758,No Urgent Place,Friend(s),1,0,0,1
+12228,No Urgent Place,Friend(s),0,0,0,1
+18736,Work,Alone,0,0,1,0
+21744,No Urgent Place,Partner,0,0,0,1
+22290,No Urgent Place,Alone,0,0,0,1
+12721,No Urgent Place,Friend(s),1,0,0,1
+10402,Home,Alone,0,0,0,1
+16062,Home,Alone,1,0,1,0
+20562,Home,Alone,1,0,0,1
+13630,No Urgent Place,Friend(s),1,0,0,1
+15772,Home,Alone,1,1,0,1
+20965,Home,Alone,0,0,1,0
+20602,No Urgent Place,Friend(s),1,0,0,1
+16282,No Urgent Place,Friend(s),1,0,0,1
+11480,No Urgent Place,Friend(s),0,0,0,1
+10390,No Urgent Place,Friend(s),1,0,0,1
+18367,No Urgent Place,Alone,1,0,0,1
+14479,No Urgent Place,Friend(s),1,0,0,1
+22348,No Urgent Place,Friend(s),0,0,0,1
+15301,Work,Alone,0,0,1,0
+12571,No Urgent Place,Kid(s),1,0,0,1
+13197,No Urgent Place,Partner,1,0,0,1
+15692,Work,Alone,1,0,0,1
+16733,Work,Alone,1,1,0,1
+20951,No Urgent Place,Friend(s),1,0,0,1
+10810,No Urgent Place,Friend(s),0,0,0,1
+15448,Home,Alone,0,0,1,0
+21162,Home,Alone,1,0,0,1
+13023,Work,Alone,0,0,1,0
+21661,No Urgent Place,Friend(s),0,0,0,1
+22682,Work,Alone,1,1,0,1
+11287,No Urgent Place,Friend(s),1,0,0,1
+21487,Home,Alone,0,0,1,0
+21894,No Urgent Place,Alone,1,0,0,1
+11760,Work,Alone,1,1,0,1
+16601,Work,Alone,0,0,0,1
+17657,Home,Partner,0,0,1,0
+14054,Home,Alone,0,0,0,1
+21687,Work,Alone,1,0,0,1
+16516,Work,Alone,1,0,0,1
+21057,Work,Alone,0,0,1,0
+13908,Work,Alone,0,0,0,1
+17153,No Urgent Place,Kid(s),1,0,0,1
+16374,Home,Alone,0,0,1,0
+13894,No Urgent Place,Friend(s),1,0,0,1
+20664,No Urgent Place,Friend(s),1,0,0,1
+12820,Work,Alone,0,0,0,1
+16790,Home,Kid(s),1,0,0,1
+10628,Work,Alone,1,1,0,1
+13263,Home,Alone,0,0,1,0
+14798,Home,Alone,0,0,1,0
+17248,No Urgent Place,Friend(s),1,0,0,1
+14376,No Urgent Place,Partner,0,0,0,1
+11563,Work,Alone,1,0,0,1
+16508,Home,Alone,0,0,1,0
+22356,No Urgent Place,Alone,1,0,0,1
+11839,No Urgent Place,Friend(s),0,0,0,1
+21977,No Urgent Place,Kid(s),0,0,0,1
+13697,No Urgent Place,Partner,0,0,0,1
+14405,Work,Alone,0,0,1,0
+10783,Work,Alone,1,0,0,1
+13809,No Urgent Place,Partner,0,0,0,1
+16131,Work,Alone,0,0,1,0
+16974,Work,Alone,0,0,1,0
+21055,Work,Alone,1,0,0,1
+17902,Work,Alone,1,1,0,1
+18360,Work,Alone,1,1,0,1
+17311,No Urgent Place,Friend(s),1,0,0,1
+13115,No Urgent Place,Friend(s),0,0,0,1
+17140,No Urgent Place,Kid(s),0,0,0,1
+14394,No Urgent Place,Friend(s),0,0,0,1
+19807,Work,Alone,1,0,1,0
+17479,Work,Alone,1,1,0,1
+18890,No Urgent Place,Alone,1,0,0,1
+21244,Home,Kid(s),1,0,1,0
+19377,Work,Alone,0,0,0,1
+15227,Home,Alone,0,0,0,1
+19250,No Urgent Place,Friend(s),1,0,0,1
+13723,No Urgent Place,Friend(s),1,0,0,1
+13259,No Urgent Place,Kid(s),1,0,0,1
+13329,Work,Alone,0,0,1,0
+19222,Work,Alone,1,0,1,0
+19395,Home,Alone,1,0,0,1
+16058,Home,Alone,0,0,1,0
+11039,No Urgent Place,Friend(s),1,0,0,1
+15953,Home,Alone,1,1,0,1
+11140,Work,Alone,1,0,0,1
+15185,Home,Alone,1,0,1,0
+13212,No Urgent Place,Friend(s),1,0,0,1
+16384,Work,Alone,1,0,0,1
+19634,Home,Alone,1,1,0,1
+17004,No Urgent Place,Friend(s),0,0,0,1
+10827,Work,Alone,0,0,1,0
+14578,Home,Alone,0,0,1,0
+13386,No Urgent Place,Friend(s),1,0,0,1
+13936,No Urgent Place,Friend(s),1,0,0,1
+10624,Home,Alone,0,0,1,0
+17174,No Urgent Place,Friend(s),0,0,0,1
+21792,Home,Alone,1,0,1,0
+17579,Work,Alone,1,1,0,1
+17881,Work,Alone,0,0,1,0
+10203,No Urgent Place,Friend(s),0,0,0,1
+15769,Home,Alone,1,0,0,1
+12944,No Urgent Place,Friend(s),1,0,0,1
+17927,No Urgent Place,Friend(s),0,0,0,1
+15629,Work,Alone,0,0,1,0
+16488,Work,Alone,0,0,1,0
+22639,Home,Partner,1,1,0,1
+19825,Home,Partner,0,0,1,0
+12552,Home,Alone,1,0,0,1
+10422,Home,Alone,0,0,1,0
+14596,No Urgent Place,Partner,1,0,0,1
+22082,Work,Alone,0,0,0,1
+11727,No Urgent Place,Friend(s),1,0,0,1
+17312,No Urgent Place,Friend(s),0,0,0,1
+19475,Home,Kid(s),1,0,1,0
+18582,Work,Alone,0,0,1,0
+17966,Work,Alone,1,1,0,1
+16003,Work,Alone,1,0,0,1
+13025,Work,Alone,1,0,0,1
+17223,No Urgent Place,Friend(s),0,0,0,1
+15176,No Urgent Place,Alone,1,0,0,1
+13658,No Urgent Place,Kid(s),1,0,0,1
+10921,Work,Alone,0,0,1,0
+12640,Home,Alone,0,0,0,1
+17631,No Urgent Place,Partner,0,0,0,1
+18658,No Urgent Place,Friend(s),1,0,0,1
+18528,No Urgent Place,Kid(s),0,0,0,1
+10551,No Urgent Place,Friend(s),1,0,0,1
+17577,Home,Alone,0,0,1,0
+12461,No Urgent Place,Partner,0,0,0,1
+13266,Work,Alone,1,1,0,1
+17925,Work,Alone,0,0,1,0
+17802,No Urgent Place,Friend(s),1,0,0,1
+15737,Work,Alone,1,1,0,1
+14664,No Urgent Place,Partner,0,0,0,1
+20167,No Urgent Place,Alone,1,0,0,1
+10234,Work,Alone,0,0,1,0
+21301,No Urgent Place,Friend(s),1,0,0,1
+18554,Home,Alone,0,0,0,1
+12936,Work,Alone,0,0,0,1
+11548,No Urgent Place,Friend(s),1,0,0,1
+16503,No Urgent Place,Kid(s),0,0,0,1
+16417,No Urgent Place,Kid(s),1,0,0,1
+19078,Home,Alone,0,0,0,1
+22649,No Urgent Place,Kid(s),1,0,0,1
+19442,Work,Alone,0,0,1,0
+21951,Work,Alone,0,0,1,0
+10321,Work,Alone,0,0,0,1
+19187,No Urgent Place,Friend(s),1,0,0,1
+10220,No Urgent Place,Friend(s),1,0,0,1
+18870,No Urgent Place,Friend(s),1,0,0,1
+20161,Work,Alone,0,0,1,0
+10410,No Urgent Place,Friend(s),0,0,0,1
+18253,Work,Alone,1,1,0,1
+11836,No Urgent Place,Friend(s),1,0,0,1
+11523,No Urgent Place,Alone,0,0,0,1
+16924,Home,Alone,0,0,0,1
+15661,Home,Alone,0,0,0,1
+21061,No Urgent Place,Friend(s),1,0,0,1
+19319,No Urgent Place,Friend(s),1,0,0,1
+14483,No Urgent Place,Alone,1,0,0,1
+12475,No Urgent Place,Friend(s),0,0,0,1
+10652,Work,Alone,0,0,1,0
+22524,No Urgent Place,Friend(s),0,0,0,1
+19817,No Urgent Place,Partner,0,0,0,1
+12544,No Urgent Place,Friend(s),1,0,0,1
+13114,No Urgent Place,Alone,0,0,0,1
+21511,Home,Alone,0,0,1,0
+19958,Home,Alone,1,1,0,1
+11878,No Urgent Place,Friend(s),1,0,0,1
+10099,No Urgent Place,Friend(s),1,0,0,1
+12497,No Urgent Place,Friend(s),1,0,0,1
+15620,Home,Alone,1,1,0,1
+19569,Home,Alone,1,1,0,1
+19324,Home,Alone,0,0,1,0
+10841,No Urgent Place,Kid(s),1,0,0,1
+16078,Home,Alone,0,0,0,1
+10237,No Urgent Place,Alone,0,0,0,1
+17614,Home,Alone,0,0,0,1
+21587,Work,Alone,0,0,0,1
+22651,Home,Kid(s),1,0,0,1
+11499,Work,Alone,0,0,0,1
+19584,No Urgent Place,Kid(s),1,0,0,1
+20729,No Urgent Place,Kid(s),1,0,0,1
+15112,Home,Alone,0,0,1,0
+12953,Home,Alone,0,0,0,1
+21642,No Urgent Place,Alone,0,0,0,1
+16709,Work,Alone,1,1,0,1
+14090,No Urgent Place,Friend(s),0,0,0,1
+21306,No Urgent Place,Alone,0,0,0,1
+14351,No Urgent Place,Partner,0,0,0,1
+21353,Home,Alone,1,0,1,0
+14024,No Urgent Place,Friend(s),0,0,0,1
+14812,No Urgent Place,Friend(s),0,0,0,1
+11428,Home,Alone,0,0,0,1
+17036,Work,Alone,1,1,0,1
+12784,No Urgent Place,Friend(s),1,0,0,1
+15170,Work,Alone,1,0,0,1
+11276,Work,Alone,1,1,0,1
+17904,No Urgent Place,Alone,1,0,0,1
+20721,Work,Alone,1,1,0,1
+14285,No Urgent Place,Friend(s),1,0,0,1
+20402,Work,Alone,1,1,0,1
+13449,No Urgent Place,Friend(s),0,0,0,1
+15751,No Urgent Place,Kid(s),1,0,0,1
+15198,No Urgent Place,Kid(s),1,0,0,1
+16442,Home,Alone,0,0,1,0
+13049,No Urgent Place,Friend(s),0,0,0,1
+20663,No Urgent Place,Alone,1,0,0,1
+15291,No Urgent Place,Partner,1,0,0,1
+20176,Home,Alone,0,0,0,1
+22144,Home,Alone,0,0,1,0
+15055,Work,Alone,1,0,1,0
+18236,No Urgent Place,Alone,1,0,0,1
+18394,No Urgent Place,Friend(s),1,0,0,1
+18481,No Urgent Place,Friend(s),1,0,0,1
+15484,Home,Alone,1,0,0,1
+17134,No Urgent Place,Friend(s),1,0,0,1
+21807,No Urgent Place,Friend(s),0,0,0,1
+12667,Work,Alone,1,0,0,1
+17256,Home,Partner,1,0,0,1
+11707,No Urgent Place,Kid(s),1,0,0,1
+15080,Work,Alone,1,1,0,1
+19926,No Urgent Place,Friend(s),1,0,0,1
+10950,No Urgent Place,Friend(s),1,0,0,1
+20454,No Urgent Place,Kid(s),0,0,0,1
+20178,Home,Alone,1,1,0,1
+19735,No Urgent Place,Friend(s),1,0,0,1
+16477,No Urgent Place,Friend(s),0,0,0,1
+19082,Home,Alone,1,0,0,1
+18464,Home,Alone,1,0,1,0
+10975,No Urgent Place,Kid(s),1,0,0,1
+19553,Work,Alone,1,0,1,0
+21673,Home,Partner,1,1,0,1
+11368,Work,Alone,1,0,0,1
+10377,No Urgent Place,Kid(s),1,0,0,1
+18660,No Urgent Place,Alone,0,0,0,1
+19622,No Urgent Place,Friend(s),1,0,0,1
+14671,Home,Alone,0,0,1,0
+16072,No Urgent Place,Friend(s),1,0,0,1
+16198,No Urgent Place,Partner,0,0,0,1
+10061,Work,Alone,1,1,0,1
+10661,No Urgent Place,Friend(s),1,0,0,1
+16988,Home,Alone,1,0,1,0
+18780,No Urgent Place,Alone,1,0,0,1
+18668,Work,Alone,1,1,0,1
+22589,Work,Alone,0,0,1,0
+11185,Home,Alone,0,0,1,0
+17106,Work,Alone,0,0,1,0
+17423,No Urgent Place,Friend(s),1,0,0,1
+21459,No Urgent Place,Friend(s),0,0,0,1
+15821,Home,Alone,1,1,0,1
+15290,No Urgent Place,Partner,0,0,0,1
+16252,Work,Alone,1,0,1,0
+20267,Work,Alone,1,0,1,0
+21284,No Urgent Place,Alone,0,0,0,1
+10745,No Urgent Place,Friend(s),1,0,0,1
+12589,No Urgent Place,Friend(s),1,0,0,1
+14797,Home,Alone,1,1,0,1
+19641,Work,Alone,1,0,1,0
+10902,No Urgent Place,Alone,0,0,0,1
+17011,Home,Alone,1,0,0,1
+20994,No Urgent Place,Friend(s),1,0,0,1
+15506,No Urgent Place,Partner,0,0,0,1
+10172,Work,Alone,1,0,0,1
+20427,No Urgent Place,Friend(s),1,0,0,1
+20647,No Urgent Place,Partner,0,0,0,1
+22279,Work,Alone,0,0,1,0
+20441,Work,Alone,1,0,1,0
+15655,No Urgent Place,Friend(s),1,0,0,1
+16490,Work,Alone,1,0,0,1
+17554,No Urgent Place,Kid(s),1,0,0,1
+19744,Home,Alone,1,0,0,1
+13822,No Urgent Place,Alone,0,0,0,1
+21131,No Urgent Place,Alone,0,0,0,1
+17672,No Urgent Place,Friend(s),1,0,0,1
+11835,No Urgent Place,Friend(s),0,0,0,1
+13238,No Urgent Place,Friend(s),0,0,0,1
+14636,No Urgent Place,Friend(s),1,0,0,1
+21868,No Urgent Place,Kid(s),0,0,0,1
+17515,No Urgent Place,Kid(s),1,0,0,1
+14745,No Urgent Place,Friend(s),1,0,0,1
+16139,No Urgent Place,Friend(s),1,0,0,1
+16238,No Urgent Place,Friend(s),1,0,0,1
+11434,Work,Alone,1,0,0,1
+12390,No Urgent Place,Friend(s),1,0,0,1
+14176,No Urgent Place,Friend(s),1,0,0,1
+18285,No Urgent Place,Friend(s),1,0,0,1
+14320,Work,Alone,0,0,1,0
+10029,No Urgent Place,Friend(s),1,0,0,1
+13506,Home,Alone,1,0,0,1
+21618,No Urgent Place,Friend(s),0,0,0,1
+21740,No Urgent Place,Alone,1,0,0,1
+18433,No Urgent Place,Alone,1,0,0,1
+16133,Work,Alone,1,1,0,1
+17847,No Urgent Place,Partner,1,0,0,1
+20785,Home,Alone,1,0,1,0
+22047,No Urgent Place,Friend(s),0,0,0,1
+13498,No Urgent Place,Friend(s),1,0,0,1
+20499,Home,Alone,1,1,0,1
+14482,No Urgent Place,Friend(s),0,0,0,1
+13417,Home,Alone,0,0,1,0
+11084,No Urgent Place,Friend(s),1,0,0,1
+17665,No Urgent Place,Alone,0,0,0,1
+16940,No Urgent Place,Friend(s),1,0,0,1
+14339,Home,Alone,1,1,0,1
+16138,No Urgent Place,Friend(s),1,0,0,1
+15945,No Urgent Place,Partner,0,0,0,1
+11192,Work,Alone,0,0,0,1
+14784,Work,Alone,0,0,1,0
+14338,Home,Alone,0,0,1,0
+16385,No Urgent Place,Alone,0,0,0,1
+12156,Work,Alone,1,1,0,1
+17819,No Urgent Place,Friend(s),1,0,0,1
+12369,No Urgent Place,Friend(s),1,0,0,1
+15987,No Urgent Place,Alone,1,0,0,1
+10859,No Urgent Place,Friend(s),0,0,0,1
+10795,No Urgent Place,Kid(s),1,0,0,1
+20830,No Urgent Place,Friend(s),0,0,0,1
+19601,No Urgent Place,Alone,1,0,0,1
+21343,Work,Alone,0,0,1,0
+12849,No Urgent Place,Friend(s),1,0,0,1
+21849,No Urgent Place,Friend(s),0,0,0,1
+17999,No Urgent Place,Friend(s),1,0,0,1
+20839,Home,Alone,1,1,0,1
+13099,No Urgent Place,Kid(s),1,0,0,1
+17434,Work,Alone,1,1,0,1
+19912,Home,Partner,1,1,0,1
+14415,No Urgent Place,Friend(s),1,0,0,1
+15936,Work,Alone,1,1,0,1
+14568,No Urgent Place,Friend(s),1,0,0,1
+10084,Work,Alone,1,0,0,1
+13328,Work,Alone,1,0,0,1
+21441,No Urgent Place,Partner,0,0,0,1
+16833,Home,Alone,1,0,1,0
+19069,No Urgent Place,Alone,1,0,0,1
+10497,No Urgent Place,Friend(s),1,0,0,1
+21589,Work,Alone,1,1,0,1
+14021,No Urgent Place,Friend(s),1,0,0,1
+17720,Home,Alone,0,0,1,0
+17948,No Urgent Place,Kid(s),1,0,0,1
+12648,No Urgent Place,Friend(s),0,0,0,1
+10456,No Urgent Place,Friend(s),0,0,0,1
+15494,Work,Alone,1,0,1,0
+18016,No Urgent Place,Alone,0,0,0,1
+12003,Work,Alone,1,0,0,1
+19259,Home,Alone,0,0,0,1
+17815,Work,Alone,0,0,1,0
+15597,Home,Alone,0,0,1,0
+16654,Home,Alone,0,0,1,0
+13750,Work,Alone,1,1,0,1
+20616,Work,Alone,0,0,0,1
+19946,No Urgent Place,Friend(s),1,0,0,1
+20612,Home,Alone,1,0,0,1
+17443,No Urgent Place,Friend(s),0,0,0,1
+15454,Work,Alone,1,1,0,1
+17516,Home,Alone,1,0,1,0
+14716,Work,Alone,0,0,1,0
+10557,No Urgent Place,Alone,0,0,0,1
+12295,No Urgent Place,Friend(s),1,0,0,1
+19349,Home,Alone,1,1,0,1
+19346,Home,Alone,0,0,1,0
+21550,No Urgent Place,Friend(s),1,0,0,1
+18937,No Urgent Place,Alone,1,0,0,1
+11501,No Urgent Place,Alone,0,0,0,1
+20268,Work,Alone,1,0,1,0
+10513,Work,Alone,1,0,0,1
+19380,No Urgent Place,Alone,1,0,0,1
+18072,Home,Alone,1,0,0,1
+12816,Work,Alone,1,1,0,1
+21404,Home,Partner,1,0,1,0
+21627,Home,Alone,0,0,0,1
+20507,Work,Alone,1,0,1,0
+18541,No Urgent Place,Friend(s),1,0,0,1
+19366,No Urgent Place,Alone,0,0,0,1
+16575,Home,Alone,0,0,1,0
+21095,Home,Alone,0,0,0,1
+12380,No Urgent Place,Friend(s),0,0,0,1
+10821,No Urgent Place,Kid(s),1,0,0,1
+11811,No Urgent Place,Friend(s),1,0,0,1
+15444,Home,Alone,1,1,0,1
+21454,No Urgent Place,Kid(s),0,0,0,1
+17848,No Urgent Place,Partner,0,0,0,1
+15912,Work,Alone,0,0,1,0
+20388,No Urgent Place,Kid(s),0,0,0,1
+21328,No Urgent Place,Alone,0,0,0,1
+20225,Work,Alone,0,0,1,0
+17427,Home,Alone,1,0,1,0
+21224,Home,Alone,0,0,1,0
+14662,No Urgent Place,Partner,1,0,0,1
+12285,Home,Alone,1,0,0,1
+19066,No Urgent Place,Alone,1,0,0,1
+20348,Home,Alone,0,0,1,0
+14867,Work,Alone,0,0,1,0
+17352,No Urgent Place,Friend(s),0,0,0,1
+19861,No Urgent Place,Friend(s),1,0,0,1
+12491,Work,Alone,0,0,1,0
+10769,No Urgent Place,Friend(s),0,0,0,1
+13531,Work,Alone,1,1,0,1
+20773,Work,Alone,0,0,1,0
+11424,No Urgent Place,Kid(s),1,0,0,1
+14531,No Urgent Place,Kid(s),0,0,0,1
+22142,Home,Alone,0,0,1,0
+12823,No Urgent Place,Friend(s),0,0,0,1
+21471,Work,Alone,0,0,0,1
+13154,No Urgent Place,Kid(s),1,0,0,1
+10758,Home,Alone,0,0,0,1
+15251,Home,Alone,1,1,0,1
+17144,Home,Alone,0,0,0,1
+21215,No Urgent Place,Friend(s),0,0,0,1
+19850,Work,Alone,1,0,1,0
+17495,Home,Alone,1,0,0,1
+21577,No Urgent Place,Partner,1,0,0,1
+12808,No Urgent Place,Friend(s),0,0,0,1
+17171,Work,Alone,1,1,0,1
+10621,No Urgent Place,Kid(s),0,0,0,1
+20900,Work,Alone,0,0,0,1
+12955,Work,Alone,1,1,0,1
+12323,No Urgent Place,Friend(s),1,0,0,1
+11673,Work,Alone,1,0,0,1
+10507,No Urgent Place,Partner,1,0,0,1
+11231,Work,Alone,1,1,0,1
+18975,Work,Alone,0,0,1,0
+20920,Home,Partner,1,0,1,0
+22046,No Urgent Place,Friend(s),1,0,0,1
+10706,No Urgent Place,Partner,0,0,0,1
+13580,No Urgent Place,Alone,0,0,0,1
+15230,Home,Alone,0,0,1,0
+20996,No Urgent Place,Friend(s),0,0,0,1
+13174,No Urgent Place,Partner,1,0,0,1
+15446,Home,Alone,1,1,0,1
+11882,No Urgent Place,Friend(s),1,0,0,1
+20204,Work,Alone,1,1,0,1
+15651,Work,Alone,0,0,1,0
+15339,Home,Alone,1,1,0,1
+14354,No Urgent Place,Partner,0,0,0,1
+20391,Home,Kid(s),1,0,1,0
+16060,Home,Alone,0,0,1,0
+15456,Work,Alone,1,0,0,1
+19672,No Urgent Place,Alone,0,0,0,1
+21693,No Urgent Place,Friend(s),1,0,0,1
+22343,Home,Alone,0,0,1,0
+15268,No Urgent Place,Kid(s),1,0,0,1
+10340,Work,Alone,0,0,1,0
+20340,No Urgent Place,Friend(s),1,0,0,1
+16137,No Urgent Place,Friend(s),1,0,0,1
+16506,Home,Alone,0,0,1,0
+18335,Home,Alone,0,0,0,1
+14222,No Urgent Place,Alone,1,0,0,1
+11848,Work,Alone,1,1,0,1
+22022,No Urgent Place,Friend(s),1,0,0,1
+10339,Work,Alone,1,0,0,1
+10913,No Urgent Place,Kid(s),1,0,0,1
+12296,No Urgent Place,Friend(s),1,0,0,1
+14740,Work,Alone,0,0,1,0
+22108,No Urgent Place,Friend(s),0,0,0,1
+11597,No Urgent Place,Kid(s),1,0,0,1
+22380,Home,Alone,0,0,0,1
+10537,Home,Alone,1,0,0,1
+13182,Work,Alone,1,0,0,1
+18091,No Urgent Place,Kid(s),0,0,0,1
+15667,Home,Alone,1,0,1,0
+11169,No Urgent Place,Partner,1,0,0,1
+18432,No Urgent Place,Kid(s),1,0,0,1
+12501,No Urgent Place,Friend(s),1,0,0,1
+10304,No Urgent Place,Friend(s),1,0,0,1
+11634,No Urgent Place,Friend(s),0,0,0,1
+20050,Work,Alone,1,0,1,0
+17214,Work,Alone,1,1,0,1
+20435,Home,Alone,0,0,1,0
+20065,Home,Alone,0,0,0,1
+12117,No Urgent Place,Alone,0,0,0,1
+21741,No Urgent Place,Alone,0,0,0,1
+22592,No Urgent Place,Friend(s),1,0,0,1
+16835,Home,Alone,1,0,0,1
+20422,Work,Alone,0,0,1,0
+19423,Work,Alone,1,0,1,0
+10876,Work,Alone,1,0,0,1
+21355,Home,Alone,0,0,1,0
+12136,Work,Alone,0,0,1,0
+15394,No Urgent Place,Friend(s),1,0,0,1
+13996,Work,Alone,0,0,0,1
+21376,Home,Kid(s),1,0,1,0
+18819,Home,Partner,1,0,0,1
+11350,No Urgent Place,Friend(s),1,0,0,1
+14858,Home,Alone,1,0,0,1
+15393,No Urgent Place,Friend(s),1,0,0,1
+22270,Home,Alone,1,0,1,0
+17015,Work,Alone,1,1,0,1
+20473,No Urgent Place,Alone,0,0,0,1
+12661,Home,Alone,0,0,0,1
+17752,No Urgent Place,Alone,0,0,0,1
+15701,No Urgent Place,Friend(s),0,0,0,1
+15633,No Urgent Place,Friend(s),1,0,0,1
+19118,No Urgent Place,Kid(s),0,0,0,1
+10767,No Urgent Place,Friend(s),0,0,0,1
+22140,Home,Alone,1,0,1,0
+12709,Work,Alone,0,0,1,0
+19231,No Urgent Place,Partner,0,0,0,1
+11145,No Urgent Place,Friend(s),0,0,0,1
+22064,No Urgent Place,Kid(s),0,0,0,1
+15293,Home,Alone,0,0,0,1
+11035,No Urgent Place,Friend(s),0,0,0,1
+21427,Home,Partner,0,0,1,0
+13467,Work,Alone,0,0,1,0
+22419,No Urgent Place,Friend(s),0,0,0,1
+19847,Home,Partner,0,0,1,0
+21448,Home,Partner,1,0,1,0
+17188,Home,Alone,0,0,0,1
+14195,No Urgent Place,Alone,0,0,0,1
+18542,No Urgent Place,Friend(s),0,0,0,1
+20840,Home,Alone,0,0,1,0
+10336,Home,Alone,0,0,0,1
+14127,Work,Alone,1,1,0,1
+15075,Home,Alone,1,1,0,1
+16590,Home,Alone,0,0,1,0
+15958,Work,Alone,1,1,0,1
+15512,Home,Alone,0,0,0,1
+16539,No Urgent Place,Friend(s),1,0,0,1
+12689,Work,Alone,1,0,0,1
+10634,No Urgent Place,Friend(s),0,0,0,1
+13622,Work,Alone,0,0,0,1
+22340,Home,Alone,0,0,0,1
+16377,Home,Alone,1,1,0,1
+20360,No Urgent Place,Alone,1,0,0,1
+16551,Home,Alone,0,0,1,0
+15368,Work,Alone,1,0,0,1
+10505,No Urgent Place,Partner,1,0,0,1
+18446,Home,Partner,1,0,0,1
+19359,No Urgent Place,Friend(s),1,0,0,1
+12374,Work,Alone,1,1,0,1
+14388,Work,Alone,0,0,1,0
+20726,No Urgent Place,Alone,1,0,0,1
+22263,No Urgent Place,Friend(s),1,0,0,1
+12645,Work,Alone,0,0,0,1
+18610,No Urgent Place,Friend(s),1,0,0,1
+19670,No Urgent Place,Alone,1,0,0,1
+17778,No Urgent Place,Friend(s),1,0,0,1
+12495,No Urgent Place,Friend(s),0,0,0,1
+21461,No Urgent Place,Alone,1,0,0,1
+22448,Home,Partner,1,1,0,1
+13145,No Urgent Place,Friend(s),1,0,0,1
+14866,Home,Alone,1,0,1,0
+22571,No Urgent Place,Friend(s),0,0,0,1
+10394,No Urgent Place,Friend(s),1,0,0,1
+14793,Home,Alone,0,0,1,0
+15556,Home,Alone,0,0,0,1
+12067,Work,Alone,1,1,0,1
+14499,Work,Alone,0,0,1,0
+16730,Work,Alone,1,0,1,0
+19021,Work,Alone,1,0,1,0
+12203,Work,Alone,0,0,0,1
+11409,Work,Alone,1,0,0,1
+13097,No Urgent Place,Friend(s),1,0,0,1
+20262,Home,Alone,0,0,0,1
+21382,Home,Alone,1,0,0,1
+12574,Home,Alone,1,0,0,1
+18799,Work,Alone,1,1,0,1
+20436,Home,Alone,0,0,0,1
+15110,No Urgent Place,Alone,1,0,0,1
+22590,No Urgent Place,Friend(s),0,0,0,1
+17162,No Urgent Place,Kid(s),0,0,0,1
+10572,No Urgent Place,Friend(s),1,0,0,1
+11307,No Urgent Place,Friend(s),1,0,0,1
+18981,No Urgent Place,Alone,1,0,0,1
+21679,Home,Alone,0,0,1,0
+11413,No Urgent Place,Alone,0,0,0,1
+19849,Home,Partner,0,0,1,0
+11379,No Urgent Place,Partner,1,0,0,1
+12704,Home,Alone,1,0,0,1
+22412,Work,Alone,1,1,0,1
+16218,No Urgent Place,Friend(s),0,0,0,1
+21161,Home,Alone,0,0,1,0
+11136,Home,Alone,1,0,0,1
+11297,Work,Alone,1,1,0,1
+17107,No Urgent Place,Alone,1,0,0,1
+18252,Work,Alone,1,1,0,1
+19594,Work,Alone,1,0,1,0
+12500,No Urgent Place,Friend(s),1,0,0,1
+10045,No Urgent Place,Friend(s),0,0,0,1
+19144,No Urgent Place,Alone,1,0,0,1
+10662,No Urgent Place,Partner,0,0,0,1
+19562,No Urgent Place,Kid(s),1,0,0,1
+12947,No Urgent Place,Kid(s),1,0,0,1
+12805,No Urgent Place,Friend(s),1,0,0,1
+10345,No Urgent Place,Friend(s),1,0,0,1
+18030,Home,Alone,0,0,1,0
+12675,No Urgent Place,Partner,0,0,0,1
+22635,No Urgent Place,Kid(s),0,0,0,1
+19270,No Urgent Place,Alone,1,0,0,1
+10424,Home,Alone,0,0,0,1
+14198,No Urgent Place,Friend(s),1,0,0,1
+14921,No Urgent Place,Friend(s),1,0,0,1
+14444,No Urgent Place,Partner,1,0,0,1
+11902,No Urgent Place,Friend(s),1,0,0,1
+19311,Work,Alone,0,0,0,1
+10595,No Urgent Place,Friend(s),1,0,0,1
+12520,No Urgent Place,Friend(s),1,0,0,1
+14397,Home,Alone,0,0,1,0
+22609,Work,Alone,1,0,0,1
+12522,No Urgent Place,Friend(s),1,0,0,1
+16175,No Urgent Place,Partner,0,0,0,1
+16787,Home,Alone,1,0,1,0
+16150,No Urgent Place,Kid(s),1,0,0,1
+15601,Home,Alone,1,0,1,0
+11539,Work,Alone,1,1,0,1
+13327,Work,Alone,1,1,0,1
+14434,No Urgent Place,Alone,0,0,0,1
+11911,Home,Alone,1,0,0,1
+18612,No Urgent Place,Friend(s),0,0,0,1
+16679,Home,Alone,1,0,1,0
+14693,Home,Alone,0,0,1,0
+12961,No Urgent Place,Friend(s),0,0,0,1
+14197,No Urgent Place,Friend(s),1,0,0,1
+13692,No Urgent Place,Friend(s),1,0,0,1
+10949,No Urgent Place,Friend(s),1,0,0,1
+10195,No Urgent Place,Friend(s),0,0,0,1
+11919,No Urgent Place,Alone,0,0,0,1
+15027,No Urgent Place,Alone,0,0,0,1
+13478,No Urgent Place,Kid(s),1,0,0,1
+22110,No Urgent Place,Friend(s),1,0,0,1
+13440,Home,Alone,1,0,0,1
+19058,Home,Alone,1,1,0,1
+18570,No Urgent Place,Friend(s),1,0,0,1
+16300,Work,Alone,0,0,1,0
+22105,Work,Alone,0,0,1,0
+11649,Work,Alone,1,1,0,1
+21912,No Urgent Place,Friend(s),1,0,0,1
+18018,No Urgent Place,Friend(s),0,0,0,1
+10586,Work,Alone,0,0,1,0
+10582,Home,Alone,0,0,0,1
+11233,Work,Alone,1,0,0,1
+22648,No Urgent Place,Alone,0,0,0,1
+14501,No Urgent Place,Alone,0,0,0,1
+22502,No Urgent Place,Friend(s),0,0,0,1
+13510,Work,Alone,1,0,0,1
+15402,Home,Alone,0,0,1,0
+10862,No Urgent Place,Friend(s),1,0,0,1
+17947,Work,Alone,0,0,1,0
+16471,Work,Alone,0,0,1,0
+13295,No Urgent Place,Friend(s),0,0,0,1
+16121,No Urgent Place,Partner,1,0,0,1
+10366,No Urgent Place,Friend(s),0,0,0,1
+18139,Home,Alone,0,0,0,1
+16717,No Urgent Place,Alone,0,0,0,1
+19348,Home,Alone,0,0,1,0
+16387,No Urgent Place,Friend(s),1,0,0,1
+12254,No Urgent Place,Friend(s),1,0,0,1
+17281,Work,Alone,1,1,0,1
+10730,No Urgent Place,Friend(s),1,0,0,1
+16166,Work,Alone,1,1,0,1
+21606,Home,Alone,0,0,0,1
+19933,Home,Alone,0,0,0,1
+11048,Home,Alone,1,0,0,1
+19541,Home,Alone,0,0,1,0
+22606,Work,Alone,0,0,1,0
+12209,No Urgent Place,Friend(s),1,0,0,1
+18230,Work,Alone,1,1,0,1
+19567,Home,Alone,0,0,1,0
+13050,No Urgent Place,Friend(s),1,0,0,1
+22315,Home,Alone,1,0,1,0
+21111,Home,Alone,1,0,1,0
+17905,No Urgent Place,Alone,0,0,0,1
+21205,Home,Alone,0,0,0,1
+10976,No Urgent Place,Kid(s),1,0,0,1
+15956,Work,Alone,0,0,1,0
+17526,No Urgent Place,Friend(s),0,0,0,1
+12692,No Urgent Place,Friend(s),1,0,0,1
+19043,Work,Alone,1,0,1,0
+19190,No Urgent Place,Alone,0,0,0,1
+14013,Home,Alone,0,0,1,0
+17781,No Urgent Place,Friend(s),1,0,0,1
+14419,No Urgent Place,Partner,1,0,0,1
+15853,No Urgent Place,Friend(s),1,0,0,1
+20432,No Urgent Place,Alone,1,0,0,1
+14292,No Urgent Place,Partner,0,0,0,1
+11495,Work,Alone,1,1,0,1
+18519,No Urgent Place,Kid(s),1,0,0,1
+16953,No Urgent Place,Alone,1,0,0,1
+14620,Home,Alone,1,1,0,1
+15505,No Urgent Place,Partner,0,0,0,1
+22153,No Urgent Place,Friend(s),1,0,0,1
+11842,No Urgent Place,Friend(s),1,0,0,1
+12178,Work,Alone,1,1,0,1
+22633,Work,Alone,0,0,1,0
+10616,No Urgent Place,Friend(s),1,0,0,1
+14799,Home,Alone,0,0,1,0
+16171,No Urgent Place,Friend(s),1,0,0,1
+15706,No Urgent Place,Partner,0,0,0,1
+20556,No Urgent Place,Alone,0,0,0,1
+19741,Home,Alone,0,0,1,0
+16419,Home,Alone,0,0,0,1
+20837,Home,Alone,0,0,1,0
+10979,No Urgent Place,Kid(s),1,0,0,1
+13128,Home,Alone,0,0,1,0
+11220,No Urgent Place,Friend(s),1,0,0,1
+18825,No Urgent Place,Friend(s),1,0,0,1
+10283,No Urgent Place,Friend(s),1,0,0,1
+18503,No Urgent Place,Friend(s),1,0,0,1
+14973,Home,Alone,0,0,1,0
+19620,No Urgent Place,Alone,1,0,0,1
+12141,No Urgent Place,Friend(s),1,0,0,1
+11534,No Urgent Place,Kid(s),1,0,0,1
+13255,No Urgent Place,Friend(s),1,0,0,1
+20615,Work,Alone,0,0,1,0
+15543,Work,Alone,1,0,0,1
+12988,No Urgent Place,Friend(s),1,0,0,1
+10845,Home,Alone,0,0,0,1
+13552,Work,Alone,1,1,0,1
+12070,Work,Alone,0,0,1,0
+15395,No Urgent Place,Friend(s),0,0,0,1
+13383,No Urgent Place,Friend(s),0,0,0,1
+19391,Home,Alone,0,0,0,1
+18587,No Urgent Place,Friend(s),0,0,0,1
+14982,Work,Alone,1,0,0,1
+12208,No Urgent Place,Friend(s),1,0,0,1
+12040,No Urgent Place,Kid(s),1,0,0,1
+13344,No Urgent Place,Kid(s),1,0,0,1
+22568,No Urgent Place,Friend(s),0,0,0,1
+15768,No Urgent Place,Alone,1,0,0,1
+15479,No Urgent Place,Friend(s),1,0,0,1
+20231,No Urgent Place,Alone,1,0,0,1
+13400,Work,Alone,1,0,0,1
+11624,Home,Alone,0,0,1,0
+17836,Work,Alone,1,1,0,1
+16480,Home,Alone,0,0,1,0
+10213,Work,Alone,0,0,0,1
+13587,No Urgent Place,Partner,0,0,0,1
+22245,No Urgent Place,Alone,0,0,0,1
+21308,No Urgent Place,Partner,1,0,0,1
+18454,No Urgent Place,Alone,1,0,0,1
+18555,Home,Partner,0,0,1,0
+17706,Work,Alone,0,0,1,0
+18564,No Urgent Place,Alone,1,0,0,1
+16286,No Urgent Place,Partner,0,0,0,1
+16448,Work,Alone,1,1,0,1
+12905,No Urgent Place,Friend(s),1,0,0,1
+16566,No Urgent Place,Partner,0,0,0,1
+17099,Home,Alone,1,0,0,1
+14470,Home,Alone,1,0,1,0
+12145,No Urgent Place,Friend(s),1,0,0,1
+18913,No Urgent Place,Friend(s),1,0,0,1
+19159,Work,Alone,1,0,1,0
+10659,No Urgent Place,Friend(s),1,0,0,1
+18179,No Urgent Place,Partner,1,0,0,1
+19305,Home,Alone,1,1,0,1
+13568,No Urgent Place,Friend(s),0,0,0,1
+12448,Work,Alone,1,0,0,1
+10140,No Urgent Place,Kid(s),1,0,0,1
+15182,Home,Alone,1,1,0,1
+13194,No Urgent Place,Partner,0,0,0,1
+10090,No Urgent Place,Friend(s),0,0,0,1
+11770,No Urgent Place,Friend(s),1,0,0,1
+20469,No Urgent Place,Alone,1,0,0,1
+16633,Home,Alone,1,0,1,0
+21780,No Urgent Place,Kid(s),0,0,0,1
+15294,Home,Alone,0,0,1,0
+18243,No Urgent Place,Friend(s),1,0,0,1
+14097,Home,Alone,0,0,1,0
+19374,Work,Alone,1,0,1,0
+22073,No Urgent Place,Kid(s),1,0,0,1
+15341,Home,Alone,0,0,1,0
+19075,Home,Kid(s),1,0,1,0
+12284,Home,Alone,0,0,1,0
+17464,No Urgent Place,Friend(s),1,0,0,1
+21451,Work,Alone,0,0,1,0
+15385,Work,Alone,1,0,1,0
+15993,Home,Alone,1,1,0,1
+14045,No Urgent Place,Friend(s),1,0,0,1
+12436,No Urgent Place,Friend(s),1,0,0,1
+12272,No Urgent Place,Friend(s),0,0,0,1
+11490,No Urgent Place,Partner,0,0,0,1
+11304,No Urgent Place,Friend(s),0,0,0,1
+19795,No Urgent Place,Alone,1,0,0,1
+16061,Home,Alone,0,0,1,0
+17741,No Urgent Place,Partner,1,0,0,1
+14370,No Urgent Place,Friend(s),1,0,0,1
+13171,No Urgent Place,Partner,0,0,0,1
+15113,Home,Alone,0,0,0,1
+14713,Home,Alone,1,1,0,1
+20517,Home,Kid(s),1,0,1,0
+15697,No Urgent Place,Alone,0,0,0,1
+22235,Work,Alone,0,0,0,1
+18897,No Urgent Place,Alone,0,0,0,1
+20486,No Urgent Place,Alone,1,0,0,1
+19713,No Urgent Place,Alone,1,0,0,1
+18946,Home,Alone,0,0,0,1
+19692,No Urgent Place,Alone,0,0,0,1
+10490,Work,Alone,1,1,0,1
+17540,No Urgent Place,Partner,1,0,0,1
+18613,No Urgent Place,Friend(s),1,0,0,1
+13239,No Urgent Place,Friend(s),1,0,0,1
+15804,Work,Alone,1,1,0,1
+14842,Home,Alone,0,0,1,0
+21249,Home,Alone,0,0,1,0
+14562,Work,Alone,0,0,1,0
+12450,Work,Alone,0,0,0,1
+10893,Home,Alone,0,0,1,0
+10201,No Urgent Place,Friend(s),0,0,0,1
+15585,Work,Alone,0,0,1,0
+16401,Work,Alone,1,0,1,0
+13508,Work,Alone,1,1,0,1
+19093,No Urgent Place,Alone,0,0,0,1
+18956,No Urgent Place,Alone,1,0,0,1
+11925,No Urgent Place,Friend(s),1,0,0,1
+18214,No Urgent Place,Friend(s),1,0,0,1
+20127,No Urgent Place,Alone,0,0,0,1
+11167,No Urgent Place,Partner,0,0,0,1
+14684,No Urgent Place,Kid(s),1,0,0,1
+22627,Home,Partner,1,1,0,1
+14393,No Urgent Place,Friend(s),1,0,0,1
+21386,Work,Alone,1,1,0,1
+17870,No Urgent Place,Friend(s),1,0,0,1
+16542,No Urgent Place,Friend(s),0,0,0,1
+10096,No Urgent Place,Friend(s),0,0,0,1
+19166,No Urgent Place,Alone,1,0,0,1
+20253,No Urgent Place,Alone,1,0,0,1
+16928,Work,Alone,1,1,0,1
+17894,No Urgent Place,Kid(s),1,0,0,1
+21034,Work,Alone,1,1,0,1
+11438,No Urgent Place,Friend(s),1,0,0,1
+18766,No Urgent Place,Friend(s),1,0,0,1
+11818,No Urgent Place,Kid(s),1,0,0,1
+19922,No Urgent Place,Alone,1,0,0,1
+22001,No Urgent Place,Friend(s),0,0,0,1
+19070,No Urgent Place,Alone,0,0,0,1
+19487,Work,Alone,1,0,1,0
+17928,No Urgent Place,Alone,0,0,0,1
+11493,Home,Alone,1,0,0,1
+20437,Home,Alone,0,0,1,0
+13364,No Urgent Place,Friend(s),0,0,0,1
+21109,No Urgent Place,Alone,0,0,0,1
+13987,No Urgent Place,Friend(s),1,0,0,1
+17889,No Urgent Place,Friend(s),0,0,0,1
+19869,Home,Alone,1,1,0,1
+22554,No Urgent Place,Partner,1,0,0,1
+14657,No Urgent Place,Friend(s),1,0,0,1
+10484,No Urgent Place,Friend(s),1,0,0,1
+21419,No Urgent Place,Partner,0,0,0,1
+16703,Work,Alone,1,1,0,1
+10352,No Urgent Place,Kid(s),1,0,0,1
+11600,No Urgent Place,Kid(s),1,0,0,1
+18984,No Urgent Place,Kid(s),0,0,0,1
+10458,No Urgent Place,Friend(s),1,0,0,1
+19435,Home,Alone,0,0,0,1
+20314,Work,Alone,1,1,0,1
+14134,No Urgent Place,Kid(s),1,0,0,1
+17696,No Urgent Place,Partner,1,0,0,1
+20331,Home,Alone,1,1,0,1
+16427,Work,Alone,0,0,1,0
+20533,No Urgent Place,Alone,1,0,0,1
+11591,No Urgent Place,Friend(s),1,0,0,1
+10654,Work,Alone,1,0,0,1
+10701,No Urgent Place,Friend(s),1,0,0,1
+12834,No Urgent Place,Kid(s),1,0,0,1
+13899,No Urgent Place,Friend(s),1,0,0,1
+11492,Home,Alone,0,0,1,0
+11300,Work,Alone,0,0,1,0
+11632,Work,Alone,1,0,0,1
+10736,Home,Alone,0,0,0,1
+22515,Home,Alone,1,0,0,1
+21870,No Urgent Place,Friend(s),1,0,0,1
+18412,No Urgent Place,Friend(s),0,0,0,1
+14885,Home,Alone,0,0,1,0
+17481,No Urgent Place,Alone,1,0,0,1
+15040,No Urgent Place,Kid(s),1,0,0,1
+14421,No Urgent Place,Partner,0,0,0,1
+13726,Home,Alone,1,0,0,1
+15939,No Urgent Place,Alone,0,0,0,1
+19742,Home,Alone,1,1,0,1
+11301,Work,Alone,0,0,0,1
+20798,No Urgent Place,Friend(s),0,0,0,1
+16612,Home,Alone,0,0,1,0
+17421,No Urgent Place,Friend(s),1,0,0,1
+13687,Work,Alone,0,0,1,0
+16433,No Urgent Place,Friend(s),0,0,0,1
+14941,No Urgent Place,Friend(s),1,0,0,1
+12881,No Urgent Place,Kid(s),1,0,0,1
+12132,Home,Alone,0,0,0,1
+21257,No Urgent Place,Friend(s),1,0,0,1
+13847,No Urgent Place,Friend(s),1,0,0,1
+19217,Home,Partner,0,0,1,0
+15561,Work,Alone,0,0,1,0
+10517,No Urgent Place,Friend(s),0,0,0,1
+13043,Work,Alone,1,1,0,1
+10298,Work,Alone,0,0,1,0
+15952,Home,Alone,0,0,1,0
+16207,Home,Alone,0,0,1,0
+10576,No Urgent Place,Friend(s),1,0,0,1
+12723,No Urgent Place,Friend(s),1,0,0,1
+13600,Work,Alone,0,0,0,1
+17010,Home,Alone,1,0,1,0
+20886,No Urgent Place,Friend(s),0,0,0,1
+20282,Home,Alone,0,0,1,0
+12045,Work,Alone,1,1,0,1
+19961,Work,Alone,1,0,1,0
+17805,No Urgent Place,Partner,1,0,0,1
+14268,Home,Alone,0,0,1,0
+18821,Work,Alone,1,1,0,1
+11083,No Urgent Place,Friend(s),1,0,0,1
+13129,Home,Alone,1,0,0,1
+14302,Work,Alone,1,1,0,1
+11443,No Urgent Place,Friend(s),0,0,0,1
+17893,No Urgent Place,Kid(s),0,0,0,1
+12986,No Urgent Place,Friend(s),0,0,0,1
+19012,Home,Alone,0,0,1,0
+16661,Home,Alone,0,0,0,1
+11525,No Urgent Place,Friend(s),1,0,0,1
+20932,No Urgent Place,Friend(s),0,0,0,1
+14418,No Urgent Place,Partner,0,0,0,1
+17492,No Urgent Place,Alone,0,0,0,1
+14231,Home,Alone,1,0,1,0
+19427,No Urgent Place,Friend(s),1,0,0,1
+18903,Home,Partner,0,0,1,0
+14561,Home,Alone,0,0,1,0
+12312,Work,Alone,0,0,1,0
+16222,No Urgent Place,Kid(s),0,0,0,1
+11047,Home,Alone,0,0,1,0
+21899,Home,Alone,0,0,0,1
+20825,Home,Partner,0,0,1,0
+22127,Work,Alone,0,0,1,0
+18275,Work,Alone,1,1,0,1
+11661,No Urgent Place,Friend(s),1,0,0,1
+20622,No Urgent Place,Friend(s),1,0,0,1
+19673,No Urgent Place,Alone,0,0,0,1
+20747,Home,Alone,0,0,1,0
+19326,Home,Alone,0,0,1,0
+16231,Work,Alone,0,0,1,0
+21626,Home,Alone,1,0,1,0
+18114,No Urgent Place,Kid(s),1,0,0,1
+15957,Work,Alone,1,0,1,0
+11147,No Urgent Place,Friend(s),1,0,0,1
+19838,No Urgent Place,Alone,0,0,0,1
+13279,No Urgent Place,Partner,0,0,0,1
+18339,Work,Alone,1,1,0,1
+12113,Work,Alone,1,0,0,1
+12079,No Urgent Place,Friend(s),1,0,0,1
+13804,No Urgent Place,Friend(s),1,0,0,1
+12264,Home,Alone,0,0,0,1
+19749,Work,Alone,1,1,0,1
+10526,No Urgent Place,Friend(s),1,0,0,1
+12835,Home,Alone,0,0,1,0
+11045,No Urgent Place,Partner,0,0,0,1
+14157,No Urgent Place,Partner,0,0,0,1
+10607,Work,Alone,1,0,0,1
+10307,No Urgent Place,Friend(s),1,0,0,1
+18973,Work,Alone,1,0,1,0
+21237,No Urgent Place,Friend(s),1,0,0,1
+15204,Home,Alone,0,0,1,0
+21534,Home,Alone,0,0,0,1
+17882,No Urgent Place,Kid(s),1,0,0,1
+21747,Home,Alone,0,0,1,0
+19064,Work,Alone,1,1,0,1
+21512,Home,Alone,0,0,0,1
+13720,No Urgent Place,Friend(s),0,0,0,1
+15513,Home,Alone,0,0,1,0
+21484,No Urgent Place,Partner,0,0,0,1
+10280,Work,Alone,1,0,0,1
+21791,Home,Partner,1,1,0,1
+13148,No Urgent Place,Friend(s),1,0,0,1
+14640,Home,Alone,0,0,1,0
+11602,Home,Alone,0,0,1,0
+22175,No Urgent Place,Friend(s),1,0,0,1
+20074,Work,Alone,1,1,0,1
+14212,Work,Alone,0,0,1,0
+21563,Home,Alone,1,0,0,1
+21536,Work,Alone,0,0,0,1
+14146,Work,Alone,0,0,1,0
+10482,No Urgent Place,Friend(s),1,0,0,1
+19918,Work,Alone,1,0,1,0
+19835,No Urgent Place,Friend(s),1,0,0,1
+16951,Work,Alone,1,1,0,1
+18447,Work,Alone,1,1,0,1
+18039,No Urgent Place,Friend(s),1,0,0,1
+16107,Home,Alone,0,0,1,0
+14600,Home,Alone,0,0,1,0
+21898,Home,Alone,1,0,1,0
+15517,Work,Alone,0,0,1,0
+13994,Work,Alone,1,0,0,1
+15109,No Urgent Place,Friend(s),0,0,0,1
+19486,Work,Alone,1,1,0,1
+11462,No Urgent Place,Friend(s),1,0,0,1
+19814,No Urgent Place,Friend(s),1,0,0,1
+18386,No Urgent Place,Alone,1,0,0,1
+14519,Work,Alone,1,0,1,0
+12035,No Urgent Place,Friend(s),1,0,0,1
+17238,Work,Alone,0,0,1,0
+10540,Work,Alone,1,1,0,1
+19360,No Urgent Place,Friend(s),1,0,0,1
+20183,Work,Alone,0,0,1,0
+12555,Work,Alone,1,1,0,1
+19915,Home,Partner,0,0,1,0
+13565,No Urgent Place,Friend(s),1,0,0,1
+18741,No Urgent Place,Alone,0,0,0,1
+16361,Home,Alone,0,0,1,0
+14120,Home,Alone,0,0,0,1
+10849,Work,Alone,0,0,1,0
+10244,No Urgent Place,Friend(s),1,0,0,1
+10210,Work,Alone,1,1,0,1
+13671,No Urgent Place,Friend(s),1,0,0,1
+15603,Work,Alone,1,0,1,0
+21425,Home,Partner,1,1,0,1
+19737,No Urgent Place,Alone,0,0,0,1
+15608,Work,Alone,1,0,0,1
+14573,No Urgent Place,Partner,0,0,0,1
+16020,Work,Alone,1,0,1,0
+11188,Work,Alone,1,1,0,1
+12821,Work,Alone,1,0,0,1
+18054,Work,Alone,1,1,0,1
+18940,No Urgent Place,Kid(s),0,0,0,1
+15749,No Urgent Place,Kid(s),0,0,0,1
+13702,No Urgent Place,Partner,1,0,0,1
+22111,No Urgent Place,Friend(s),0,0,0,1
+16145,No Urgent Place,Partner,0,0,0,1
+18413,No Urgent Place,Friend(s),1,0,0,1
+20541,Home,Alone,1,0,0,1
+18142,Work,Alone,1,1,0,1
+12001,Work,Alone,1,1,0,1
+18665,Home,Alone,0,0,1,0
+14929,Home,Alone,0,0,1,0
+18180,Home,Alone,1,0,1,0
+18055,Work,Alone,1,1,0,1
+18998,Work,Alone,1,1,0,1
+16090,Work,Alone,0,0,1,0
+11302,Work,Alone,1,0,0,1
+14928,No Urgent Place,Kid(s),1,0,0,1
+11068,No Urgent Place,Partner,1,0,0,1
+16982,No Urgent Place,Friend(s),0,0,0,1
+17012,Home,Alone,0,0,0,1
+16236,No Urgent Place,Alone,0,0,0,1
+17436,Work,Alone,0,0,1,0
+18700,No Urgent Place,Friend(s),1,0,0,1
+15884,Home,Alone,0,0,1,0
+13313,Work,Alone,0,0,1,0
+19631,Home,Alone,0,0,0,1
+17559,Home,Partner,1,0,0,1
+13956,No Urgent Place,Friend(s),0,0,0,1
+12799,Work,Alone,1,0,0,1
+22054,Home,Partner,1,1,0,1
+17307,No Urgent Place,Alone,0,0,0,1
+22305,No Urgent Place,Friend(s),0,0,0,1
+21565,Work,Alone,0,0,0,1
+18530,Home,Alone,1,0,1,0
+21316,Home,Partner,1,0,1,0
+19589,Home,Alone,0,0,1,0
+17447,No Urgent Place,Friend(s),1,0,0,1
+14050,No Urgent Place,Partner,0,0,0,1
+20654,Home,Partner,0,0,1,0
+17090,No Urgent Place,Friend(s),1,0,0,1
+21240,No Urgent Place,Friend(s),0,0,0,1
+12657,No Urgent Place,Kid(s),1,0,0,1
+20448,No Urgent Place,Friend(s),1,0,0,1
+16817,Work,Alone,1,1,0,1
+16274,Home,Alone,0,0,1,0
+16763,No Urgent Place,Partner,1,0,0,1
+15181,Home,Alone,0,0,1,0
+11212,Work,Alone,0,0,1,0
+16647,No Urgent Place,Friend(s),0,0,0,1
+18385,Work,Alone,0,0,1,0
+17710,No Urgent Place,Friend(s),1,0,0,1
+19332,Work,Alone,0,0,1,0
+16549,Home,Alone,1,1,0,1
+22519,Home,Partner,0,0,1,0
+18272,Home,Partner,1,0,0,1
+13315,Work,Alone,1,0,0,1
+11720,Work,Alone,1,0,0,1
+20574,No Urgent Place,Alone,0,0,0,1
+11054,Work,Alone,0,0,0,1
+17937,No Urgent Place,Alone,0,0,0,1
+10363,Work,Alone,0,0,0,1
+13387,No Urgent Place,Friend(s),1,0,0,1
+14533,No Urgent Place,Kid(s),1,0,0,1
+21277,Work,Alone,0,0,1,0
+15142,Work,Alone,0,0,1,0
+16991,Home,Alone,0,0,1,0
+18877,No Urgent Place,Alone,0,0,0,1
+15126,Work,Alone,1,0,0,1
+18844,Work,Alone,1,1,0,1
+18761,No Urgent Place,Friend(s),1,0,0,1
+11436,No Urgent Place,Friend(s),0,0,0,1
+20479,Home,Alone,1,0,0,1
+19700,Home,Partner,0,0,1,0
+12410,No Urgent Place,Friend(s),0,0,0,1
+21102,No Urgent Place,Friend(s),0,0,0,1
+11115,Home,Alone,0,0,0,1
+12797,Work,Alone,0,0,1,0
+22038,Work,Alone,0,0,1,0
+17018,Work,Alone,0,0,1,0
+22490,Home,Alone,1,0,1,0
+22584,Work,Alone,0,0,1,0
+10685,No Urgent Place,Kid(s),1,0,0,1
+14649,Work,Alone,1,0,1,0
+10879,Work,Alone,1,0,0,1
+14330,No Urgent Place,Friend(s),1,0,0,1
+19988,No Urgent Place,Alone,1,0,0,1
+19379,Work,Alone,1,0,1,0
+14775,Home,Alone,0,0,1,0
+11453,Work,Alone,1,0,0,1
+15536,Home,Alone,1,0,1,0
+19959,Home,Alone,1,0,0,1
+21616,No Urgent Place,Friend(s),1,0,0,1
+11585,Work,Alone,1,0,0,1
+10916,Home,Alone,1,0,0,1
+18753,Home,Alone,0,0,1,0
+13007,No Urgent Place,Friend(s),1,0,0,1
+18580,Work,Alone,1,1,0,1
+17961,Home,Alone,1,0,1,0
+16170,No Urgent Place,Alone,0,0,0,1
+21291,Home,Alone,1,1,0,1
+15397,No Urgent Place,Partner,0,0,0,1
+20205,Work,Alone,1,0,1,0
+12842,Work,Alone,0,0,0,1
+11099,Work,Alone,1,0,0,1
+17967,Work,Alone,1,1,0,1
+10049,No Urgent Place,Friend(s),1,0,0,1
+12779,No Urgent Place,Friend(s),0,0,0,1
+16467,Work,Alone,1,0,1,0
+11473,Work,Alone,1,1,0,1
+13226,Work,Alone,0,0,0,1
+14738,Work,Alone,1,1,0,1
+19632,Home,Alone,0,0,1,0
+21728,Home,Alone,0,0,0,1
+22192,Work,Alone,1,0,0,1
+16371,No Urgent Place,Friend(s),1,0,0,1
+15715,Work,Alone,1,0,1,0
+16119,No Urgent Place,Partner,0,0,0,1
+13778,No Urgent Place,Alone,0,0,0,1
+19623,No Urgent Place,Friend(s),1,0,0,1
+12691,No Urgent Place,Friend(s),0,0,0,1
+15311,No Urgent Place,Partner,0,0,0,1
+19464,Work,Alone,1,1,0,1
+17780,No Urgent Place,Friend(s),0,0,0,1
+13027,No Urgent Place,Friend(s),0,0,0,1
+11578,No Urgent Place,Friend(s),1,0,0,1
+11614,No Urgent Place,Friend(s),1,0,0,1
+14060,Work,Alone,1,0,1,0
+18227,Home,Alone,0,0,1,0
+10555,No Urgent Place,Friend(s),0,0,0,1
+12744,No Urgent Place,Friend(s),0,0,0,1
+21169,No Urgent Place,Friend(s),1,0,0,1
+13394,No Urgent Place,Partner,1,0,0,1
+21032,Work,Alone,0,0,1,0
+17533,No Urgent Place,Friend(s),1,0,0,1
+17512,No Urgent Place,Friend(s),1,0,0,1
+21359,Home,Alone,0,0,0,1
+18650,No Urgent Place,Friend(s),0,0,0,1
+17206,No Urgent Place,Kid(s),0,0,0,1
+22455,Work,Alone,0,0,1,0
+21542,No Urgent Place,Kid(s),0,0,0,1
+10469,Work,Alone,1,0,0,1
+16160,Home,Alone,0,0,1,0
+10644,No Urgent Place,Friend(s),1,0,0,1
+19722,Home,Alone,1,0,0,1
+12915,Work,Alone,1,0,0,1
+14658,No Urgent Place,Friend(s),1,0,0,1
+10349,No Urgent Place,Friend(s),1,0,0,1
+20565,Work,Alone,0,0,1,0
+14205,No Urgent Place,Partner,1,0,0,1
+21247,Home,Alone,1,0,1,0
+19450,No Urgent Place,Alone,0,0,0,1
+19518,Home,Alone,0,0,0,1
+13468,Work,Alone,0,0,0,1
+14690,Home,Alone,0,0,1,0
+20370,Home,Alone,1,1,0,1
+15069,No Urgent Place,Partner,0,0,0,1
+17136,No Urgent Place,Friend(s),0,0,0,1
+14228,Home,Alone,1,1,0,1
+18935,No Urgent Place,Friend(s),1,0,0,1
+17982,No Urgent Place,Kid(s),1,0,0,1
+22266,No Urgent Place,Alone,1,0,0,1
+21049,Home,Alone,1,1,0,1
+18294,Work,Alone,1,1,0,1
+12453,No Urgent Place,Friend(s),0,0,0,1
+15515,Home,Alone,0,0,1,0
+12903,No Urgent Place,Friend(s),1,0,0,1
+11983,Work,Alone,0,0,0,1
+18764,No Urgent Place,Friend(s),1,0,0,1
+16755,Work,Alone,0,0,1,0
+21875,No Urgent Place,Alone,0,0,0,1
+16916,No Urgent Place,Friend(s),1,0,0,1
+10392,No Urgent Place,Friend(s),1,0,0,1
+14813,No Urgent Place,Alone,1,0,0,1
+13663,Work,Alone,1,1,0,1
+15162,Home,Alone,0,0,1,0
+18291,Home,Alone,0,0,0,1
+22432,Work,Alone,0,0,0,1
+18170,No Urgent Place,Friend(s),0,0,0,1
+11734,Home,Alone,0,0,1,0
+21608,Work,Alone,0,0,0,1
+15261,No Urgent Place,Friend(s),1,0,0,1
+15262,No Urgent Place,Friend(s),1,0,0,1
+12576,Work,Alone,1,1,0,1
+12690,No Urgent Place,Alone,0,0,0,1
+17269,No Urgent Place,Partner,1,0,0,1
+15839,Home,Alone,0,0,1,0
+19252,No Urgent Place,Friend(s),1,0,0,1
+15504,No Urgent Place,Friend(s),0,0,0,1
+19413,Home,Alone,0,0,0,1
+10959,Home,Alone,0,0,1,0
+13828,No Urgent Place,Friend(s),1,0,0,1
+17067,No Urgent Place,Friend(s),0,0,0,1
+22383,Home,Alone,1,1,0,1
+13963,No Urgent Place,Friend(s),1,0,0,1
+10435,No Urgent Place,Friend(s),1,0,0,1
+15150,No Urgent Place,Friend(s),1,0,0,1
+19628,No Urgent Place,Alone,0,0,0,1
+18012,Work,Alone,1,1,0,1
+19803,Home,Alone,1,1,0,1
+13358,No Urgent Place,Friend(s),0,0,0,1
+15440,No Urgent Place,Alone,1,0,0,1
+20445,Work,Alone,1,1,0,1
+10619,No Urgent Place,Kid(s),1,0,0,1
+12143,No Urgent Place,Friend(s),1,0,0,1
+13877,No Urgent Place,Partner,0,0,0,1
+11134,No Urgent Place,Kid(s),1,0,0,1
+10901,Work,Alone,1,0,0,1
+17142,Home,Alone,1,0,1,0
+12042,Home,Alone,0,0,1,0
+17354,No Urgent Place,Friend(s),1,0,0,1
+17826,No Urgent Place,Friend(s),1,0,0,1
+14848,Work,Alone,1,1,0,1
+18305,No Urgent Place,Friend(s),1,0,0,1
+14334,No Urgent Place,Partner,0,0,0,1
+16995,Work,Alone,1,1,0,1
+20543,Work,Alone,1,0,1,0
+21245,Home,Kid(s),1,0,0,1
+21216,No Urgent Place,Friend(s),0,0,0,1
+16501,No Urgent Place,Kid(s),1,0,0,1
+21388,No Urgent Place,Friend(s),0,0,0,1
+10354,No Urgent Place,Kid(s),1,0,0,1
+15042,No Urgent Place,Kid(s),0,0,0,1
+14348,No Urgent Place,Friend(s),1,0,0,1
+18224,Home,Alone,0,0,1,0
+17499,Work,Alone,1,1,0,1
+14529,No Urgent Place,Kid(s),1,0,0,1
+14233,Work,Alone,1,0,1,0
+22012,Home,Alone,0,0,1,0
+15843,Home,Alone,1,0,1,0
+14864,Home,Alone,0,0,1,0
+17609,No Urgent Place,Friend(s),1,0,0,1
+14892,Work,Alone,1,0,1,0
+14883,No Urgent Place,Kid(s),1,0,0,1
+16914,No Urgent Place,Friend(s),1,0,0,1
+17127,Work,Alone,1,1,0,1
+14502,No Urgent Place,Friend(s),1,0,0,1
+16829,No Urgent Place,Kid(s),0,0,0,1
+15071,No Urgent Place,Partner,1,0,0,1
+17288,No Urgent Place,Friend(s),1,0,0,1
+12349,Home,Alone,0,0,1,0
+11037,No Urgent Place,Friend(s),1,0,0,1
+18376,No Urgent Place,Kid(s),1,0,0,1
+11846,Home,Alone,0,0,0,1
+21261,No Urgent Place,Alone,1,0,0,1
+18976,Work,Alone,1,1,0,1
+18269,Home,Alone,1,0,0,1
+17368,Work,Alone,1,1,0,1
+18000,No Urgent Place,Partner,1,0,0,1
+13004,No Urgent Place,Alone,0,0,0,1
+10273,Home,Alone,1,0,0,1
+19028,No Urgent Place,Alone,1,0,0,1
+21979,No Urgent Place,Friend(s),1,0,0,1
+21659,No Urgent Place,Friend(s),1,0,0,1
+11267,No Urgent Place,Friend(s),0,0,0,1
+15173,No Urgent Place,Friend(s),1,0,0,1
+17075,No Urgent Place,Partner,1,0,0,1
+12368,No Urgent Place,Friend(s),0,0,0,1
+18203,Home,Alone,1,0,0,1
+19025,No Urgent Place,Friend(s),1,0,0,1
+11832,No Urgent Place,Friend(s),0,0,0,1
+14944,No Urgent Place,Friend(s),0,0,0,1
+21439,No Urgent Place,Partner,0,0,0,1
+16289,No Urgent Place,Partner,0,0,0,1
+10144,No Urgent Place,Kid(s),1,0,0,1
+14463,Home,Alone,0,0,1,0
+17226,No Urgent Place,Friend(s),1,0,0,1
+10034,No Urgent Place,Alone,0,0,0,1
+12652,No Urgent Place,Friend(s),1,0,0,1
+18891,No Urgent Place,Friend(s),1,0,0,1
+10076,No Urgent Place,Kid(s),0,0,0,1
+13283,No Urgent Place,Partner,0,0,0,1
+15698,No Urgent Place,Friend(s),1,0,0,1
+10364,Work,Alone,1,0,0,1
+17449,No Urgent Place,Kid(s),1,0,0,1
+21640,No Urgent Place,Alone,1,0,0,1
+11190,Work,Alone,1,0,0,1
+20941,Home,Alone,0,0,1,0
+11077,Work,Alone,1,0,0,1
+10796,No Urgent Place,Kid(s),1,0,0,1
+19873,Work,Alone,1,0,1,0
+19581,No Urgent Place,Alone,0,0,0,1
+13286,Home,Alone,1,0,0,1
+16276,Work,Alone,1,0,1,0
+21207,Work,Alone,0,0,0,1
+17118,No Urgent Place,Partner,1,0,0,1
+11799,No Urgent Place,Kid(s),1,0,0,1
+13661,Home,Alone,0,0,0,1
+19266,Work,Alone,0,0,1,0
+14807,Work,Alone,1,0,0,1
+19531,Work,Alone,1,0,1,0
+12825,No Urgent Place,Friend(s),1,0,0,1
+14844,Home,Alone,1,0,1,0
+14924,No Urgent Place,Kid(s),1,0,0,1
+16621,Work,Alone,1,1,0,1
+21042,No Urgent Place,Alone,0,0,0,1
+19583,No Urgent Place,Kid(s),0,0,0,1
+22210,Home,Alone,0,0,1,0
+22567,Work,Alone,0,0,1,0
+19205,No Urgent Place,Friend(s),1,0,0,1
+15712,Home,Alone,0,0,1,0
+17700,Home,Alone,0,0,0,1
+12795,Work,Alone,1,1,0,1
+19544,Home,Partner,1,1,0,1
+12716,No Urgent Place,Friend(s),0,0,0,1
+11888,Home,Alone,0,0,1,0
+18989,Home,Kid(s),1,0,0,1
+10375,No Urgent Place,Kid(s),0,0,0,1
+17873,Home,Alone,0,0,1,0
+15526,No Urgent Place,Friend(s),0,0,0,1
+15373,No Urgent Place,Friend(s),0,0,0,1
+15159,No Urgent Place,Partner,1,0,0,1
+15252,Home,Alone,0,0,1,0
+14007,No Urgent Place,Kid(s),1,0,0,1
+21180,Home,Alone,1,0,0,1
+18907,Work,Alone,1,0,0,1
+10899,Work,Alone,0,0,1,0
+13067,Work,Alone,0,0,1,0
+18088,No Urgent Place,Friend(s),1,0,0,1
+15207,Home,Alone,1,1,0,1
+19788,Home,Alone,1,0,0,1
+17467,No Urgent Place,Friend(s),1,0,0,1
+19590,Home,Alone,1,1,0,1
+11457,No Urgent Place,Alone,0,0,0,1
+13143,No Urgent Place,Alone,0,0,0,1
+15755,Home,Alone,1,1,0,1
+14126,Work,Alone,1,0,1,0
+15648,Work,Alone,1,0,0,1
+12290,Work,Alone,0,0,1,0
+14152,No Urgent Place,Friend(s),1,0,0,1
+10898,Work,Alone,1,0,0,1
+14904,No Urgent Place,Kid(s),0,0,0,1
+17517,Home,Alone,1,0,0,1
+14025,No Urgent Place,Partner,0,0,0,1
+20261,Home,Kid(s),1,0,0,1
+13585,No Urgent Place,Friend(s),1,0,0,1
+21763,No Urgent Place,Alone,0,0,0,1
+14614,No Urgent Place,Friend(s),1,0,0,1
+21604,Home,Alone,1,1,0,1
+22430,Home,Alone,1,0,0,1
+21637,No Urgent Place,Friend(s),1,0,0,1
+12614,No Urgent Place,Kid(s),0,0,0,1
+14905,No Urgent Place,Kid(s),1,0,0,1
+12885,Home,Alone,0,0,1,0
+10000,No Urgent Place,Alone,0,0,0,1
+18150,No Urgent Place,Friend(s),0,0,0,1
+10502,No Urgent Place,Partner,0,0,0,1
+16082,Home,Alone,0,0,1,0
+21159,Home,Alone,1,0,1,0
+14984,No Urgent Place,Friend(s),1,0,0,1
+11203,No Urgent Place,Kid(s),1,0,0,1
+22464,No Urgent Place,Alone,0,0,0,1
+18826,No Urgent Place,Friend(s),1,0,0,1
+10256,Work,Alone,0,0,1,0
+22623,Home,Alone,0,0,0,1
+10734,Home,Alone,0,0,1,0
+22015,Home,Partner,0,0,1,0
+11722,No Urgent Place,Friend(s),0,0,0,1
+19411,No Urgent Place,Alone,0,0,0,1
+11858,No Urgent Place,Friend(s),1,0,0,1
+21523,No Urgent Place,Friend(s),0,0,0,1
+10094,No Urgent Place,Friend(s),1,0,0,1
+18882,Home,Alone,1,1,0,1
+10553,No Urgent Place,Friend(s),0,0,0,1
+13976,No Urgent Place,Alone,0,0,0,1
+15298,Work,Alone,0,0,1,0
+12734,No Urgent Place,Alone,0,0,0,1
+14410,Work,Alone,0,0,1,0
+18514,Work,Alone,1,1,0,1
+18959,No Urgent Place,Alone,1,0,0,1
+19230,No Urgent Place,Alone,0,0,0,1
+12764,No Urgent Place,Kid(s),1,0,0,1
+15714,Work,Alone,0,0,1,0
+21705,Home,Alone,0,0,1,0
+16065,Work,Alone,1,0,0,1
+13151,No Urgent Place,Kid(s),1,0,0,1
+13594,Home,Alone,1,0,0,1
+12109,Home,Alone,1,0,0,1
+14819,Home,Alone,1,1,0,1
+11057,No Urgent Place,Friend(s),0,0,0,1
+15226,Home,Alone,0,0,1,0
+14995,Home,Alone,0,0,1,0
+11149,No Urgent Place,Friend(s),1,0,0,1
+20470,No Urgent Place,Friend(s),1,0,0,1
+17184,No Urgent Place,Alone,0,0,0,1
+20711,Home,Kid(s),1,0,0,1
+20171,No Urgent Place,Kid(s),0,0,0,1
+21475,No Urgent Place,Friend(s),0,0,0,1
+14506,No Urgent Place,Partner,0,0,0,1
+15810,No Urgent Place,Friend(s),1,0,0,1
+10981,Home,Alone,0,0,1,0
+20216,Home,Alone,1,1,0,1
+16815,Home,Alone,0,0,0,1
+11218,No Urgent Place,Friend(s),1,0,0,1
+10942,Work,Alone,1,0,0,1
+19515,No Urgent Place,Partner,0,0,0,1
+20079,No Urgent Place,Friend(s),1,0,0,1
+20914,Home,Alone,1,0,1,0
+12101,No Urgent Place,Friend(s),1,0,0,1
+17473,Home,Alone,1,0,0,1
+15009,No Urgent Place,Friend(s),0,0,0,1
+10489,Work,Alone,1,1,0,1
+20681,Work,Alone,1,0,1,0
+10768,No Urgent Place,Friend(s),1,0,0,1
+17302,Work,Alone,1,1,0,1
+12962,No Urgent Place,Friend(s),1,0,0,1
+19281,Home,Alone,1,1,0,1
+19335,Work,Alone,1,0,1,0
+18620,Home,Alone,0,0,0,1
+19648,No Urgent Place,Alone,1,0,0,1
+13712,No Urgent Place,Alone,0,0,0,1
+13013,No Urgent Place,Kid(s),1,0,0,1
+20650,Home,Alone,0,0,1,0
+17168,Home,Partner,1,0,0,1
+14894,Work,Alone,0,0,1,0
+14412,No Urgent Place,Alone,0,0,0,1
+13360,No Urgent Place,Alone,0,0,0,1
+14171,Work,Alone,0,0,1,0
+20621,No Urgent Place,Friend(s),1,0,0,1
+11337,No Urgent Place,Alone,0,0,0,1
+19208,No Urgent Place,Alone,0,0,0,1
+21199,Home,Alone,1,0,1,0
+12029,No Urgent Place,Alone,0,0,0,1
+13504,No Urgent Place,Kid(s),1,0,0,1
+13667,Work,Alone,1,0,0,1
+13331,Work,Alone,1,0,0,1
+10600,No Urgent Place,Friend(s),1,0,0,1
+21405,Home,Partner,0,0,1,0
+18573,No Urgent Place,Kid(s),1,0,0,1
+11472,Home,Alone,0,0,0,1
+18709,Home,Partner,0,0,1,0
+10145,Home,Alone,0,0,1,0
+21017,No Urgent Place,Friend(s),0,0,0,1
+21545,Home,Kid(s),1,0,0,1
+16386,No Urgent Place,Friend(s),1,0,0,1
+19570,Home,Alone,1,0,0,1
+12622,Work,Alone,1,0,0,1
+20008,Work,Alone,1,1,0,1
+18840,Work,Alone,1,0,1,0
+12813,Home,Alone,0,0,1,0
+10643,No Urgent Place,Friend(s),0,0,0,1
+12138,Work,Alone,1,0,0,1
+11610,Work,Alone,1,0,0,1
+14407,Work,Alone,1,0,0,1
+18264,No Urgent Place,Friend(s),1,0,0,1
+13775,Work,Alone,0,0,1,0
+16694,No Urgent Place,Alone,0,0,0,1
+10509,Home,Alone,1,0,0,1
+20011,No Urgent Place,Friend(s),1,0,0,1
+12329,Home,Alone,0,0,0,1
+17042,No Urgent Place,Alone,0,0,0,1
+18596,Home,Alone,1,0,1,0
+12985,No Urgent Place,Friend(s),1,0,0,1
+17305,No Urgent Place,Alone,1,0,0,1
+21726,Home,Alone,1,1,0,1
+12948,No Urgent Place,Kid(s),0,0,0,1
+18759,No Urgent Place,Alone,1,0,0,1
+15624,Work,Alone,0,0,1,0
+10330,No Urgent Place,Partner,0,0,0,1
+19976,Home,Alone,1,1,0,1
+15523,No Urgent Place,Friend(s),1,0,0,1
+15028,No Urgent Place,Friend(s),1,0,0,1
+16700,Home,Alone,1,0,0,1
+18727,No Urgent Place,Partner,1,0,0,1
+11381,No Urgent Place,Partner,1,0,0,1
+19013,Home,Alone,1,1,0,1
+11348,No Urgent Place,Friend(s),0,0,0,1
+17351,No Urgent Place,Friend(s),1,0,0,1
+20026,Work,Alone,1,0,1,0
+15449,Home,Alone,1,0,1,0
+20754,No Urgent Place,Alone,1,0,0,1
+16532,Work,Alone,0,0,1,0
+20029,Work,Alone,0,0,0,1
+12242,Home,Alone,0,0,0,1
+11994,No Urgent Place,Partner,0,0,0,1
+16247,Home,Alone,1,1,0,1
+14073,No Urgent Place,Kid(s),1,0,0,1
+21653,Work,Alone,1,0,0,1
+15780,Work,Alone,1,0,0,1
+10214,Work,Alone,1,0,0,1
+13172,No Urgent Place,Partner,0,0,0,1
+13444,Work,Alone,1,0,0,1
+10476,No Urgent Place,Friend(s),1,0,0,1
+20658,Work,Alone,1,0,0,1
+13464,Work,Alone,1,1,0,1
+19932,Home,Alone,0,0,1,0
+19225,Work,Alone,1,0,1,0
+16316,Home,Alone,1,0,1,0
+16358,Home,Alone,0,0,0,1
+12772,Work,Alone,1,1,0,1
+10830,No Urgent Place,Alone,0,0,0,1
+17551,Work,Alone,1,1,0,1
+20628,No Urgent Place,Alone,0,0,0,1
+15374,No Urgent Place,Alone,1,0,0,1
+18881,Home,Alone,1,1,0,1
+16396,Home,Alone,1,1,0,1
+14428,Home,Alone,0,0,1,0
+11821,No Urgent Place,Kid(s),1,0,0,1
+22491,Home,Alone,0,0,0,1
+12781,No Urgent Place,Friend(s),1,0,0,1
+10367,No Urgent Place,Friend(s),1,0,0,1
+20327,Home,Kid(s),1,0,0,1
+18979,No Urgent Place,Friend(s),1,0,0,1
+14945,No Urgent Place,Alone,1,0,0,1
+17362,Home,Alone,1,0,1,0
+12864,Work,Alone,0,0,0,1
+16441,Home,Alone,0,0,1,0
+15898,No Urgent Place,Friend(s),1,0,0,1
+15645,Home,Alone,1,0,1,0
+18767,No Urgent Place,Partner,1,0,0,1
+17003,No Urgent Place,Friend(s),0,0,0,1
+22354,No Urgent Place,Alone,0,0,0,1
+10332,No Urgent Place,Partner,0,0,0,1
+18740,No Urgent Place,Alone,1,0,0,1
+12548,No Urgent Place,Friend(s),0,0,0,1
+17246,No Urgent Place,Friend(s),0,0,0,1
+17658,Home,Alone,0,0,1,0
+16099,No Urgent Place,Partner,1,0,0,1
+17141,No Urgent Place,Kid(s),1,0,0,1
+20180,Home,Alone,1,0,0,1
+16804,No Urgent Place,Partner,1,0,0,1
+16086,Work,Alone,1,0,1,0
+14776,Home,Alone,0,0,0,1
+21434,No Urgent Place,Friend(s),1,0,0,1
+18619,Home,Alone,1,0,0,1
+12923,No Urgent Place,Kid(s),1,0,0,1
+11837,No Urgent Place,Friend(s),1,0,0,1
+20939,Home,Alone,1,0,1,0
+16918,No Urgent Place,Partner,1,0,0,1
+10676,Work,Alone,1,0,0,1
+20096,Work,Alone,1,1,0,1
+12680,No Urgent Place,Partner,1,0,0,1
+14109,No Urgent Place,Friend(s),1,0,0,1
+18793,Home,Alone,1,0,1,0
+19254,No Urgent Place,Alone,1,0,0,1
+14033,Home,Alone,0,0,1,0
+22017,Work,Alone,0,0,1,0
+10408,Work,Alone,1,0,0,1
+13780,No Urgent Place,Friend(s),0,0,0,1
+22493,Home,Alone,1,0,0,1
+14194,Work,Alone,1,0,0,1
+15008,No Urgent Place,Friend(s),1,0,0,1
+11740,Work,Alone,0,0,1,0
+16890,No Urgent Place,Friend(s),0,0,0,1
+11395,No Urgent Place,Friend(s),0,0,0,1
+18313,Home,Alone,0,0,0,1
+20967,Work,Alone,0,0,1,0
+20119,Work,Alone,1,0,1,0
+20046,Home,Alone,1,0,0,1
+18893,No Urgent Place,Alone,1,0,0,1
+17989,Work,Alone,1,1,0,1
+12739,No Urgent Place,Friend(s),1,0,0,1
+21900,Home,Alone,0,0,1,0
+12509,Home,Alone,0,0,0,1
+11316,Home,Alone,0,0,1,0
+12464,No Urgent Place,Partner,1,0,0,1
+12898,No Urgent Place,Friend(s),0,0,0,1
+13333,No Urgent Place,Friend(s),0,0,0,1
+20640,Work,Alone,1,0,1,0
+20659,Work,Alone,1,0,1,0
+15115,Home,Alone,0,0,1,0
+21329,No Urgent Place,Alone,0,0,0,1
+17431,Home,Alone,0,0,1,0
+17460,No Urgent Place,Kid(s),1,0,0,1
+11268,No Urgent Place,Friend(s),1,0,0,1
+16101,No Urgent Place,Partner,0,0,0,1
+10315,Home,Alone,1,0,0,1
+21116,Home,Alone,0,0,1,0
+14392,No Urgent Place,Friend(s),1,0,0,1
+15530,Home,Alone,0,0,0,1
+13106,Home,Alone,1,0,0,1
+19678,Home,Alone,1,0,0,1
+10724,No Urgent Place,Friend(s),1,0,0,1
+18993,Home,Alone,1,1,0,1
+19235,Home,Alone,0,0,1,0
+21380,Home,Alone,0,0,0,1
+14697,Work,Alone,0,0,1,0
+19468,No Urgent Place,Friend(s),1,0,0,1
+18398,Home,Alone,1,0,1,0
+17919,Home,Alone,0,0,0,1
+22133,No Urgent Place,Friend(s),0,0,0,1
+17747,Work,Alone,1,1,0,1
+15156,No Urgent Place,Partner,1,0,0,1
+15338,Home,Alone,0,0,1,0
+13433,No Urgent Place,Friend(s),1,0,0,1
+13120,No Urgent Place,Friend(s),1,0,0,1
+16382,Work,Alone,1,1,0,1
+15214,Work,Alone,1,0,0,1
+21068,Home,Kid(s),1,0,1,0
+14696,Work,Alone,1,1,0,1
+11576,No Urgent Place,Friend(s),1,0,0,1
+11119,Work,Alone,0,0,1,0
+12696,No Urgent Place,Friend(s),1,0,0,1
+13113,Work,Alone,1,0,0,1
+11440,No Urgent Place,Friend(s),1,0,0,1
+15615,Home,Alone,1,0,0,1
+20609,Home,Alone,0,0,1,0
+20386,No Urgent Place,Alone,0,0,0,1
+19626,No Urgent Place,Alone,1,0,0,1
+22181,No Urgent Place,Alone,1,0,0,1
+20099,No Urgent Place,Friend(s),1,0,0,1
+11394,No Urgent Place,Friend(s),1,0,0,1
+22248,No Urgent Place,Partner,0,0,0,1
+17906,No Urgent Place,Friend(s),1,0,0,1
+14907,Home,Alone,0,0,1,0
+13931,Work,Alone,1,0,0,1
+21828,No Urgent Place,Alone,1,0,0,1
+12796,Work,Alone,1,0,0,1
+11139,Work,Alone,1,1,0,1
+13786,No Urgent Place,Friend(s),0,0,0,1
+17875,Home,Alone,0,0,0,1
+16765,Home,Partner,1,0,0,1
+16470,Work,Alone,1,1,0,1
+17604,No Urgent Place,Friend(s),1,0,0,1
+12587,No Urgent Place,Friend(s),1,0,0,1
+16719,No Urgent Place,Kid(s),0,0,0,1
+19883,No Urgent Place,Friend(s),1,0,0,1
+13829,No Urgent Place,Kid(s),1,0,0,1
+20323,No Urgent Place,Kid(s),0,0,0,1
+20586,Work,Alone,1,0,1,0
+11224,No Urgent Place,Friend(s),1,0,0,1
+13892,No Urgent Place,Friend(s),0,0,0,1
+20174,Home,Kid(s),1,0,0,1
+15330,No Urgent Place,Partner,0,0,0,1
+20378,Work,Alone,1,0,1,0
+14446,Home,Alone,0,0,0,1
+19023,No Urgent Place,Friend(s),1,0,0,1
+11691,Home,Alone,1,0,0,1
+15960,Work,Alone,1,0,0,1
+20551,No Urgent Place,Friend(s),1,0,0,1
+19815,No Urgent Place,Alone,1,0,0,1
+21310,Home,Alone,1,0,1,0
+17097,Home,Alone,1,0,1,0
+13746,No Urgent Place,Partner,1,0,0,1
+18065,No Urgent Place,Friend(s),0,0,0,1
+18499,No Urgent Place,Alone,0,0,0,1
+20289,Work,Alone,1,0,1,0
+18219,No Urgent Place,Friend(s),1,0,0,1
+15890,Work,Alone,0,0,1,0
+20159,Work,Alone,1,0,0,1
+19337,No Urgent Place,Friend(s),1,0,0,1
+17178,No Urgent Place,Friend(s),1,0,0,1
+10883,No Urgent Place,Friend(s),1,0,0,1
+19396,Work,Alone,1,0,1,0
+18057,Work,Alone,0,0,1,0
+20112,Home,Alone,1,1,0,1
+14747,No Urgent Place,Alone,1,0,0,1
+11618,No Urgent Place,Friend(s),1,0,0,1
+20018,No Urgent Place,Alone,0,0,0,1
+21018,No Urgent Place,Friend(s),0,0,0,1
+20746,Home,Alone,0,0,0,1
+22101,Home,Partner,1,1,0,1
+13397,Home,Alone,0,0,0,1
+20883,No Urgent Place,Friend(s),1,0,0,1
+20815,Work,Alone,0,0,0,1
+21154,No Urgent Place,Alone,0,0,0,1
+13522,No Urgent Place,Partner,0,0,0,1
+18879,Home,Alone,0,0,0,1
+17061,Work,Alone,1,1,0,1
+20972,No Urgent Place,Friend(s),1,0,0,1
+16367,Work,Alone,1,0,0,1
+11295,Home,Alone,1,0,0,1
+21655,Work,Alone,0,0,1,0
+18129,No Urgent Place,Friend(s),1,0,0,1
+10017,Work,Alone,1,1,0,1
+17172,Work,Alone,0,0,1,0
+10542,Work,Alone,0,0,1,0
+11820,No Urgent Place,Kid(s),1,0,0,1
+22447,Home,Kid(s),1,0,0,1
+11732,No Urgent Place,Partner,0,0,0,1
+16819,Work,Alone,0,0,0,1
+13490,Work,Alone,0,0,0,1
+16946,Home,Alone,0,0,0,1
+13477,No Urgent Place,Kid(s),1,0,0,1
+18518,No Urgent Place,Kid(s),1,0,0,1
+21173,No Urgent Place,Alone,1,0,0,1
+18444,Home,Alone,0,0,0,1
+10799,No Urgent Place,Kid(s),1,0,0,1
+13657,No Urgent Place,Kid(s),1,0,0,1
+12856,No Urgent Place,Alone,0,0,0,1
+20860,No Urgent Place,Partner,1,0,0,1
+22092,No Urgent Place,Alone,0,0,0,1
+17764,Home,Alone,1,0,1,0
+17733,No Urgent Place,Friend(s),0,0,0,1
+22297,Home,Alone,0,0,1,0
+11380,No Urgent Place,Partner,0,0,0,1
+21718,No Urgent Place,Alone,1,0,0,1
+10569,No Urgent Place,Friend(s),0,0,0,1
+21924,Home,Alone,1,1,0,1
+12889,Work,Alone,1,1,0,1
+20678,Home,Alone,1,1,0,1
+18365,No Urgent Place,Kid(s),1,0,0,1
+14307,No Urgent Place,Friend(s),1,0,0,1
+20626,No Urgent Place,Alone,1,0,0,1
+15285,No Urgent Place,Friend(s),0,0,0,1
+15628,Work,Alone,1,1,0,1
+10014,Home,Alone,1,0,0,1
+16230,Home,Alone,0,0,1,0
+17563,No Urgent Place,Friend(s),0,0,0,1
+17717,No Urgent Place,Friend(s),1,0,0,1
+17391,Work,Alone,1,1,0,1
+14266,No Urgent Place,Alone,1,0,0,1
+14067,No Urgent Place,Friend(s),1,0,0,1
+22229,Home,Alone,0,0,1,0
+13041,Home,Alone,0,0,0,1
+10287,No Urgent Place,Friend(s),1,0,0,1
+10686,No Urgent Place,Kid(s),1,0,0,1
+13782,No Urgent Place,Friend(s),0,0,0,1
+13640,Work,Alone,1,1,0,1
+15032,No Urgent Place,Alone,1,0,0,1
+20508,No Urgent Place,Alone,1,0,0,1
+21394,No Urgent Place,Alone,0,0,0,1
+13277,No Urgent Place,Friend(s),1,0,0,1
+15172,No Urgent Place,Friend(s),1,0,0,1
+16273,Home,Alone,0,0,1,0
+11476,Work,Alone,0,0,1,0
+20623,No Urgent Place,Friend(s),1,0,0,1
+20097,Work,Alone,1,0,1,0
+16269,Home,Alone,0,0,1,0
+11887,No Urgent Place,Alone,0,0,0,1
+12899,No Urgent Place,Friend(s),1,0,0,1
+20467,Work,Alone,1,1,0,1
+11706,No Urgent Place,Kid(s),1,0,0,1
+15849,Work,Alone,0,0,1,0
+11393,No Urgent Place,Friend(s),0,0,0,1
+18951,Work,Alone,1,0,1,0
+11234,Work,Alone,0,0,1,0
+16854,Home,Kid(s),1,1,0,1
+19840,No Urgent Place,Partner,0,0,0,1
+18094,Home,Alone,1,0,0,1
+22094,No Urgent Place,Partner,1,0,0,1
+20779,No Urgent Place,Friend(s),0,0,0,1
+17785,Home,Alone,1,0,1,0
+14816,Home,Alone,0,0,0,1
+21481,No Urgent Place,Alone,0,0,0,1
+21264,No Urgent Place,Alone,1,0,0,1
+19572,Work,Alone,1,0,1,0
+10543,Work,Alone,0,0,0,1
+14261,No Urgent Place,Alone,0,0,0,1
+15390,Work,Alone,1,0,0,1
+18484,No Urgent Place,Alone,0,0,0,1
+21596,No Urgent Place,Alone,1,0,0,1
+17077,Home,Alone,1,0,0,1
+12259,No Urgent Place,Friend(s),0,0,0,1
+17719,Home,Alone,1,0,1,0
+19898,Work,Alone,1,1,0,1
+11815,No Urgent Place,Friend(s),1,0,0,1
+17545,Home,Alone,1,0,0,1
+16867,No Urgent Place,Alone,0,0,0,1
+10633,No Urgent Place,Alone,0,0,0,1
+18271,Home,Alone,0,0,1,0
+11792,No Urgent Place,Friend(s),1,0,0,1
+19965,Work,Alone,1,0,1,0
+14589,No Urgent Place,Alone,0,0,0,1
+11415,No Urgent Place,Friend(s),1,0,0,1
+16094,No Urgent Place,Friend(s),1,0,0,1
+21720,No Urgent Place,Alone,0,0,0,1
+18435,No Urgent Place,Friend(s),1,0,0,1
+20113,Home,Alone,1,1,0,1
+21796,Home,Alone,0,0,1,0
+11913,Work,Alone,1,1,0,1
+18256,No Urgent Place,Kid(s),1,0,0,1
+14954,Home,Alone,1,0,1,0
+11995,No Urgent Place,Partner,1,0,0,1
+10722,No Urgent Place,Friend(s),0,0,0,1
+21889,No Urgent Place,Friend(s),0,0,0,1
+10381,Work,Alone,1,1,0,1
+11595,No Urgent Place,Friend(s),1,0,0,1
+11013,No Urgent Place,Friend(s),0,0,0,1
+14908,Home,Alone,0,0,0,1
+22024,No Urgent Place,Friend(s),0,0,0,1
+22458,No Urgent Place,Friend(s),0,0,0,1
+22562,Home,Partner,1,0,1,0
+19687,No Urgent Place,Friend(s),1,0,0,1
+17167,Home,Alone,0,0,1,0
+17771,Work,Alone,1,1,0,1
+17725,Work,Alone,1,1,0,1
+14644,Home,Alone,1,1,0,1
+16548,Home,Alone,0,0,1,0
+14048,No Urgent Place,Partner,0,0,0,1
+15726,Home,Alone,0,0,1,0
+19478,Home,Alone,0,0,0,1
+21033,Work,Alone,1,0,0,1
+15367,Work,Alone,0,0,1,0
+19536,No Urgent Place,Alone,0,0,0,1
+19192,Home,Alone,0,0,1,0
+11414,No Urgent Place,Friend(s),0,0,0,1
+13884,Work,Alone,1,0,0,1
+22452,Home,Alone,1,0,0,1
+19697,Home,Partner,1,1,0,1
+14717,Work,Alone,1,0,1,0
+22070,No Urgent Place,Friend(s),0,0,0,1
+20081,No Urgent Place,Friend(s),1,0,0,1
+12907,Home,Alone,0,0,1,0
+18053,Work,Alone,1,1,0,1
+11901,No Urgent Place,Friend(s),0,0,0,1
+18123,Work,Alone,0,0,1,0
+21037,No Urgent Place,Friend(s),1,0,0,1
+22143,Home,Alone,1,0,0,1
+18486,Home,Alone,0,0,1,0
+13955,No Urgent Place,Friend(s),0,0,0,1
+16997,No Urgent Place,Kid(s),1,0,0,1
+16024,Work,Alone,0,0,1,0
+14888,Home,Alone,1,1,0,1
+18965,Home,Kid(s),1,0,1,0
+20690,No Urgent Place,Kid(s),1,0,0,1
+16140,No Urgent Place,Friend(s),0,0,0,1
+11498,Work,Alone,0,0,1,0
+16404,Work,Alone,1,1,0,1
+16834,Home,Kid(s),1,0,0,1
+20423,Work,Alone,1,1,0,1
+21274,Work,Alone,0,0,1,0
+21074,Home,Alone,1,0,0,1
+15072,Home,Alone,0,0,1,0
+10015,Home,Alone,0,0,0,1
+13979,No Urgent Place,Friend(s),1,0,0,1
+21764,No Urgent Place,Alone,0,0,0,1
+13062,Home,Alone,1,0,0,1
+21280,No Urgent Place,Friend(s),1,0,0,1
+17291,No Urgent Place,Partner,1,0,0,1
+20285,Home,Alone,1,1,0,1
+18714,Work,Alone,0,0,1,0
+20283,Home,Alone,0,0,0,1
+10326,No Urgent Place,Friend(s),1,0,0,1
+16460,Home,Alone,1,1,0,1
+13537,No Urgent Place,Friend(s),0,0,0,1
+13378,Work,Alone,1,0,0,1
+20608,Home,Alone,0,0,0,1
+12294,No Urgent Place,Friend(s),0,0,0,1
+21713,No Urgent Place,Friend(s),0,0,0,1
+10432,No Urgent Place,Friend(s),0,0,0,1
+14845,Work,Alone,0,0,1,0
+12826,No Urgent Place,Friend(s),1,0,0,1
+22461,No Urgent Place,Friend(s),0,0,0,1
+17446,No Urgent Place,Friend(s),1,0,0,1
+12671,No Urgent Place,Friend(s),1,0,0,1
+15623,Home,Alone,1,0,1,0
+14520,Work,Alone,1,1,0,1
+13362,No Urgent Place,Friend(s),0,0,0,1
+21615,No Urgent Place,Friend(s),0,0,0,1
+14005,No Urgent Place,Kid(s),1,0,0,1
+13519,No Urgent Place,Friend(s),1,0,0,1
+14632,Work,Alone,1,0,0,1
+18095,Home,Alone,0,0,0,1
+12973,Home,Alone,0,0,1,0
+20807,Home,Alone,1,0,1,0
+19389,No Urgent Place,Alone,0,0,0,1
+11210,Work,Alone,1,1,0,1
+18172,No Urgent Place,Friend(s),1,0,0,1
+20634,Home,Alone,1,0,0,1
+17148,Work,Alone,1,1,0,1
+22104,Work,Alone,0,0,0,1
+13647,No Urgent Place,Friend(s),0,0,0,1
+17768,Home,Alone,0,0,1,0
+11174,No Urgent Place,Friend(s),1,0,0,1
+12024,Work,Alone,1,1,0,1
+16880,Work,Alone,1,1,0,1
+10185,No Urgent Place,Friend(s),1,0,0,1
+13087,Work,Alone,1,1,0,1
+18448,Work,Alone,1,1,0,1
+11196,No Urgent Place,Friend(s),1,0,0,1
+19142,No Urgent Place,Friend(s),1,0,0,1
+17373,No Urgent Place,Friend(s),1,0,0,1
+12996,Home,Alone,1,0,0,1
+10267,No Urgent Place,Kid(s),1,0,0,1
+12771,Home,Alone,0,0,0,1
+19604,No Urgent Place,Partner,0,0,0,1
+11132,No Urgent Place,Kid(s),0,0,0,1
+19579,No Urgent Place,Alone,1,0,0,1
+12202,Work,Alone,0,0,1,0
+12621,Work,Alone,1,1,0,1
+13611,No Urgent Place,Friend(s),1,0,0,1
+14480,No Urgent Place,Friend(s),1,0,0,1
+20750,Work,Alone,1,0,1,0
+21008,Work,Alone,0,0,1,0
+19174,Home,Alone,1,1,0,1
+21929,Work,Alone,1,0,0,1
+18140,Home,Alone,0,0,1,0
+20879,Work,Alone,1,0,0,1
+20864,Home,Kid(s),1,0,0,1
+17911,No Urgent Place,Friend(s),1,0,0,1
+19790,Work,Alone,1,0,1,0
+20605,No Urgent Place,Alone,0,0,0,1
+17370,Work,Alone,0,0,1,0
+17655,Home,Alone,1,0,0,1
+14095,No Urgent Place,Partner,0,0,0,1
+10043,Work,Alone,1,0,0,1
+10069,No Urgent Place,Friend(s),1,0,0,1
+11171,No Urgent Place,Partner,1,0,0,1
+20560,Home,Alone,1,1,0,1
+13748,Home,Alone,1,0,0,1
+14365,Work,Alone,1,1,0,1
+17891,No Urgent Place,Friend(s),1,0,0,1
+18356,Home,Alone,1,0,0,1
+15791,No Urgent Place,Partner,0,0,0,1
+13424,Work,Alone,0,0,0,1
+17702,Home,Alone,0,0,1,0
+19819,No Urgent Place,Alone,0,0,0,1
+14158,No Urgent Place,Partner,1,0,0,1
+21005,Home,Alone,1,1,0,1
+19949,No Urgent Place,Friend(s),1,0,0,1
+16287,No Urgent Place,Partner,1,0,0,1
+13018,Home,Alone,1,0,0,1
+17187,Home,Alone,1,0,0,1
+21783,No Urgent Place,Friend(s),1,0,0,1
+10539,Work,Alone,1,1,0,1
+15379,Home,Alone,0,0,1,0
+19785,Home,Alone,0,0,1,0
+19566,Home,Alone,0,0,0,1
+12150,No Urgent Place,Kid(s),1,0,0,1
+20782,No Urgent Place,Alone,0,0,0,1
+21772,Home,Alone,0,0,0,1
+13718,No Urgent Place,Friend(s),1,0,0,1

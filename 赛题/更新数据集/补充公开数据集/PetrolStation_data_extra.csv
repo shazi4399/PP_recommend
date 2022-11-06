@@ -1,0 +1,3806 @@
+ID,weather,time,coupon,expiration,Y
+19943,Snowy,7AM,Carry out & Take away,1d,1
+18765,Snowy,10AM,Carry out & Take away,1d,0
+11739,Sunny,7AM,Restaurant(20-50),1d,1
+16933,Snowy,6PM,Bar,1d,0
+14728,Sunny,6PM,Coffee House,1d,1
+22349,Sunny,10PM,Bar,1d,0
+20524,Sunny,10PM,Restaurant(20-50),1d,0
+12077,Sunny,2PM,Coffee House,1d,1
+12630,Sunny,6PM,Restaurant(<20),2h,0
+11351,Sunny,2PM,Coffee House,1d,1
+10974,Sunny,2PM,Carry out & Take away,1d,1
+19421,Sunny,7AM,Restaurant(<20),1d,1
+14447,Sunny,6PM,Restaurant(<20),2h,1
+22578,Sunny,6PM,Carry out & Take away,1d,1
+10966,Sunny,7AM,Restaurant(<20),1d,0
+17641,Sunny,10AM,Coffee House,1d,1
+17828,Sunny,6PM,Carry out & Take away,2h,1
+15193,Sunny,10AM,Bar,1d,0
+19684,Snowy,7AM,Carry out & Take away,1d,0
+16383,Sunny,7AM,Carry out & Take away,1d,0
+19465,Snowy,7AM,Carry out & Take away,1d,0
+11551,Sunny,2PM,Coffee House,1d,1
+19123,Sunny,6PM,Bar,2h,0
+14599,Sunny,6PM,Bar,2h,0
+20086,Sunny,6PM,Restaurant(20-50),1d,0
+20005,Rainy,7AM,Carry out & Take away,2h,1
+11926,Sunny,2PM,Restaurant(<20),1d,1
+22093,Sunny,10AM,Restaurant(20-50),1d,0
+17401,Rainy,10PM,Bar,2h,1
+19550,Rainy,7AM,Carry out & Take away,2h,0
+13850,Sunny,2PM,Coffee House,1d,0
+12776,Sunny,7AM,Restaurant(<20),1d,1
+21387,Sunny,7AM,Restaurant(20-50),2h,0
+11421,Sunny,10AM,Carry out & Take away,2h,0
+11036,Sunny,10AM,Carry out & Take away,2h,1
+18477,Sunny,6PM,Coffee House,1d,1
+15511,Sunny,6PM,Coffee House,1d,0
+20189,Rainy,10PM,Restaurant(20-50),2h,0
+11449,Sunny,6PM,Restaurant(20-50),1d,1
+16809,Rainy,10PM,Bar,1d,0
+12088,Sunny,6PM,Coffee House,2h,0
+20589,Rainy,7AM,Bar,1d,0
+17316,Sunny,10AM,Coffee House,1d,0
+21645,Rainy,10PM,Coffee House,2h,1
+16600,Sunny,7AM,Coffee House,1d,1
+20013,Sunny,10AM,Restaurant(<20),2h,1
+17827,Sunny,10AM,Coffee House,1d,1
+10811,Sunny,10AM,Carry out & Take away,2h,1
+21476,Sunny,10PM,Bar,1d,1
+17745,Sunny,6PM,Coffee House,1d,0
+17649,Sunny,10PM,Restaurant(<20),1d,0
+17439,Snowy,6PM,Bar,1d,0
+14567,Sunny,10AM,Bar,1d,0
+13448,Sunny,2PM,Restaurant(<20),1d,1
+15377,Sunny,6PM,Coffee House,1d,1
+22148,Rainy,7AM,Carry out & Take away,1d,1
+15753,Sunny,6PM,Coffee House,1d,1
+13573,Sunny,6PM,Coffee House,2h,0
+17922,Rainy,7AM,Restaurant(<20),2h,1
+15039,Sunny,10AM,Restaurant(<20),1d,1
+17549,Rainy,7AM,Restaurant(<20),2h,0
+19441,Rainy,7AM,Carry out & Take away,2h,0
+17175,Sunny,6PM,Coffee House,2h,1
+19524,Sunny,10PM,Restaurant(20-50),1d,1
+11468,Sunny,2PM,Restaurant(<20),1d,1
+14971,Sunny,6PM,Restaurant(<20),2h,0
+19709,Sunny,10PM,Coffee House,1d,1
+20072,Sunny,7AM,Coffee House,1d,1
+22487,Sunny,10AM,Restaurant(20-50),1d,1
+14871,Sunny,7AM,Carry out & Take away,1d,1
+17943,Rainy,7AM,Restaurant(<20),2h,1
+19151,Rainy,6PM,Bar,1d,0
+17703,Rainy,7AM,Restaurant(<20),2h,0
+22194,Sunny,7AM,Restaurant(20-50),2h,0
+18052,Sunny,6PM,Bar,2h,1
+11566,Sunny,7AM,Coffee House,2h,0
+14715,Sunny,10PM,Carry out & Take away,1d,1
+15710,Sunny,6PM,Restaurant(<20),2h,1
+20904,Sunny,6PM,Restaurant(<20),2h,1
+12619,Sunny,6PM,Coffee House,2h,1
+16779,Rainy,6PM,Carry out & Take away,1d,1
+13453,Sunny,2PM,Coffee House,2h,1
+18419,Rainy,2PM,Restaurant(<20),2h,0
+16428,Sunny,7AM,Coffee House,1d,1
+21774,Rainy,7AM,Carry out & Take away,1d,0
+16969,Sunny,6PM,Coffee House,1d,1
+17154,Sunny,10AM,Coffee House,1d,1
+10727,Sunny,2PM,Coffee House,1d,0
+16591,Sunny,6PM,Coffee House,1d,0
+11260,Sunny,10AM,Coffee House,2h,0
+22469,Rainy,10PM,Coffee House,2h,1
+21926,Rainy,7AM,Restaurant(<20),2h,0
+21778,Sunny,7AM,Restaurant(20-50),2h,1
+21016,Sunny,10PM,Bar,2h,1
+15091,Sunny,6PM,Coffee House,1d,1
+17632,Snowy,2PM,Coffee House,2h,1
+13189,Sunny,2PM,Coffee House,1d,0
+16260,Sunny,2PM,Restaurant(<20),2h,1
+18440,Snowy,10PM,Carry out & Take away,1d,1
+14217,Sunny,10AM,Bar,1d,1
+12016,Sunny,10AM,Bar,2h,0
+15127,Sunny,10AM,Bar,1d,0
+15873,Sunny,10AM,Bar,1d,0
+12399,Sunny,6PM,Bar,1d,0
+17126,Snowy,7AM,Restaurant(<20),2h,0
+10398,Sunny,2PM,Carry out & Take away,1d,1
+16446,Sunny,7AM,Restaurant(20-50),2h,0
+12514,Sunny,7AM,Restaurant(<20),1d,1
+15014,Sunny,6PM,Restaurant(<20),1d,1
+14584,Sunny,7AM,Coffee House,2h,1
+10612,Sunny,10AM,Coffee House,2h,1
+16855,Sunny,6PM,Bar,2h,0
+19420,Sunny,7AM,Coffee House,1d,0
+13282,Sunny,10AM,Coffee House,2h,1
+20206,Sunny,10AM,Coffee House,2h,0
+10205,Sunny,10AM,Coffee House,2h,0
+20724,Sunny,10PM,Coffee House,1d,1
+21684,Rainy,7AM,Restaurant(<20),2h,1
+12030,Sunny,10AM,Coffee House,2h,1
+17259,Snowy,7AM,Restaurant(20-50),1d,0
+16681,Sunny,7AM,Coffee House,1d,1
+19109,Snowy,7AM,Carry out & Take away,1d,1
+19542,Rainy,6PM,Bar,1d,1
+13860,Sunny,7AM,Coffee House,2h,0
+20075,Snowy,7AM,Carry out & Take away,1d,0
+11142,Sunny,7AM,Restaurant(<20),1d,0
+15153,Sunny,2PM,Coffee House,1d,1
+21785,Snowy,2PM,Restaurant(<20),1d,1
+22672,Sunny,6PM,Carry out & Take away,2h,0
+15540,Sunny,7AM,Carry out & Take away,1d,0
+15657,Sunny,2PM,Coffee House,1d,1
+16025,Sunny,7AM,Coffee House,1d,0
+11920,Sunny,10AM,Coffee House,2h,1
+15793,Sunny,2PM,Coffee House,2h,0
+16579,Sunny,7AM,Carry out & Take away,1d,0
+13546,Sunny,2PM,Coffee House,2h,1
+12741,Sunny,2PM,Restaurant(<20),1d,1
+16777,Snowy,7AM,Restaurant(<20),2h,0
+17002,Sunny,2PM,Restaurant(20-50),2h,1
+15319,Sunny,10PM,Carry out & Take away,1d,1
+10645,Sunny,10AM,Coffee House,2h,1
+20897,Sunny,6PM,Restaurant(<20),1d,1
+18953,Sunny,7AM,Coffee House,1d,1
+13000,Sunny,7AM,Restaurant(20-50),1d,1
+12725,Sunny,6PM,Bar,1d,1
+18301,Sunny,6PM,Coffee House,1d,1
+15654,Sunny,10AM,Coffee House,2h,0
+20301,Sunny,2PM,Coffee House,1d,0
+21253,Snowy,7AM,Coffee House,1d,1
+16070,Sunny,10AM,Bar,1d,0
+17051,Rainy,10AM,Carry out & Take away,2h,0
+11373,Sunny,2PM,Coffee House,1d,1
+10025,Sunny,10AM,Carry out & Take away,2h,0
+19614,Sunny,7AM,Bar,1d,0
+11079,Sunny,10AM,Coffee House,2h,0
+12837,Sunny,6PM,Coffee House,2h,0
+15212,Sunny,7AM,Carry out & Take away,1d,1
+14299,Sunny,10PM,Carry out & Take away,1d,1
+10125,Sunny,6PM,Coffee House,2h,0
+13652,Sunny,2PM,Carry out & Take away,1d,1
+22268,Sunny,10AM,Restaurant(<20),2h,0
+17637,Sunny,6PM,Bar,2h,0
+18557,Rainy,7AM,Restaurant(<20),2h,0
+21344,Sunny,6PM,Restaurant(<20),2h,1
+10344,Sunny,10AM,Coffee House,2h,1
+17241,Snowy,6PM,Bar,1d,0
+17773,Sunny,10AM,Coffee House,1d,1
+12620,Sunny,7AM,Coffee House,2h,1
+13382,Sunny,2PM,Restaurant(<20),1d,1
+22370,Sunny,6PM,Restaurant(<20),2h,0
+16182,Sunny,6PM,Coffee House,1d,0
+17396,Sunny,10AM,Coffee House,1d,0
+20111,Sunny,6PM,Restaurant(<20),1d,0
+20768,Sunny,10PM,Restaurant(20-50),1d,0
+14800,Sunny,10PM,Bar,1d,1
+13411,Sunny,10AM,Coffee House,2h,1
+22338,Sunny,10PM,Bar,2h,0
+20037,Sunny,2PM,Restaurant(20-50),1d,1
+21695,Sunny,10AM,Carry out & Take away,2h,0
+14511,Sunny,6PM,Bar,2h,0
+22322,Rainy,6PM,Carry out & Take away,1d,0
+15241,Sunny,2PM,Coffee House,1d,0
+21517,Snowy,7AM,Bar,1d,0
+17022,Sunny,2PM,Restaurant(20-50),2h,0
+18687,Sunny,6PM,Bar,2h,0
+13628,Sunny,2PM,Coffee House,1d,1
+21897,Snowy,10AM,Restaurant(<20),1d,1
+10487,Sunny,6PM,Restaurant(20-50),1d,0
+13556,Sunny,7AM,Restaurant(<20),1d,1
+16209,Sunny,7AM,Coffee House,2h,0
+21962,Sunny,10AM,Restaurant(<20),2h,1
+17697,Snowy,2PM,Coffee House,2h,1
+13287,Sunny,6PM,Coffee House,2h,0
+14399,Sunny,10PM,Carry out & Take away,1d,0
+13675,Sunny,10AM,Coffee House,2h,1
+18276,Sunny,7AM,Restaurant(<20),1d,1
+18195,Sunny,6PM,Coffee House,1d,0
+11503,Sunny,10AM,Carry out & Take away,2h,0
+13111,Sunny,7AM,Carry out & Take away,2h,1
+16830,Sunny,6PM,Coffee House,2h,1
+16973,Snowy,7AM,Restaurant(20-50),1d,0
+16513,Sunny,7AM,Coffee House,2h,1
+14660,Sunny,10AM,Coffee House,1d,1
+12966,Sunny,2PM,Carry out & Take away,1d,0
+11001,Sunny,2PM,Restaurant(<20),1d,0
+21986,Sunny,10PM,Restaurant(20-50),1d,1
+19521,Snowy,10PM,Restaurant(<20),2h,0
+16275,Sunny,7AM,Coffee House,2h,1
+11363,Sunny,7AM,Coffee House,2h,0
+12564,Sunny,2PM,Coffee House,1d,0
+13517,Sunny,2PM,Coffee House,2h,1
+12392,Sunny,2PM,Carry out & Take away,1d,1
+15312,Sunny,6PM,Restaurant(<20),1d,1
+19950,Sunny,10AM,Carry out & Take away,1d,1
+17111,Sunny,10PM,Restaurant(<20),2h,0
+12785,Sunny,2PM,Restaurant(<20),1d,1
+22018,Snowy,7AM,Bar,1d,1
+12326,Sunny,10AM,Coffee House,2h,0
+15640,Sunny,10PM,Carry out & Take away,1d,0
+20583,Rainy,6PM,Bar,1d,0
+12449,Sunny,7AM,Carry out & Take away,2h,1
+16154,Sunny,6PM,Restaurant(20-50),2h,0
+21965,Sunny,10PM,Restaurant(20-50),2h,1
+10088,Sunny,2PM,Restaurant(<20),1d,0
+14159,Sunny,2PM,Coffee House,2h,0
+13699,Sunny,10AM,Bar,2h,1
+17284,Sunny,6PM,Coffee House,2h,0
+17417,Sunny,6PM,Coffee House,2h,0
+14523,Sunny,10AM,Bar,1d,0
+15376,Sunny,6PM,Coffee House,1d,1
+21704,Sunny,6PM,Carry out & Take away,1d,1
+12762,Sunny,2PM,Carry out & Take away,1d,1
+19539,Sunny,10PM,Restaurant(<20),1d,1
+21009,Rainy,7AM,Carry out & Take away,1d,0
+16637,Sunny,7AM,Coffee House,1d,1
+14252,Sunny,10PM,Carry out & Take away,1d,0
+17355,Snowy,10AM,Carry out & Take away,1d,1
+20210,Snowy,2PM,Bar,1d,0
+14563,Sunny,7AM,Coffee House,2h,1
+12375,Sunny,7AM,Bar,1d,1
+10059,Sunny,6PM,Coffee House,2h,0
+12258,Sunny,6PM,Restaurant(<20),2h,1
+13964,Sunny,2PM,Coffee House,2h,1
+13181,Sunny,7AM,Bar,1d,0
+21493,Rainy,7AM,Carry out & Take away,1d,1
+19662,Rainy,7AM,Bar,1d,0
+22099,Snowy,10PM,Coffee House,2h,0
+18995,Sunny,7AM,Bar,1d,0
+18240,Sunny,10PM,Restaurant(<20),2h,1
+19571,Sunny,7AM,Bar,1d,0
+19731,Sunny,2PM,Restaurant(20-50),1d,1
+12852,Sunny,6PM,Coffee House,2h,0
+18936,Sunny,10PM,Carry out & Take away,1d,1
+21855,Sunny,6PM,Carry out & Take away,2h,1
+11032,Sunny,7AM,Restaurant(<20),1d,1
+14964,Sunny,2PM,Restaurant(<20),2h,1
+18300,Sunny,2PM,Restaurant(20-50),2h,1
+22313,Rainy,6PM,Bar,2h,0
+19385,Rainy,10PM,Restaurant(20-50),2h,0
+19651,Sunny,10PM,Restaurant(<20),1d,0
+12804,Sunny,2PM,Coffee House,1d,1
+17455,Rainy,7AM,Restaurant(<20),2h,0
+19031,Sunny,10PM,Restaurant(<20),1d,1
+14742,Sunny,10AM,Bar,1d,0
+22439,Sunny,10PM,Bar,1d,0
+10994,Sunny,2PM,Coffee House,1d,0
+13418,Sunny,6PM,Restaurant(20-50),1d,1
+18402,Sunny,6PM,Bar,2h,0
+20958,Sunny,10PM,Restaurant(20-50),1d,1
+11852,Sunny,7AM,Coffee House,2h,1
+16044,Sunny,7AM,Coffee House,2h,0
+12423,Sunny,6PM,Coffee House,2h,1
+18568,Sunny,10PM,Restaurant(<20),2h,1
+15699,Sunny,2PM,Restaurant(<20),2h,1
+13713,Sunny,10AM,Coffee House,2h,1
+10704,Sunny,6PM,Restaurant(<20),2h,1
+21496,Sunny,7AM,Restaurant(20-50),2h,0
+22083,Snowy,7AM,Coffee House,1d,1
+18352,Rainy,10AM,Carry out & Take away,2h,1
+11678,Sunny,10AM,Coffee House,2h,1
+21350,Rainy,2PM,Carry out & Take away,2h,1
+11547,Sunny,10AM,Bar,1d,1
+13014,Sunny,2PM,Restaurant(<20),1d,1
+13840,Sunny,7AM,Restaurant(20-50),1d,0
+13808,Sunny,10AM,Restaurant(20-50),1d,0
+16736,Sunny,10PM,Coffee House,1d,1
+18508,Sunny,6PM,Carry out & Take away,2h,1
+12990,Sunny,6PM,Coffee House,2h,0
+20426,Sunny,2PM,Restaurant(20-50),1d,1
+12625,Sunny,2PM,Restaurant(<20),1d,1
+17196,Rainy,10PM,Bar,1d,0
+16731,Sunny,7AM,Bar,1d,0
+10181,Sunny,2PM,Coffee House,2h,1
+11309,Sunny,2PM,Carry out & Take away,1d,1
+13617,Sunny,6PM,Coffee House,2h,0
+19676,Sunny,6PM,Restaurant(<20),1d,1
+22051,Sunny,6PM,Restaurant(<20),2h,1
+14753,Sunny,6PM,Coffee House,2h,0
+21706,Snowy,10PM,Coffee House,2h,0
+13031,Sunny,2PM,Coffee House,2h,0
+21727,Sunny,6PM,Restaurant(20-50),1d,1
+14306,Sunny,10AM,Coffee House,2h,1
+10005,Sunny,6PM,Restaurant(<20),2h,1
+16609,Sunny,10PM,Restaurant(20-50),1d,1
+10591,Sunny,10AM,Bar,1d,1
+17063,Sunny,10AM,Coffee House,1d,1
+11069,Sunny,6PM,Bar,1d,1
+20031,Snowy,7AM,Carry out & Take away,1d,1
+20476,Sunny,6PM,Restaurant(<20),1d,1
+16858,Snowy,6PM,Coffee House,1d,0
+21629,Snowy,10PM,Coffee House,2h,0
+17276,Snowy,10PM,Restaurant(20-50),2h,0
+19982,Sunny,7AM,Bar,1d,0
+15183,Sunny,10PM,Restaurant(<20),2h,0
+19480,Rainy,6PM,Bar,1d,0
+18553,Snowy,6PM,Coffee House,1d,0
+15206,Sunny,6PM,Restaurant(<20),2h,0
+11008,Sunny,7AM,Restaurant(20-50),1d,0
+21287,Sunny,6PM,Carry out & Take away,2h,1
+11153,Sunny,10AM,Bar,2h,0
+10602,Sunny,6PM,Bar,1d,1
+15722,Sunny,6PM,Restaurant(<20),1d,1
+21928,Snowy,7AM,Coffee House,1d,1
+11991,Sunny,2PM,Carry out & Take away,1d,1
+11217,Sunny,10AM,Bar,1d,1
+20780,Snowy,2PM,Restaurant(<20),1d,1
+20645,Snowy,2PM,Bar,1d,0
+11780,Sunny,6PM,Coffee House,2h,1
+11653,Sunny,7AM,Restaurant(<20),1d,0
+14208,Sunny,6PM,Restaurant(<20),2h,1
+18505,Snowy,10PM,Carry out & Take away,1d,1
+21649,Sunny,10PM,Restaurant(20-50),1d,0
+10065,Sunny,7AM,Coffee House,2h,0
+19117,Sunny,10PM,Restaurant(<20),1d,0
+15271,Sunny,6PM,Coffee House,1d,1
+17991,Sunny,7AM,Restaurant(<20),1d,1
+18560,Sunny,7AM,Restaurant(<20),1d,1
+19694,Sunny,6PM,Restaurant(<20),1d,1
+17912,Sunny,10PM,Restaurant(<20),1d,1
+22088,Sunny,10PM,Bar,2h,1
+18212,Sunny,10AM,Restaurant(<20),1d,1
+15090,Sunny,6PM,Coffee House,1d,0
+16172,Sunny,2PM,Restaurant(<20),2h,1
+13369,Sunny,6PM,Restaurant(<20),2h,1
+10568,Sunny,10AM,Coffee House,2h,1
+20061,Rainy,10AM,Coffee House,1d,0
+12527,Sunny,2PM,Restaurant(<20),1d,0
+21209,Snowy,7AM,Restaurant(<20),1d,1
+15408,Sunny,7AM,Coffee House,2h,0
+18162,Sunny,6PM,Coffee House,1d,0
+18954,Rainy,7AM,Bar,1d,0
+10565,Sunny,7AM,Restaurant(<20),1d,1
+17807,Sunny,6PM,Carry out & Take away,2h,1
+16774,Sunny,7AM,Coffee House,1d,1
+14382,Sunny,6PM,Coffee House,2h,0
+10303,Sunny,10AM,Carry out & Take away,2h,0
+11672,Sunny,7AM,Bar,1d,1
+18327,Sunny,10PM,Restaurant(<20),2h,1
+15795,Sunny,6PM,Bar,2h,1
+15218,Sunny,6PM,Restaurant(<20),1d,1
+16326,Sunny,2PM,Restaurant(<20),2h,0
+20238,Rainy,6PM,Bar,1d,0
+17691,Snowy,10AM,Carry out & Take away,1d,1
+12222,Sunny,7AM,Bar,1d,1
+10585,Sunny,7AM,Restaurant(20-50),1d,0
+19343,Rainy,10AM,Coffee House,1d,0
+18588,Rainy,10PM,Bar,2h,1
+18316,Rainy,7AM,Restaurant(<20),2h,0
+16722,Sunny,6PM,Restaurant(20-50),1d,0
+14341,Sunny,10PM,Carry out & Take away,1d,1
+22225,Rainy,6PM,Bar,2h,1
+13176,Sunny,6PM,Bar,1d,0
+19288,Rainy,7AM,Carry out & Take away,2h,1
+15318,Sunny,10PM,Restaurant(<20),2h,1
+17043,Sunny,2PM,Restaurant(20-50),2h,1
+21980,Sunny,10PM,Bar,2h,0
+14450,Sunny,10PM,Carry out & Take away,1d,1
+18186,Snowy,7AM,Restaurant(<20),2h,0
+13376,Sunny,7AM,Coffee House,2h,0
+11038,Sunny,2PM,Coffee House,1d,0
+14460,Sunny,2PM,Coffee House,1d,0
+17629,Sunny,10PM,Restaurant(<20),1d,1
+20991,Sunny,7AM,Restaurant(20-50),2h,1
+10037,Sunny,6PM,Coffee House,2h,0
+11339,Sunny,6PM,Restaurant(20-50),1d,1
+21682,Sunny,10PM,Restaurant(<20),2h,1
+18934,Sunny,10AM,Coffee House,2h,1
+12819,Sunny,7AM,Carry out & Take away,2h,1
+15783,Sunny,7AM,Carry out & Take away,1d,1
+12892,Sunny,7AM,Restaurant(<20),1d,1
+19256,Snowy,2PM,Bar,1d,0
+14914,Sunny,7AM,Coffee House,2h,1
+12951,Sunny,6PM,Bar,1d,1
+12743,Sunny,6PM,Restaurant(<20),2h,1
+13200,Sunny,6PM,Coffee House,2h,0
+13034,Sunny,6PM,Coffee House,2h,0
+11800,Sunny,6PM,Bar,1d,1
+16029,Sunny,6PM,Restaurant(<20),1d,1
+16359,Sunny,6PM,Restaurant(<20),2h,1
+11120,Sunny,7AM,Restaurant(<20),1d,1
+16469,Sunny,7AM,Carry out & Take away,1d,1
+18908,Rainy,7AM,Carry out & Take away,2h,1
+18408,Sunny,10AM,Coffee House,1d,0
+12179,Sunny,7AM,Restaurant(20-50),1d,1
+13859,Sunny,6PM,Coffee House,2h,0
+10320,Sunny,7AM,Carry out & Take away,2h,0
+15689,Sunny,10PM,Bar,1d,0
+19341,Rainy,10PM,Restaurant(20-50),2h,0
+10873,Sunny,6PM,Coffee House,2h,0
+15387,Sunny,7AM,Carry out & Take away,1d,0
+13535,Sunny,7AM,Coffee House,2h,0
+22281,Snowy,7AM,Bar,1d,1
+11506,Sunny,6PM,Restaurant(<20),2h,1
+17878,Rainy,7AM,Restaurant(20-50),1d,1
+18732,Sunny,6PM,Bar,2h,0
+17583,Sunny,6PM,Coffee House,2h,1
+21392,Snowy,2PM,Restaurant(<20),1d,1
+16857,Sunny,6PM,Coffee House,1d,0
+17166,Snowy,10PM,Restaurant(20-50),2h,0
+18718,Sunny,6PM,Coffee House,1d,0
+21069,Sunny,10PM,Restaurant(20-50),2h,0
+22311,Sunny,10AM,Restaurant(<20),2h,0
+22009,Sunny,6PM,Carry out & Take away,1d,1
+16707,Sunny,7AM,Restaurant(<20),1d,0
+20662,Snowy,7AM,Carry out & Take away,1d,1
+18747,Snowy,10PM,Carry out & Take away,1d,1
+17230,Sunny,6PM,Carry out & Take away,2h,0
+17296,Sunny,6PM,Carry out & Take away,2h,1
+20356,Sunny,7AM,Coffee House,1d,1
+20700,Snowy,7AM,Carry out & Take away,1d,1
+17469,Snowy,10PM,Carry out & Take away,1d,1
+22215,Snowy,7AM,Bar,1d,1
+21856,Sunny,6PM,Carry out & Take away,1d,1
+19874,Sunny,7AM,Coffee House,1d,0
+18635,Sunny,10PM,Restaurant(<20),1d,0
+13439,Sunny,6PM,Bar,1d,1
+21972,Rainy,7AM,Carry out & Take away,1d,1
+16405,Sunny,7AM,Carry out & Take away,1d,0
+16871,Rainy,6PM,Restaurant(<20),2h,0
+12867,Sunny,10AM,Carry out & Take away,2h,1
+10534,Sunny,2PM,Restaurant(<20),1d,1
+16956,Sunny,6PM,Coffee House,1d,1
+10311,Sunny,2PM,Restaurant(<20),1d,1
+15924,Sunny,6PM,Coffee House,1d,1
+14220,Sunny,6PM,Restaurant(<20),1d,1
+12530,Sunny,6PM,Restaurant(20-50),1d,0
+17081,Rainy,7AM,Restaurant(<20),2h,0
+19549,Sunny,7AM,Carry out & Take away,1d,1
+18852,Sunny,10AM,Coffee House,1d,1
+11884,Sunny,6PM,Restaurant(<20),2h,1
+18369,Sunny,2PM,Restaurant(20-50),2h,0
+20276,Sunny,10PM,Carry out & Take away,1d,1
+10740,Sunny,7AM,Carry out & Take away,2h,0
+18928,Sunny,7AM,Bar,1d,0
+16486,Sunny,10PM,Carry out & Take away,1d,1
+11572,Sunny,2PM,Coffee House,2h,0
+14440,Sunny,10AM,Restaurant(20-50),2h,0
+19355,Sunny,7AM,Restaurant(<20),1d,1
+11207,Sunny,6PM,Restaurant(20-50),1d,1
+14400,Sunny,6PM,Restaurant(<20),2h,1
+14309,Sunny,2PM,Coffee House,1d,1
+20804,Rainy,2PM,Carry out & Take away,2h,0
+19495,Rainy,10AM,Coffee House,1d,0
+14734,Sunny,10PM,Bar,1d,1
+13601,Sunny,7AM,Coffee House,2h,0
+20580,Sunny,6PM,Bar,2h,1
+17812,Rainy,7AM,Restaurant(<20),2h,0
+21988,Sunny,10PM,Bar,2h,0
+10359,Sunny,7AM,Coffee House,2h,0
+15532,Sunny,6PM,Restaurant(<20),2h,1
+22642,Sunny,6PM,Restaurant(<20),2h,1
+10341,Sunny,7AM,Restaurant(<20),1d,1
+10182,Sunny,2PM,Coffee House,1d,1
+17810,Sunny,6PM,Coffee House,1d,0
+17173,Sunny,10AM,Coffee House,1d,1
+13385,Sunny,2PM,Coffee House,2h,0
+19820,Sunny,6PM,Carry out & Take away,1d,1
+14592,Sunny,6PM,Restaurant(<20),1d,1
+17024,Sunny,10AM,Coffee House,1d,1
+14373,Sunny,10AM,Coffee House,1d,0
+20998,Rainy,2PM,Carry out & Take away,2h,1
+11971,Sunny,10AM,Carry out & Take away,2h,1
+18005,Sunny,6PM,Carry out & Take away,2h,1
+17933,Sunny,10PM,Restaurant(<20),2h,1
+12184,Sunny,10AM,Coffee House,2h,1
+17054,Sunny,6PM,Carry out & Take away,2h,1
+12071,Sunny,7AM,Restaurant(<20),1d,1
+17861,Sunny,10AM,Restaurant(<20),1d,1
+15033,Sunny,10AM,Coffee House,1d,1
+21847,Sunny,10PM,Bar,2h,1
+11804,Sunny,7AM,Bar,1d,1
+13228,Sunny,2PM,Restaurant(<20),1d,1
+21309,Snowy,10AM,Restaurant(<20),1d,1
+21262,Rainy,2PM,Carry out & Take away,2h,1
+17712,Sunny,10AM,Coffee House,1d,1
+18924,Sunny,6PM,Restaurant(<20),1d,1
+16653,Snowy,2PM,Bar,1d,0
+10809,Sunny,2PM,Restaurant(<20),1d,1
+15145,Sunny,7AM,Carry out & Take away,1d,0
+16583,Rainy,6PM,Carry out & Take away,1d,1
+12415,Sunny,2PM,Restaurant(<20),1d,1
+17992,Sunny,10AM,Coffee House,1d,0
+18038,Sunny,6PM,Coffee House,2h,1
+13486,Sunny,7AM,Coffee House,2h,1
+21320,Snowy,7AM,Bar,1d,0
+11937,Sunny,7AM,Restaurant(20-50),1d,0
+12708,Sunny,7AM,Restaurant(20-50),1d,1
+11176,Sunny,2PM,Coffee House,1d,0
+15455,Sunny,7AM,Carry out & Take away,1d,1
+11900,Sunny,10AM,Carry out & Take away,2h,1
+13271,Sunny,7AM,Coffee House,2h,1
+21568,Sunny,7AM,Restaurant(20-50),2h,0
+18915,Sunny,10AM,Restaurant(<20),2h,0
+16713,Rainy,6PM,Carry out & Take away,1d,1
+13458,Sunny,2PM,Coffee House,2h,0
+21106,Snowy,2PM,Restaurant(<20),1d,1
+12217,Sunny,6PM,Bar,1d,1
+19414,Sunny,6PM,Restaurant(<20),1d,0
+22676,Sunny,6PM,Restaurant(20-50),1d,1
+19279,Sunny,6PM,Restaurant(<20),1d,1
+15577,Sunny,6PM,Coffee House,1d,0
+21293,Sunny,10PM,Restaurant(20-50),1d,0
+10824,Sunny,7AM,Coffee House,2h,1
+22366,Snowy,7AM,Coffee House,1d,1
+15537,Sunny,7AM,Coffee House,2h,1
+11965,Sunny,10AM,Carry out & Take away,2h,1
+14591,Sunny,2PM,Restaurant(<20),2h,1
+17525,Sunny,10AM,Coffee House,1d,1
+22620,Rainy,6PM,Bar,2h,0
+15352,Sunny,10AM,Coffee House,1d,0
+21416,Sunny,10AM,Restaurant(<20),2h,0
+10174,Sunny,7AM,Restaurant(<20),1d,1
+19195,Rainy,6PM,Bar,1d,1
+20073,Sunny,7AM,Restaurant(<20),1d,0
+12676,Sunny,10AM,Restaurant(20-50),1d,1
+18690,Snowy,7AM,Restaurant(<20),2h,0
+15981,Sunny,7AM,Coffee House,1d,1
+19767,Sunny,10PM,Restaurant(20-50),1d,1
+10254,Sunny,7AM,Bar,1d,0
+11452,Sunny,7AM,Bar,1d,0
+18157,Rainy,2PM,Restaurant(<20),2h,1
+21557,Sunny,10PM,Restaurant(20-50),1d,0
+19621,Sunny,2PM,Restaurant(20-50),1d,0
+16202,Sunny,6PM,Bar,2h,1
+11541,Sunny,7AM,Restaurant(20-50),1d,1
+17907,Sunny,6PM,Coffee House,1d,1
+16033,Sunny,10AM,Coffee House,1d,1
+15902,Sunny,10AM,Bar,2h,0
+14544,Sunny,7AM,Coffee House,1d,0
+21449,Rainy,6PM,Carry out & Take away,1d,1
+16848,Sunny,10PM,Coffee House,1d,0
+14141,Sunny,6PM,Coffee House,1d,1
+21208,Snowy,7AM,Coffee House,1d,1
+13688,Sunny,7AM,Restaurant(<20),1d,1
+14855,Sunny,6PM,Restaurant(<20),1d,1
+20995,Sunny,10AM,Carry out & Take away,2h,1
+19653,Sunny,6PM,Carry out & Take away,1d,1
+12236,Sunny,10AM,Bar,2h,0
+17360,Rainy,2PM,Restaurant(<20),2h,1
+17117,Rainy,10AM,Carry out & Take away,2h,1
+20960,Sunny,10PM,Bar,2h,0
+16116,Sunny,2PM,Restaurant(<20),2h,1
+14920,Sunny,2PM,Restaurant(<20),2h,1
+12836,Sunny,6PM,Restaurant(20-50),1d,1
+18185,Rainy,7AM,Restaurant(<20),2h,0
+17769,Rainy,7AM,Restaurant(<20),2h,0
+10826,Sunny,7AM,Restaurant(20-50),1d,1
+16372,Sunny,2PM,Coffee House,1d,0
+13005,Sunny,10AM,Coffee House,2h,0
+11808,Sunny,7AM,Coffee House,2h,1
+21732,Snowy,7AM,Restaurant(<20),1d,1
+19920,Rainy,7AM,Bar,1d,0
+10776,Sunny,2PM,Carry out & Take away,1d,1
+12715,Sunny,10AM,Carry out & Take away,2h,1
+12081,Sunny,10AM,Carry out & Take away,2h,0
+18763,Sunny,10PM,Restaurant(<20),2h,0
+10856,Sunny,6PM,Restaurant(<20),2h,1
+14631,Sunny,7AM,Carry out & Take away,1d,1
+20946,Snowy,7AM,Bar,1d,1
+14098,Sunny,6PM,Coffee House,1d,0
+12635,Sunny,2PM,Restaurant(<20),1d,1
+14360,Sunny,6PM,Coffee House,2h,0
+19764,Sunny,6PM,Restaurant(<20),1d,1
+21358,Sunny,6PM,Restaurant(20-50),1d,1
+17215,Snowy,7AM,Restaurant(20-50),1d,0
+21371,Sunny,10AM,Carry out & Take away,2h,1
+15887,Sunny,6PM,Coffee House,2h,0
+18626,Sunny,7AM,Restaurant(<20),1d,1
+22249,Sunny,6PM,Carry out & Take away,2h,1
+13384,Sunny,10AM,Carry out & Take away,2h,1
+16771,Sunny,10PM,Carry out & Take away,1d,1
+21422,Rainy,10PM,Coffee House,2h,1
+16219,Sunny,10AM,Restaurant(<20),1d,0
+11524,Sunny,10AM,Coffee House,2h,1
+19903,Rainy,10AM,Coffee House,1d,1
+11633,Sunny,2PM,Restaurant(<20),1d,0
+21403,Sunny,6PM,Restaurant(<20),1d,1
+15744,Sunny,6PM,Restaurant(<20),1d,1
+20625,Sunny,10AM,Carry out & Take away,1d,1
+11219,Sunny,2PM,Coffee House,1d,1
+20147,Sunny,2PM,Restaurant(20-50),1d,1
+21307,Sunny,10AM,Restaurant(20-50),1d,0
+17271,Rainy,10AM,Carry out & Take away,2h,1
+17864,Sunny,6PM,Coffee House,1d,1
+20827,Sunny,10PM,Bar,1d,1
+17340,Sunny,6PM,Carry out & Take away,2h,1
+19770,Sunny,7AM,Coffee House,1d,1
+13135,Sunny,7AM,Restaurant(<20),1d,0
+14047,Sunny,10AM,Coffee House,1d,0
+22316,Sunny,6PM,Carry out & Take away,1d,0
+11998,Sunny,6PM,Bar,1d,1
+13656,Sunny,2PM,Restaurant(<20),1d,1
+14262,Sunny,10AM,Coffee House,2h,0
+15125,Sunny,7AM,Carry out & Take away,1d,1
+11320,Sunny,7AM,Bar,1d,0
+17792,Snowy,7AM,Restaurant(<20),2h,0
+10512,Sunny,7AM,Bar,1d,0
+17273,Snowy,2PM,Coffee House,2h,1
+10459,Sunny,2PM,Restaurant(<20),1d,1
+15747,Sunny,10AM,Carry out & Take away,1d,0
+18938,Snowy,2PM,Bar,1d,0
+12424,Sunny,7AM,Coffee House,2h,0
+16963,Rainy,10AM,Carry out & Take away,2h,1
+13717,Sunny,2PM,Coffee House,2h,1
+12528,Sunny,6PM,Coffee House,2h,1
+18380,Sunny,6PM,Bar,2h,0
+14424,Sunny,6PM,Coffee House,1d,0
+20546,Snowy,7AM,Carry out & Take away,1d,1
+15497,Sunny,7AM,Carry out & Take away,1d,1
+18661,Sunny,6PM,Carry out & Take away,2h,1
+11354,Sunny,10AM,Coffee House,2h,1
+12363,Sunny,2PM,Coffee House,2h,0
+15163,Sunny,6PM,Coffee House,2h,0
+18112,Snowy,10PM,Carry out & Take away,1d,1
+22021,Sunny,10PM,Bar,1d,1
+15662,Sunny,10PM,Carry out & Take away,1d,0
+18354,Snowy,2PM,Coffee House,2h,0
+19409,Rainy,10AM,Coffee House,1d,0
+19154,Sunny,7AM,Bar,1d,0
+12950,Sunny,6PM,Coffee House,2h,0
+15604,Sunny,7AM,Restaurant(20-50),2h,0
+11654,Sunny,7AM,Coffee House,2h,1
+17452,Snowy,10PM,Restaurant(20-50),2h,0
+19665,Sunny,2PM,Restaurant(20-50),1d,0
+11009,Sunny,7AM,Carry out & Take away,2h,1
+19930,Snowy,2PM,Bar,1d,0
+15674,Sunny,7AM,Coffee House,1d,0
+14598,Sunny,6PM,Restaurant(<20),1d,1
+18599,Sunny,6PM,Coffee House,1d,0
+14140,Sunny,6PM,Coffee House,1d,1
+21776,Snowy,7AM,Restaurant(<20),1d,0
+13855,Sunny,2PM,Carry out & Take away,1d,1
+22483,Sunny,10AM,Carry out & Take away,2h,1
+13869,Sunny,2PM,Coffee House,2h,1
+12333,Sunny,7AM,Carry out & Take away,2h,1
+20890,Rainy,6PM,Bar,2h,0
+16394,Sunny,10PM,Carry out & Take away,1d,1
+18684,Rainy,10PM,Coffee House,1d,0
+21976,Sunny,10PM,Restaurant(20-50),2h,0
+15664,Sunny,6PM,Coffee House,2h,0
+15257,Sunny,7AM,Carry out & Take away,1d,0
+18631,Sunny,10PM,Restaurant(<20),2h,1
+19964,Rainy,7AM,Bar,1d,0
+14092,Sunny,10AM,Restaurant(20-50),2h,0
+22237,Snowy,7AM,Bar,1d,0
+21098,Snowy,7AM,Coffee House,1d,1
+12858,Sunny,6PM,Restaurant(20-50),1d,0
+18926,Snowy,10PM,Restaurant(<20),2h,0
+21711,Snowy,7AM,Bar,1d,0
+18810,Rainy,10PM,Bar,2h,1
+10011,Sunny,2PM,Restaurant(<20),1d,1
+21176,Snowy,10AM,Restaurant(<20),1d,0
+12611,Sunny,10AM,Restaurant(<20),2h,0
+19364,Sunny,10AM,Carry out & Take away,1d,1
+20537,Sunny,6PM,Carry out & Take away,1d,1
+15386,Sunny,7AM,Restaurant(20-50),2h,1
+22321,Sunny,10PM,Restaurant(<20),2h,0
+15422,Sunny,10PM,Carry out & Take away,1d,0
+22379,Sunny,6PM,Carry out & Take away,2h,1
+12218,Sunny,6PM,Bar,1d,1
+19115,Sunny,2PM,Restaurant(20-50),1d,1
+12008,Sunny,10AM,Coffee House,2h,1
+18562,Rainy,10PM,Bar,1d,0
+16588,Rainy,6PM,Restaurant(<20),2h,1
+10971,Sunny,2PM,Coffee House,2h,1
+13479,Sunny,10AM,Bar,1d,0
+21795,Snowy,10PM,Coffee House,2h,0
+21101,Sunny,7AM,Restaurant(20-50),2h,1
+22023,Sunny,10AM,Carry out & Take away,2h,1
+22477,Snowy,7AM,Restaurant(<20),1d,0
+15086,Sunny,6PM,Restaurant(<20),1d,1
+16026,Sunny,10AM,Bar,1d,0
+22654,Sunny,6PM,Carry out & Take away,1d,1
+11213,Sunny,7AM,Restaurant(<20),1d,0
+16615,Sunny,6PM,Bar,2h,0
+13909,Sunny,7AM,Coffee House,2h,0
+13811,Sunny,6PM,Restaurant(<20),2h,0
+16947,Sunny,6PM,Bar,2h,1
+20173,Sunny,6PM,Restaurant(20-50),2h,1
+13351,Sunny,7AM,Carry out & Take away,2h,0
+13665,Sunny,7AM,Carry out & Take away,2h,0
+10012,Sunny,6PM,Coffee House,2h,1
+16263,Sunny,10AM,Coffee House,1d,1
+20393,Sunny,6PM,Bar,2h,1
+22130,Sunny,6PM,Restaurant(<20),2h,1
+20091,Sunny,10PM,Restaurant(20-50),1d,0
+21070,Sunny,10PM,Bar,2h,0
+20805,Sunny,10AM,Restaurant(<20),2h,0
+15006,Sunny,10AM,Coffee House,2h,1
+11512,Sunny,6PM,Restaurant(<20),2h,1
+12050,Sunny,7AM,Coffee House,2h,0
+18147,Sunny,6PM,Coffee House,2h,1
+21841,Rainy,7AM,Carry out & Take away,1d,1
+21118,Rainy,7AM,Restaurant(<20),2h,0
+15320,Sunny,7AM,Coffee House,2h,0
+15665,Sunny,10PM,Restaurant(<20),2h,0
+16684,Sunny,7AM,Bar,1d,1
+21876,Sunny,6PM,Restaurant(<20),2h,0
+18744,Sunny,10PM,Restaurant(<20),2h,0
+19816,Snowy,2PM,Bar,1d,1
+19615,Sunny,7AM,Carry out & Take away,1d,0
+12288,Sunny,7AM,Bar,1d,1
+14168,Sunny,7AM,Coffee House,2h,0
+19751,Sunny,10AM,Coffee House,2h,1
+18606,Rainy,10PM,Bar,1d,0
+11021,Sunny,6PM,Restaurant(<20),2h,0
+14496,Sunny,7AM,Restaurant(20-50),2h,0
+20250,Sunny,10AM,Coffee House,2h,0
+11463,Sunny,2PM,Carry out & Take away,1d,1
+19340,Sunny,10PM,Carry out & Take away,1d,1
+18583,Sunny,10AM,Coffee House,1d,0
+16248,Sunny,10PM,Restaurant(<20),2h,0
+17380,Sunny,10AM,Bar,1d,0
+21298,Snowy,7AM,Bar,1d,0
+18395,Snowy,10AM,Carry out & Take away,1d,1
+19002,Sunny,10PM,Coffee House,1d,1
+15558,Sunny,6PM,Coffee House,2h,1
+13621,Sunny,7AM,Carry out & Take away,2h,1
+21537,Snowy,7AM,Coffee House,1d,1
+13696,Sunny,2PM,Carry out & Take away,1d,1
+17202,Sunny,10PM,Restaurant(<20),2h,0
+19748,Sunny,7AM,Restaurant(<20),1d,1
+13003,Sunny,7AM,Coffee House,2h,0
+14508,Sunny,10AM,Coffee House,1d,1
+15798,Sunny,6PM,Restaurant(<20),2h,1
+20134,Sunny,10PM,Restaurant(20-50),1d,1
+12234,Sunny,10AM,Coffee House,2h,0
+12051,Sunny,2PM,Restaurant(<20),1d,1
+11288,Sunny,10AM,Coffee House,2h,0
+13725,Sunny,6PM,Bar,1d,1
+18345,Sunny,6PM,Coffee House,1d,0
+14752,Sunny,6PM,Restaurant(<20),2h,1
+10515,Sunny,7AM,Restaurant(<20),1d,1
+20033,Sunny,10PM,Coffee House,1d,0
+20910,Sunny,10AM,Restaurant(<20),2h,1
+18281,Sunny,6PM,Coffee House,1d,1
+11482,Sunny,2PM,Coffee House,2h,1
+11754,Sunny,2PM,Carry out & Take away,1d,1
+19143,Rainy,10PM,Restaurant(20-50),2h,0
+10376,Sunny,2PM,Restaurant(<20),1d,1
+19981,Rainy,6PM,Coffee House,1d,1
+22342,Snowy,10PM,Coffee House,2h,0
+17323,Rainy,7AM,Restaurant(20-50),1d,1
+19454,Sunny,6PM,Restaurant(<20),1d,0
+11464,Sunny,10AM,Restaurant(<20),2h,1
+20818,Snowy,7AM,Bar,1d,0
+14004,Sunny,10AM,Carry out & Take away,1d,1
+19522,Sunny,10PM,Bar,1d,0
+16142,Sunny,10AM,Coffee House,1d,1
+14906,Sunny,6PM,Coffee House,1d,1
+15557,Sunny,6PM,Restaurant(<20),2h,1
+15833,Sunny,2PM,Coffee House,1d,1
+20230,Sunny,10PM,Carry out & Take away,1d,1
+14459,Sunny,6PM,Restaurant(<20),1d,1
+19871,Sunny,10PM,Restaurant(20-50),1d,1
+15837,Sunny,6PM,Coffee House,1d,1
+19577,Sunny,10PM,Coffee House,1d,0
+15638,Sunny,6PM,Coffee House,1d,1
+10282,Sunny,10AM,Coffee House,2h,1
+10702,Sunny,2PM,Coffee House,2h,0
+19916,Sunny,7AM,Bar,1d,0
+16299,Sunny,7AM,Carry out & Take away,1d,1
+21399,Sunny,6PM,Carry out & Take away,1d,1
+15765,Sunny,2PM,Restaurant(<20),2h,0
+18511,Sunny,6PM,Bar,2h,1
+16403,Sunny,7AM,Carry out & Take away,1d,0
+17279,Rainy,7AM,Restaurant(<20),2h,0
+13079,Sunny,6PM,Restaurant(<20),2h,0
+21296,Snowy,7AM,Coffee House,1d,1
+15450,Sunny,7AM,Coffee House,2h,0
+18069,Sunny,10AM,Coffee House,1d,0
+11619,Sunny,6PM,Coffee House,2h,1
+13393,Sunny,6PM,Restaurant(<20),2h,1
+14672,Sunny,7AM,Coffee House,2h,1
+11364,Sunny,7AM,Bar,1d,0
+16407,Sunny,10AM,Bar,1d,1
+22680,Rainy,7AM,Carry out & Take away,1d,1
+22221,Snowy,2PM,Restaurant(<20),1d,1
+13558,Sunny,2PM,Restaurant(<20),1d,1
+18500,Sunny,2PM,Restaurant(20-50),2h,1
+16545,Sunny,6PM,Coffee House,1d,1
+16063,Sunny,7AM,Coffee House,2h,1
+20771,Sunny,7AM,Carry out & Take away,1d,0
+10316,Sunny,6PM,Coffee House,2h,0
+15296,Sunny,10PM,Restaurant(<20),2h,1
+18697,Sunny,10PM,Restaurant(<20),2h,0
+10597,Sunny,6PM,Coffee House,2h,0
+13472,Sunny,10AM,Carry out & Take away,2h,1
+14810,Sunny,2PM,Restaurant(<20),2h,1
+14074,Sunny,6PM,Coffee House,1d,0
+10677,Sunny,2PM,Restaurant(<20),1d,1
+12440,Sunny,10AM,Coffee House,2h,1
+17518,Snowy,10PM,Restaurant(20-50),2h,1
+12924,Sunny,10AM,Carry out & Take away,2h,1
+18725,Rainy,10AM,Carry out & Take away,2h,1
+18282,Sunny,6PM,Carry out & Take away,1d,1
+11613,Sunny,10AM,Bar,1d,1
+17829,Rainy,10PM,Coffee House,1d,0
+16327,Sunny,6PM,Restaurant(<20),1d,1
+17108,Sunny,6PM,Coffee House,2h,0
+14366,Sunny,7AM,Carry out & Take away,1d,1
+16087,Sunny,7AM,Restaurant(20-50),2h,0
+18906,Sunny,7AM,Bar,1d,0
+17901,Snowy,7AM,Restaurant(<20),2h,0
+22299,Rainy,7AM,Restaurant(<20),2h,0
+15896,Sunny,10AM,Coffee House,2h,1
+21730,Rainy,7AM,Carry out & Take away,1d,1
+10681,Sunny,2PM,Coffee House,1d,0
+13346,Sunny,6PM,Restaurant(20-50),1d,1
+12092,Sunny,7AM,Carry out & Take away,2h,0
+20806,Snowy,10AM,Restaurant(<20),1d,0
+18118,Sunny,6PM,Bar,2h,0
+16425,Sunny,7AM,Coffee House,2h,1
+15720,Sunny,10AM,Coffee House,2h,1
+22486,Sunny,10AM,Restaurant(<20),2h,1
+14609,Sunny,7AM,Carry out & Take away,1d,1
+10887,Sunny,2PM,Restaurant(<20),1d,1
+17718,Sunny,10AM,Coffee House,1d,0
+13372,Sunny,10AM,Coffee House,2h,1
+14153,Sunny,2PM,Restaurant(<20),2h,1
+16696,Sunny,6PM,Coffee House,2h,0
+16904,Sunny,7AM,Bar,1d,0
+13927,Sunny,7AM,Bar,1d,0
+16536,Sunny,7AM,Carry out & Take away,1d,1
+20480,Sunny,7AM,Bar,1d,0
+13163,Sunny,7AM,Coffee House,2h,0
+22402,Sunny,10PM,Restaurant(20-50),1d,0
+18524,Sunny,10PM,Restaurant(<20),2h,0
+22172,Sunny,7AM,Restaurant(20-50),2h,0
+18166,Snowy,7AM,Restaurant(20-50),1d,0
+12467,Sunny,6PM,Coffee House,2h,0
+10567,Sunny,2PM,Restaurant(<20),1d,1
+18507,Sunny,2PM,Coffee House,1d,1
+22294,Rainy,10PM,Coffee House,2h,0
+21671,Sunny,10PM,Restaurant(20-50),1d,1
+14144,Sunny,10PM,Restaurant(<20),2h,1
+20281,Sunny,10PM,Restaurant(<20),1d,1
+22484,Snowy,2PM,Restaurant(<20),1d,1
+10054,Sunny,2PM,Coffee House,2h,1
+17358,Sunny,10AM,Bar,1d,0
+10711,Sunny,6PM,Bar,1d,1
+10451,Sunny,7AM,Coffee House,2h,0
+21290,Snowy,10PM,Coffee House,2h,0
+18604,Sunny,7AM,Restaurant(<20),1d,1
+15727,Sunny,6PM,Coffee House,1d,0
+10393,Sunny,2PM,Coffee House,1d,0
+14118,Sunny,6PM,Coffee House,1d,0
+17946,Snowy,7AM,Restaurant(20-50),1d,1
+12257,Sunny,6PM,Coffee House,2h,0
+11025,Sunny,6PM,Bar,1d,1
+14521,Sunny,7AM,Carry out & Take away,1d,0
+10792,Sunny,6PM,Restaurant(<20),2h,1
+20164,Sunny,10AM,Coffee House,2h,1
+17714,Sunny,10PM,Restaurant(<20),2h,0
+14510,Sunny,6PM,Restaurant(<20),1d,1
+15133,Sunny,6PM,Restaurant(20-50),2h,0
+19654,Sunny,6PM,Restaurant(<20),1d,1
+18776,Sunny,6PM,Bar,2h,0
+18925,Rainy,6PM,Bar,1d,0
+17977,Sunny,10PM,Restaurant(<20),2h,0
+12492,Sunny,7AM,Restaurant(<20),1d,1
+22165,Snowy,10PM,Carry out & Take away,1d,0
+22035,Sunny,10PM,Restaurant(20-50),1d,0
+19860,Sunny,10PM,Carry out & Take away,1d,1
+11507,Sunny,2PM,Carry out & Take away,1d,1
+12007,Sunny,2PM,Restaurant(<20),1d,1
+20420,Sunny,7AM,Carry out & Take away,1d,0
+14922,Sunny,2PM,Coffee House,1d,0
+16077,Sunny,6PM,Coffee House,1d,1
+19224,Rainy,7AM,Bar,1d,0
+14476,Sunny,7AM,Carry out & Take away,1d,0
+13706,Sunny,7AM,Coffee House,2h,0
+18748,Sunny,2PM,Restaurant(20-50),1d,0
+10666,Sunny,6PM,Restaurant(<20),2h,1
+13086,Sunny,7AM,Coffee House,2h,0
+10421,Sunny,6PM,Bar,1d,0
+20496,Sunny,6PM,Restaurant(20-50),1d,1
+18326,Sunny,6PM,Coffee House,1d,1
+21357,Snowy,10PM,Carry out & Take away,1d,1
+16162,Sunny,10PM,Bar,1d,0
+12809,Sunny,6PM,Restaurant(<20),2h,1
+13507,Sunny,6PM,Coffee House,2h,0
+20287,Sunny,10PM,Restaurant(20-50),1d,1
+13374,Sunny,6PM,Restaurant(20-50),1d,1
+11322,Sunny,7AM,Carry out & Take away,2h,0
+17562,Sunny,2PM,Restaurant(20-50),2h,0
+21558,Sunny,10PM,Restaurant(20-50),2h,0
+18550,Rainy,2PM,Restaurant(<20),2h,0
+14466,Sunny,6PM,Restaurant(<20),2h,1
+10328,Sunny,6PM,Restaurant(<20),2h,1
+21784,Sunny,10AM,Carry out & Take away,2h,1
+15742,Sunny,10AM,Coffee House,2h,1
+22129,Sunny,7AM,Restaurant(20-50),2h,0
+10430,Sunny,2PM,Restaurant(<20),1d,1
+17032,Rainy,10PM,Coffee House,1d,1
+11897,Sunny,2PM,Restaurant(<20),1d,1
+22274,Snowy,10PM,Carry out & Take away,1d,1
+18817,Snowy,10PM,Restaurant(20-50),2h,0
+14565,Sunny,7AM,Carry out & Take away,1d,1
+22187,Sunny,6PM,Restaurant(20-50),1d,1
+14615,Sunny,2PM,Coffee House,1d,1
+17920,Sunny,6PM,Coffee House,1d,1
+10696,Sunny,7AM,Carry out & Take away,2h,0
+22185,Snowy,10PM,Coffee House,2h,0
+14104,Sunny,7AM,Coffee House,2h,0
+17981,Sunny,2PM,Restaurant(20-50),1d,0
+18235,Snowy,6PM,Bar,1d,0
+18389,Sunny,2PM,Restaurant(20-50),2h,0
+10720,Sunny,7AM,Coffee House,2h,0
+18745,Rainy,10PM,Bar,2h,1
+16180,Sunny,6PM,Bar,2h,1
+13890,Sunny,10AM,Bar,1d,1
+17553,Sunny,7AM,Restaurant(<20),1d,1
+17685,Sunny,10AM,Coffee House,1d,1
+14956,Sunny,7AM,Coffee House,2h,0
+17219,Snowy,6PM,Bar,1d,0
+20510,Sunny,10PM,Carry out & Take away,1d,1
+20146,Snowy,2PM,Bar,1d,1
+22634,Sunny,10PM,Restaurant(20-50),2h,0
+21666,Snowy,10AM,Restaurant(<20),1d,1
+14078,Sunny,6PM,Coffee House,2h,0
+21470,Sunny,6PM,Restaurant(20-50),1d,1
+13515,Sunny,10AM,Coffee House,2h,1
+21142,Snowy,7AM,Coffee House,1d,1
+20140,Rainy,7AM,Bar,1d,0
+22391,Sunny,7AM,Restaurant(20-50),2h,0
+12970,Sunny,2PM,Restaurant(<20),1d,0
+18775,Sunny,6PM,Coffee House,1d,0
+12331,Sunny,7AM,Bar,1d,0
+16526,Sunny,10PM,Carry out & Take away,1d,1
+18442,Sunny,6PM,Carry out & Take away,2h,1
+11607,Sunny,7AM,Restaurant(20-50),1d,0
+13654,Sunny,10AM,Carry out & Take away,2h,1
+17112,Rainy,10PM,Bar,2h,0
+22053,Sunny,10PM,Restaurant(20-50),2h,0
+10593,Sunny,2PM,Coffee House,1d,0
+22000,Sunny,10PM,Bar,2h,1
+18262,Sunny,10PM,Restaurant(<20),2h,0
+22647,Rainy,10AM,Bar,1d,0
+20691,Sunny,6PM,Carry out & Take away,1d,1
+15991,Sunny,10PM,Carry out & Take away,1d,0
+18722,Snowy,10PM,Carry out & Take away,1d,1
+16641,Sunny,7AM,Restaurant(<20),1d,1
+12486,Sunny,6PM,Bar,1d,0
+21858,Snowy,10PM,Coffee House,2h,0
+13222,Sunny,7AM,Coffee House,2h,0
+20718,Sunny,7AM,Bar,1d,0
+13234,Sunny,2PM,Coffee House,1d,1
+15944,Sunny,10AM,Coffee House,1d,0
+12052,Sunny,10AM,Coffee House,2h,1
+15036,Sunny,2PM,Coffee House,2h,1
+13590,Sunny,10AM,Coffee House,2h,1
+12698,Sunny,10AM,Carry out & Take away,2h,0
+15161,Sunny,6PM,Coffee House,1d,0
+20449,Sunny,10PM,Carry out & Take away,1d,0
+11076,Sunny,7AM,Restaurant(<20),1d,1
+10866,Sunny,10AM,Restaurant(20-50),1d,1
+19995,Rainy,10AM,Coffee House,1d,1
+12434,Sunny,2PM,Coffee House,1d,1
+21179,Rainy,10PM,Coffee House,2h,0
+19667,Sunny,10AM,Restaurant(<20),2h,1
+21276,Snowy,7AM,Bar,1d,1
+18450,Sunny,7AM,Restaurant(<20),1d,1
+13190,Sunny,6PM,Restaurant(<20),2h,1
+14042,Sunny,10AM,Bar,1d,0
+20598,Sunny,2PM,Restaurant(20-50),1d,1
+20794,Snowy,7AM,Coffee House,1d,1
+13096,Sunny,2PM,Coffee House,1d,1
+19339,Sunny,10AM,Restaurant(<20),2h,0
+19098,Sunny,10PM,Carry out & Take away,2h,1
+19020,Rainy,7AM,Bar,1d,0
+10461,Sunny,6PM,Restaurant(<20),2h,1
+10221,Sunny,2PM,Carry out & Take away,1d,1
+21100,Snowy,7AM,Bar,1d,1
+19092,Snowy,2PM,Bar,1d,1
+15453,Sunny,7AM,Carry out & Take away,1d,1
+12494,Sunny,2PM,Restaurant(<20),1d,1
+18702,Sunny,10AM,Bar,1d,0
+15797,Sunny,6PM,Coffee House,1d,0
+10653,Sunny,7AM,Restaurant(<20),1d,1
+15246,Sunny,6PM,Restaurant(<20),1d,1
+18426,Rainy,7AM,Restaurant(<20),2h,1
+12669,Sunny,10AM,Coffee House,2h,1
+20463,Sunny,10PM,Restaurant(20-50),1d,1
+10348,Sunny,6PM,Restaurant(<20),2h,1
+15563,Sunny,7AM,Carry out & Take away,1d,1
+14927,Sunny,2PM,Coffee House,2h,0
+21943,Sunny,6PM,Carry out & Take away,1d,0
+22569,Sunny,10PM,Bar,1d,1
+21973,Snowy,7AM,Coffee House,1d,1
+15503,Sunny,6PM,Restaurant(<20),1d,1
+13460,Sunny,10AM,Coffee House,2h,0
+12418,Sunny,2PM,Coffee House,2h,1
+14019,Sunny,7AM,Coffee House,1d,0
+15796,Sunny,6PM,Coffee House,1d,0
+10675,Sunny,7AM,Restaurant(<20),1d,1
+21400,Rainy,10PM,Coffee House,2h,0
+12256,Sunny,2PM,Restaurant(<20),1d,1
+16237,Sunny,10AM,Coffee House,2h,1
+17953,Sunny,2PM,Restaurant(20-50),2h,0
+12877,Sunny,6PM,Restaurant(<20),2h,1
+10173,Sunny,7AM,Carry out & Take away,2h,0
+10965,Sunny,7AM,Carry out & Take away,2h,0
+18655,Sunny,6PM,Carry out & Take away,1d,0
+11617,Sunny,2PM,Coffee House,1d,1
+16923,Snowy,6PM,Coffee House,1d,1
+18800,Snowy,7AM,Restaurant(20-50),1d,0
+13648,Sunny,10AM,Carry out & Take away,2h,1
+13913,Sunny,10AM,Carry out & Take away,2h,1
+20376,Sunny,7AM,Bar,1d,0
+22476,Snowy,7AM,Coffee House,1d,1
+21611,Snowy,7AM,Bar,1d,0
+14804,Sunny,7AM,Carry out & Take away,1d,1
+15472,Sunny,7AM,Coffee House,2h,0
+19371,Rainy,6PM,Bar,1d,1
+15510,Sunny,6PM,Bar,2h,0
+12860,Sunny,7AM,Coffee House,2h,1
+15247,Sunny,6PM,Bar,2h,0
+18001,Sunny,10AM,Bar,1d,1
+20395,Sunny,6PM,Restaurant(<20),1d,0
+21547,Sunny,10PM,Restaurant(20-50),2h,0
+20672,Sunny,6PM,Restaurant(20-50),2h,1
+21072,Sunny,6PM,Carry out & Take away,1d,1
+20383,Sunny,10PM,Coffee House,1d,1
+16932,Rainy,10PM,Bar,1d,0
+15018,Sunny,6PM,Restaurant(<20),2h,1
+12059,Sunny,10AM,Carry out & Take away,2h,0
+17670,Sunny,10PM,Restaurant(<20),2h,1
+19724,Sunny,7AM,Carry out & Take away,1d,1
+17841,Sunny,6PM,Coffee House,1d,1
+22542,Snowy,7AM,Coffee House,1d,0
+17522,Snowy,7AM,Restaurant(<20),2h,0
+14947,Sunny,6PM,Coffee House,1d,0
+20217,Snowy,10PM,Restaurant(<20),2h,0
+19148,Sunny,6PM,Restaurant(20-50),1d,0
+21614,Snowy,6PM,Bar,1d,1
+10698,Sunny,7AM,Coffee House,2h,0
+12605,Sunny,10AM,Coffee House,2h,1
+12244,Sunny,7AM,Bar,1d,0
+21528,Sunny,6PM,Carry out & Take away,2h,0
+11708,Sunny,10AM,Bar,1d,0
+19321,Rainy,10AM,Coffee House,1d,0
+17160,Snowy,10AM,Carry out & Take away,1d,1
+17262,Sunny,6PM,Coffee House,2h,1
+12478,Sunny,2PM,Coffee House,1d,0
+15571,Sunny,10AM,Carry out & Take away,1d,0
+14579,Sunny,6PM,Coffee House,1d,1
+19568,Rainy,6PM,Bar,1d,1
+16811,Sunny,6PM,Bar,2h,0
+20213,Sunny,10PM,Restaurant(<20),1d,1
+12873,Sunny,10AM,Coffee House,2h,1
+12768,Sunny,6PM,Coffee House,2h,0
+10110,Sunny,2PM,Restaurant(<20),1d,1
+21808,Rainy,10AM,Bar,1d,0
+17085,Sunny,10AM,Coffee House,1d,1
+11131,Sunny,10AM,Bar,1d,0
+13006,Sunny,10AM,Carry out & Take away,2h,1
+18119,Sunny,10PM,Carry out & Take away,2h,1
+14880,Sunny,10AM,Carry out & Take away,1d,1
+10728,Sunny,2PM,Restaurant(<20),1d,1
+13463,Sunny,6PM,Coffee House,2h,0
+15174,Sunny,6PM,Restaurant(<20),1d,1
+20394,Sunny,6PM,Carry out & Take away,1d,1
+17076,Sunny,6PM,Carry out & Take away,2h,1
+12261,Sunny,10AM,Coffee House,2h,0
+22206,Sunny,10PM,Restaurant(20-50),2h,0
+19800,Sunny,2PM,Bar,1d,0
+19039,Rainy,7AM,Carry out & Take away,2h,0
+18208,Snowy,7AM,Restaurant(<20),2h,1
+19295,Sunny,10AM,Restaurant(<20),2h,1
+19971,Sunny,2PM,Restaurant(20-50),1d,0
+20338,Sunny,10AM,Coffee House,2h,1
+15233,Sunny,7AM,Coffee House,2h,1
+17425,Snowy,10PM,Carry out & Take away,1d,1
+11067,Sunny,6PM,Restaurant(<20),2h,1
+13088,Sunny,7AM,Restaurant(20-50),1d,1
+12140,Sunny,10AM,Coffee House,2h,1
+14576,Sunny,6PM,Restaurant(<20),1d,1
+16655,Rainy,10PM,Bar,1d,0
+11537,Sunny,6PM,Restaurant(20-50),1d,1
+11015,Sunny,10AM,Carry out & Take away,2h,0
+16201,Sunny,6PM,Restaurant(<20),1d,1
+20757,Rainy,10AM,Coffee House,1d,1
+11242,Sunny,2PM,Coffee House,2h,0
+12682,Sunny,6PM,Restaurant(20-50),1d,0
+19121,Sunny,6PM,Restaurant(20-50),2h,0
+10865,Sunny,10AM,Coffee House,2h,1
+15740,Sunny,7AM,Coffee House,1d,1
+15888,Sunny,10PM,Restaurant(<20),2h,0
+16984,Snowy,10AM,Carry out & Take away,1d,1
+21160,Sunny,6PM,Carry out & Take away,1d,1
+18873,Rainy,10PM,Restaurant(20-50),2h,1
+11274,Sunny,6PM,Coffee House,2h,0
+11478,Sunny,7AM,Coffee House,2h,0
+11930,Sunny,2PM,Carry out & Take away,1d,1
+11966,Sunny,2PM,Coffee House,2h,0
+22374,Snowy,2PM,Restaurant(<20),1d,1
+18137,Rainy,10PM,Coffee House,1d,0
+22528,Snowy,2PM,Restaurant(<20),1d,0
+11701,Sunny,10AM,Carry out & Take away,2h,1
+21211,Sunny,7AM,Restaurant(20-50),2h,0
+19696,Snowy,10PM,Restaurant(<20),2h,0
+18017,Sunny,2PM,Restaurant(20-50),2h,0
+17037,Rainy,7AM,Restaurant(20-50),1d,1
+18290,Snowy,6PM,Coffee House,1d,0
+17125,Rainy,7AM,Restaurant(<20),2h,0
+12972,Sunny,6PM,Coffee House,2h,0
+10545,Sunny,2PM,Restaurant(<20),1d,1
+18899,Sunny,6PM,Restaurant(<20),1d,1
+17194,Sunny,7AM,Restaurant(<20),1d,1
+12523,Sunny,10AM,Restaurant(<20),2h,1
+12158,Sunny,7AM,Carry out & Take away,2h,1
+21140,Rainy,7AM,Restaurant(<20),2h,1
+16355,Sunny,6PM,Restaurant(<20),1d,1
+17433,Rainy,7AM,Restaurant(20-50),1d,1
+16093,Sunny,10AM,Coffee House,2h,0
+10133,Sunny,10AM,Coffee House,2h,1
+19945,Sunny,2PM,Restaurant(20-50),1d,1
+12318,Sunny,10AM,Carry out & Take away,2h,1
+18641,Snowy,6PM,Coffee House,1d,0
+21463,Sunny,6PM,Restaurant(<20),2h,0
+17145,Sunny,6PM,Bar,2h,0
+19530,Rainy,7AM,Bar,1d,1
+10765,Sunny,2PM,Restaurant(<20),1d,1
+15866,Sunny,10PM,Restaurant(<20),2h,0
+17025,Sunny,6PM,Carry out & Take away,1d,1
+21697,Rainy,10AM,Bar,1d,0
+17203,Rainy,10PM,Bar,2h,0
+11853,Sunny,2PM,Restaurant(<20),1d,1
+21918,Sunny,10AM,Restaurant(<20),2h,1
+12104,Sunny,6PM,Restaurant(<20),2h,1
+19706,Snowy,7AM,Carry out & Take away,1d,1
+13056,Sunny,10AM,Carry out & Take away,2h,0
+18387,Sunny,10AM,Restaurant(<20),1d,1
+11813,Sunny,2PM,Coffee House,1d,1
+13092,Sunny,2PM,Restaurant(<20),1d,1
+15572,Sunny,10AM,Bar,2h,0
+16000,Sunny,7AM,Carry out & Take away,1d,1
+14322,Sunny,7AM,Restaurant(20-50),2h,0
+10098,Sunny,2PM,Coffee House,2h,1
+12074,Sunny,10AM,Coffee House,2h,1
+17114,Snowy,10PM,Carry out & Take away,1d,1
+13605,Sunny,10AM,Carry out & Take away,2h,0
+16582,Rainy,10AM,Coffee House,1d,1
+20430,Rainy,10PM,Restaurant(20-50),2h,1
+13363,Sunny,10AM,Carry out & Take away,2h,0
+15421,Sunny,6PM,Coffee House,1d,0
+10443,Sunny,6PM,Bar,1d,0
+20083,Rainy,10AM,Coffee House,1d,1
+11063,Sunny,10AM,Coffee House,2h,1
+16281,Sunny,10AM,Coffee House,2h,0
+19668,Sunny,10PM,Carry out & Take away,1d,1
+11166,Sunny,10AM,Coffee House,2h,1
+20444,Sunny,7AM,Restaurant(<20),1d,1
+18547,Sunny,10PM,Restaurant(<20),1d,1
+18396,Snowy,10PM,Carry out & Take away,1d,1
+15480,Sunny,2PM,Restaurant(<20),2h,0
+11989,Sunny,2PM,Coffee House,1d,0
+11429,Sunny,7AM,Coffee House,2h,0
+18675,Sunny,6PM,Coffee House,1d,1
+11200,Sunny,2PM,Carry out & Take away,1d,1
+22060,Rainy,7AM,Carry out & Take away,1d,0
+16996,Sunny,7AM,Restaurant(<20),1d,1
+13896,Sunny,6PM,Coffee House,2h,0
+22521,Snowy,7AM,Coffee House,1d,0
+13055,Sunny,10AM,Restaurant(<20),2h,0
+12557,Sunny,7AM,Carry out & Take away,2h,1
+12541,Sunny,10AM,Carry out & Take away,2h,1
+19287,Sunny,7AM,Carry out & Take away,1d,1
+21374,Sunny,10AM,Restaurant(<20),2h,1
+21286,Snowy,10AM,Restaurant(<20),1d,1
+21522,Sunny,10AM,Carry out & Take away,2h,1
+17006,Snowy,10AM,Carry out & Take away,1d,0
+14974,Sunny,10PM,Carry out & Take away,1d,1
+21793,Sunny,6PM,Carry out & Take away,1d,1
+15943,Sunny,2PM,Coffee House,1d,0
+15443,Sunny,6PM,Coffee House,1d,0
+13903,Sunny,6PM,Coffee House,2h,0
+12533,Sunny,7AM,Bar,1d,1
+15707,Sunny,6PM,Bar,2h,1
+12729,Sunny,7AM,Bar,1d,0
+14304,Sunny,7AM,Coffee House,1d,1
+18283,Sunny,10PM,Restaurant(<20),2h,1
+20859,Sunny,10AM,Restaurant(20-50),1d,1
+13446,Sunny,7AM,Restaurant(<20),1d,1
+18699,Snowy,10AM,Carry out & Take away,1d,0
+18438,Rainy,10PM,Bar,2h,0
+16900,Snowy,6PM,Coffee House,1d,1
+12617,Sunny,6PM,Bar,1d,0
+10829,Sunny,7AM,Coffee House,2h,1
+11755,Sunny,10AM,Coffee House,2h,1
+16571,Sunny,6PM,Coffee House,1d,0
+12111,Sunny,7AM,Coffee House,2h,0
+13555,Sunny,7AM,Carry out & Take away,2h,0
+19290,Rainy,7AM,Bar,1d,0
+19881,Sunny,10AM,Restaurant(<20),2h,0
+10135,Sunny,2PM,Coffee House,2h,1
+18585,Sunny,2PM,Restaurant(20-50),2h,0
+21212,Sunny,6PM,Restaurant(<20),2h,0
+18788,Sunny,10PM,Restaurant(<20),1d,1
+10649,Sunny,7AM,Coffee House,2h,0
+15105,Sunny,10AM,Bar,1d,0
+18358,Sunny,6PM,Coffee House,1d,0
+13635,Sunny,2PM,Carry out & Take away,1d,1
+14711,Sunny,6PM,Coffee House,1d,0
+14542,Sunny,7AM,Carry out & Take away,1d,1
+14280,Sunny,7AM,Carry out & Take away,1d,1
+21904,Sunny,10PM,Restaurant(20-50),1d,1
+12656,Sunny,10AM,Bar,1d,1
+17642,Sunny,6PM,Coffee House,2h,0
+20069,Sunny,10PM,Restaurant(20-50),1d,0
+14043,Sunny,10AM,Coffee House,2h,0
+18958,Sunny,10PM,Carry out & Take away,1d,1
+11669,Sunny,6PM,Restaurant(20-50),1d,1
+13254,Sunny,2PM,Coffee House,1d,0
+18128,Sunny,6PM,Coffee House,1d,0
+20227,Snowy,7AM,Carry out & Take away,1d,1
+17646,Rainy,10PM,Bar,2h,0
+19877,Snowy,7AM,Carry out & Take away,1d,1
+22421,Rainy,10AM,Bar,1d,0
+19132,Sunny,7AM,Bar,1d,0
+18344,Sunny,2PM,Restaurant(20-50),2h,0
+10412,Sunny,2PM,Coffee House,2h,0
+10131,Sunny,7AM,Coffee House,2h,1
+15800,Sunny,10PM,Restaurant(<20),2h,1
+21656,Sunny,10PM,Restaurant(20-50),2h,1
+11549,Sunny,2PM,Coffee House,1d,0
+15782,Sunny,7AM,Carry out & Take away,1d,0
+21406,Rainy,7AM,Carry out & Take away,1d,0
+14204,Sunny,6PM,Restaurant(<20),1d,1
+18463,Sunny,2PM,Coffee House,1d,1
+16965,Snowy,2PM,Coffee House,2h,1
+17761,Rainy,10AM,Carry out & Take away,2h,1
+16929,Snowy,7AM,Restaurant(20-50),1d,1
+10927,Sunny,10AM,Carry out & Take away,2h,0
+14008,Sunny,6PM,Coffee House,1d,1
+15851,Sunny,10AM,Bar,1d,0
+12887,Sunny,6PM,Coffee House,2h,1
+17119,Snowy,2PM,Coffee House,2h,0
+15458,Sunny,10AM,Coffee House,2h,0
+21172,Snowy,2PM,Restaurant(<20),1d,1
+13664,Sunny,7AM,Restaurant(20-50),1d,1
+16144,Sunny,10AM,Coffee House,1d,1
+11999,Sunny,6PM,Restaurant(20-50),1d,1
+16347,Sunny,10AM,Coffee House,2h,1
+17369,Snowy,7AM,Restaurant(20-50),1d,0
+15942,Sunny,6PM,Restaurant(<20),1d,1
+16111,Sunny,7AM,Carry out & Take away,1d,1
+19649,Rainy,10AM,Coffee House,1d,1
+15451,Sunny,7AM,Coffee House,2h,0
+15079,Sunny,7AM,Coffee House,2h,1
+20226,Rainy,7AM,Bar,1d,0
+10808,Sunny,7AM,Coffee House,2h,0
+12965,Sunny,6PM,Restaurant(<20),2h,1
+17561,Sunny,6PM,Coffee House,2h,0
+10445,Sunny,6PM,Coffee House,2h,1
+17463,Sunny,6PM,Coffee House,2h,1
+20122,Sunny,10PM,Carry out & Take away,1d,1
+22197,Sunny,6PM,Restaurant(<20),2h,1
+21278,Sunny,6PM,Restaurant(<20),2h,1
+20677,Rainy,6PM,Bar,1d,0
+14976,Sunny,7AM,Coffee House,2h,0
+19844,Rainy,6PM,Bar,1d,1
+16333,Sunny,10PM,Carry out & Take away,1d,0
+18848,Sunny,10PM,Carry out & Take away,1d,1
+10601,Sunny,10AM,Coffee House,2h,0
+20461,Rainy,6PM,Bar,1d,0
+10511,Sunny,7AM,Coffee House,2h,0
+22275,Sunny,6PM,Restaurant(20-50),1d,1
+17138,Snowy,10AM,Carry out & Take away,1d,0
+15668,Sunny,7AM,Coffee House,2h,0
+21869,Sunny,6PM,Restaurant(<20),2h,0
+15337,Sunny,6PM,Coffee House,1d,1
+20318,Sunny,10PM,Carry out & Take away,1d,1
+14564,Sunny,7AM,Carry out & Take away,1d,1
+22300,Rainy,7AM,Carry out & Take away,1d,1
+14809,Sunny,10AM,Coffee House,2h,1
+11405,Sunny,6PM,Restaurant(20-50),1d,0
+20535,Sunny,10PM,Restaurant(<20),1d,1
+20884,Sunny,10PM,Bar,2h,0
+21039,Sunny,10AM,Carry out & Take away,2h,1
+18502,Sunny,10PM,Restaurant(<20),2h,1
+16155,Sunny,6PM,Coffee House,1d,1
+10610,Sunny,7AM,Coffee House,2h,0
+10327,Sunny,2PM,Coffee House,1d,1
+15568,Sunny,6PM,Restaurant(<20),1d,0
+13390,Sunny,10AM,Restaurant(20-50),1d,1
+12230,Sunny,2PM,Coffee House,2h,0
+16395,Sunny,6PM,Restaurant(<20),2h,1
+13405,Sunny,10AM,Coffee House,2h,1
+13624,Sunny,2PM,Restaurant(<20),1d,1
+11335,Sunny,2PM,Coffee House,2h,1
+11936,Sunny,7AM,Bar,1d,0
+22468,Sunny,6PM,Carry out & Take away,1d,1
+11311,Sunny,10AM,Restaurant(20-50),1d,0
+19027,Rainy,10PM,Restaurant(20-50),2h,0
+17179,Sunny,6PM,Carry out & Take away,1d,1
+19309,Rainy,7AM,Carry out & Take away,2h,1
+16011,Sunny,6PM,Coffee House,1d,1
+21590,Sunny,7AM,Restaurant(20-50),2h,1
+19534,Sunny,10PM,Carry out & Take away,1d,0
+17374,Sunny,6PM,Coffee House,1d,0
+19328,Snowy,10PM,Restaurant(<20),2h,0
+12463,Sunny,6PM,Restaurant(<20),2h,1
+19664,Sunny,10AM,Coffee House,2h,1
+18377,Sunny,6PM,Carry out & Take away,2h,1
+10772,Sunny,2PM,Restaurant(<20),1d,1
+13296,Sunny,10AM,Bar,1d,0
+10215,Sunny,2PM,Restaurant(<20),1d,1
+16533,Sunny,7AM,Coffee House,2h,1
+14526,Sunny,6PM,Restaurant(<20),1d,1
+11890,Sunny,6PM,Coffee House,2h,1
+15415,Sunny,2PM,Restaurant(<20),2h,1
+15427,Sunny,10PM,Bar,1d,0
+10077,Sunny,2PM,Restaurant(<20),1d,1
+11269,Sunny,2PM,Coffee House,2h,0
+10839,Sunny,10AM,Bar,1d,0
+10413,Sunny,2PM,Coffee House,1d,0
+15332,Sunny,10AM,Coffee House,1d,1
+13653,Sunny,10AM,Restaurant(<20),2h,1
+21472,Snowy,7AM,Coffee House,1d,0
+15867,Sunny,10PM,Carry out & Take away,1d,1
+13603,Sunny,10AM,Coffee House,2h,0
+14058,Sunny,10PM,Carry out & Take away,1d,1
+17322,Rainy,7AM,Restaurant(<20),2h,0
+14625,Sunny,10PM,Bar,1d,1
+17329,Snowy,6PM,Bar,1d,0
+19975,Sunny,6PM,Restaurant(<20),1d,1
+15217,Sunny,2PM,Restaurant(<20),2h,0
+12262,Sunny,6PM,Bar,1d,0
+21959,Sunny,10AM,Carry out & Take away,2h,1
+22546,Sunny,6PM,Restaurant(<20),2h,1
+15968,Sunny,10AM,Coffee House,1d,1
+16512,Sunny,7AM,Coffee House,2h,1
+17611,Sunny,2PM,Coffee House,1d,1
+10368,Sunny,2PM,Coffee House,2h,1
+10930,Sunny,2PM,Coffee House,1d,0
+11100,Sunny,2PM,Restaurant(<20),1d,0
+22467,Sunny,6PM,Carry out & Take away,2h,1
+21411,Sunny,10PM,Bar,1d,1
+10800,Sunny,6PM,Bar,1d,1
+14818,Sunny,6PM,Restaurant(<20),2h,1
+15362,Sunny,10PM,Restaurant(<20),2h,1
+20699,Rainy,7AM,Bar,1d,1
+13686,Sunny,7AM,Restaurant(20-50),1d,1
+18468,Sunny,10PM,Carry out & Take away,2h,1
+13288,Sunny,7AM,Coffee House,2h,0
+19616,Rainy,7AM,Carry out & Take away,2h,0
+22494,Sunny,6PM,Restaurant(20-50),1d,0
+15877,Sunny,2PM,Coffee House,1d,0
+17459,Rainy,6PM,Carry out & Take away,2h,1
+22385,Sunny,10PM,Restaurant(20-50),1d,0
+20494,Snowy,2PM,Bar,1d,0
+15963,Sunny,2PM,Restaurant(<20),2h,1
+13623,Sunny,7AM,Coffee House,2h,0
+21595,Snowy,2PM,Restaurant(<20),1d,1
+16224,Sunny,6PM,Coffee House,1d,1
+22116,Rainy,6PM,Bar,2h,0
+13076,Sunny,2PM,Coffee House,1d,1
+22422,Sunny,10AM,Restaurant(<20),2h,0
+19153,Sunny,10PM,Restaurant(20-50),1d,0
+11939,Sunny,7AM,Restaurant(<20),1d,1
+13902,Sunny,6PM,Restaurant(20-50),1d,0
+16232,Sunny,7AM,Coffee House,2h,1
+13807,Sunny,10AM,Coffee House,2h,0
+13831,Sunny,10AM,Bar,1d,0
+10641,Sunny,6PM,Coffee House,2h,0
+19858,Sunny,10PM,Coffee House,1d,1
+15414,Sunny,10AM,Coffee House,2h,1
+20735,Sunny,7AM,Bar,1d,0
+13764,Sunny,10AM,Carry out & Take away,2h,1
+12686,Sunny,7AM,Restaurant(20-50),1d,0
+20320,Snowy,2PM,Bar,1d,0
+20118,Rainy,7AM,Bar,1d,1
+11521,Sunny,7AM,Restaurant(<20),1d,0
+17838,Sunny,10AM,Coffee House,1d,1
+13918,Sunny,6PM,Coffee House,2h,0
+22681,Snowy,7AM,Coffee House,1d,0
+15825,Sunny,7AM,Coffee House,2h,1
+22492,Rainy,10PM,Coffee House,2h,0
+21916,Rainy,10AM,Bar,1d,1
+20085,Sunny,10PM,Restaurant(<20),1d,1
+10423,Sunny,6PM,Restaurant(20-50),1d,0
+19004,Sunny,10PM,Carry out & Take away,1d,1
+21139,Sunny,10PM,Restaurant(20-50),1d,1
+12763,Sunny,10AM,Restaurant(<20),2h,0
+12714,Sunny,10AM,Bar,1d,1
+13350,Sunny,7AM,Restaurant(20-50),1d,0
+21773,Rainy,7AM,Restaurant(<20),2h,1
+11306,Sunny,2PM,Coffee House,2h,1
+19989,Sunny,2PM,Restaurant(20-50),1d,0
+12135,Sunny,7AM,Restaurant(20-50),1d,0
+12974,Sunny,6PM,Restaurant(20-50),1d,1
+21123,Sunny,7AM,Restaurant(20-50),2h,0
+15831,Sunny,2PM,Restaurant(<20),2h,0
+19298,Sunny,10AM,Carry out & Take away,1d,1
+16370,Sunny,2PM,Restaurant(<20),2h,1
+10648,Sunny,6PM,Coffee House,2h,0
+13727,Sunny,6PM,Coffee House,2h,1
+14762,Sunny,7AM,Carry out & Take away,1d,1
+12348,Sunny,6PM,Coffee House,2h,0
+19704,Sunny,7AM,Coffee House,1d,1
+16869,Rainy,10AM,Carry out & Take away,2h,0
+10989,Sunny,7AM,Coffee House,2h,0
+18868,Sunny,10AM,Coffee House,2h,1
+14071,Sunny,10AM,Bar,2h,0
+12935,Sunny,7AM,Carry out & Take away,2h,0
+15274,Sunny,10PM,Restaurant(<20),2h,0
+17510,Sunny,10PM,Restaurant(<20),2h,1
+14859,Sunny,6PM,Coffee House,1d,1
+12087,Sunny,6PM,Restaurant(20-50),1d,0
+16981,Sunny,6PM,Coffee House,1d,1
+22149,Snowy,7AM,Coffee House,1d,0
+10791,Sunny,2PM,Coffee House,1d,0
+13011,Sunny,10AM,Restaurant(<20),2h,1
+19529,Sunny,7AM,Coffee House,1d,1
+16883,Sunny,7AM,Restaurant(<20),1d,0
+17445,Rainy,10PM,Bar,2h,1
+16436,Sunny,6PM,Coffee House,1d,0
+10983,Sunny,6PM,Coffee House,2h,0
+20915,Sunny,6PM,Carry out & Take away,1d,1
+16095,Sunny,6PM,Restaurant(<20),1d,1
+21993,Sunny,6PM,Restaurant(20-50),1d,1
+10840,Sunny,2PM,Restaurant(<20),1d,0
+17535,Snowy,10PM,Carry out & Take away,1d,1
+18184,Sunny,6PM,Bar,2h,1
+14259,Sunny,7AM,Carry out & Take away,1d,0
+20712,Sunny,6PM,Bar,2h,1
+13779,Sunny,10AM,Coffee House,2h,1
+13835,Sunny,6PM,Bar,1d,0
+20838,Snowy,10PM,Coffee House,2h,0
+16901,Sunny,10PM,Bar,1d,0
+13010,Sunny,2PM,Carry out & Take away,1d,1
+20921,Rainy,6PM,Carry out & Take away,1d,1
+16750,Sunny,7AM,Bar,1d,0
+13095,Sunny,2PM,Coffee House,2h,1
+20777,Sunny,10PM,Bar,1d,1
+19342,Sunny,10AM,Carry out & Take away,1d,1
+18260,Sunny,2PM,Restaurant(20-50),2h,1
+19833,Snowy,7AM,Carry out & Take away,1d,1
+15590,Sunny,6PM,Restaurant(<20),1d,1
+15598,Sunny,6PM,Coffee House,2h,0
+19693,Sunny,6PM,Carry out & Take away,1d,1
+15243,Sunny,10AM,Restaurant(20-50),2h,0
+10773,Sunny,6PM,Coffee House,2h,0
+11336,Sunny,2PM,Carry out & Take away,1d,0
+13945,Sunny,6PM,Bar,1d,1
+21457,Sunny,10PM,Bar,1d,1
+19821,Sunny,6PM,Restaurant(<20),1d,0
+13527,Sunny,6PM,Bar,1d,0
+11412,Sunny,7AM,Coffee House,2h,0
+10250,Sunny,6PM,Bar,1d,1
+20304,Sunny,10PM,Carry out & Take away,2h,0
+18561,Rainy,6PM,Carry out & Take away,2h,1
+11461,Sunny,2PM,Coffee House,1d,1
+16748,Sunny,7AM,Bar,1d,1
+14988,Sunny,2PM,Restaurant(<20),2h,0
+15017,Sunny,6PM,Coffee House,1d,0
+20538,Sunny,6PM,Restaurant(<20),1d,1
+13392,Sunny,10AM,Coffee House,2h,0
+22604,Sunny,6PM,Restaurant(20-50),1d,0
+12174,Sunny,6PM,Bar,1d,1
+17871,Sunny,10AM,Coffee House,1d,1
+14801,Sunny,7AM,Coffee House,2h,0
+16856,Snowy,10PM,Restaurant(20-50),2h,0
+19629,Sunny,10PM,Restaurant(<20),1d,1
+12810,Sunny,2PM,Coffee House,2h,1
+15671,Sunny,7AM,Carry out & Take away,1d,0
+20554,Rainy,10AM,Coffee House,1d,1
+18941,Sunny,2PM,Coffee House,1d,1
+15799,Sunny,6PM,Coffee House,2h,0
+16920,Rainy,2PM,Restaurant(<20),2h,1
+16667,Snowy,7AM,Restaurant(<20),2h,1
+16546,Sunny,6PM,Coffee House,1d,1
+20801,Sunny,10AM,Carry out & Take away,2h,0
+15152,Sunny,6PM,Restaurant(<20),1d,1
+19251,Sunny,10AM,Restaurant(<20),2h,0
+17210,Snowy,10PM,Restaurant(20-50),2h,0
+12468,Sunny,7AM,Coffee House,2h,0
+11636,Sunny,2PM,Coffee House,2h,1
+15730,Sunny,6PM,Coffee House,2h,0
+11050,Sunny,7AM,Coffee House,2h,0
+12128,Sunny,2PM,Carry out & Take away,1d,1
+15694,Sunny,7AM,Carry out & Take away,1d,1
+13091,Sunny,7AM,Coffee House,2h,0
+22052,Sunny,10PM,Restaurant(20-50),1d,1
+15488,Sunny,6PM,Restaurant(<20),2h,0
+22659,Snowy,7AM,Coffee House,1d,0
+14035,Sunny,10PM,Restaurant(<20),2h,0
+16840,Sunny,7AM,Coffee House,1d,1
+12581,Sunny,7AM,Coffee House,2h,0
+10072,Sunny,2PM,Carry out & Take away,1d,1
+10577,Sunny,2PM,Coffee House,2h,1
+12372,Sunny,6PM,Restaurant(20-50),1d,1
+20198,Snowy,10PM,Restaurant(<20),2h,0
+16398,Sunny,10PM,Carry out & Take away,1d,1
+19879,Sunny,2PM,Restaurant(20-50),1d,1
+10855,Sunny,10AM,Coffee House,2h,1
+20979,Sunny,6PM,Carry out & Take away,2h,1
+21941,Snowy,10AM,Restaurant(<20),1d,1
+22418,Sunny,10PM,Bar,2h,1
+15002,Sunny,7AM,Carry out & Take away,1d,1
+10475,Sunny,10AM,Bar,1d,0
+13715,Sunny,10AM,Carry out & Take away,2h,1
+12134,Sunny,7AM,Bar,1d,1
+21362,Snowy,7AM,Coffee House,1d,1
+17879,Snowy,7AM,Restaurant(<20),2h,1
+16678,Sunny,6PM,Coffee House,1d,0
+16955,Sunny,2PM,Restaurant(20-50),2h,0
+15815,Sunny,2PM,Restaurant(<20),2h,0
+10726,Sunny,2PM,Coffee House,2h,0
+18310,Snowy,2PM,Coffee House,2h,0
+19527,Sunny,7AM,Carry out & Take away,1d,1
+11066,Sunny,10AM,Coffee House,2h,1
+19184,Sunny,10PM,Coffee House,1d,0
+21395,Sunny,10AM,Restaurant(20-50),1d,0
+10107,Sunny,7AM,Carry out & Take away,2h,1
+19543,Snowy,10PM,Restaurant(<20),2h,1
+14678,Sunny,10AM,Coffee House,2h,1
+12793,Sunny,6PM,Coffee House,2h,1
+14677,Sunny,10AM,Bar,1d,0
+14551,Sunny,10AM,Carry out & Take away,1d,1
+13220,Sunny,6PM,Restaurant(20-50),1d,0
+15844,Sunny,7AM,Coffee House,2h,1
+18682,Sunny,10AM,Coffee House,1d,1
+10163,Sunny,6PM,Restaurant(<20),2h,0
+20943,Sunny,6PM,Restaurant(20-50),1d,1
+19592,Sunny,10PM,Restaurant(20-50),1d,0
+12386,Sunny,2PM,Restaurant(<20),1d,1
+13157,Sunny,6PM,Restaurant(20-50),1d,0
+14337,Sunny,6PM,Coffee House,1d,0
+12266,Sunny,7AM,Bar,1d,0
+17287,Sunny,10PM,Restaurant(<20),2h,1
+16221,Sunny,10AM,Bar,2h,0
+18141,Rainy,7AM,Restaurant(<20),2h,0
+13332,Sunny,2PM,Restaurant(<20),1d,1
+15035,Sunny,10AM,Coffee House,1d,1
+17877,Rainy,7AM,Restaurant(<20),2h,1
+21165,Snowy,7AM,Coffee House,1d,0
+12027,Sunny,7AM,Restaurant(<20),1d,0
+17633,Sunny,6PM,Carry out & Take away,2h,1
+18927,Sunny,10PM,Restaurant(20-50),1d,0
+20903,Sunny,7AM,Restaurant(20-50),2h,0
+19173,Rainy,6PM,Bar,1d,0
+14240,Sunny,10AM,Coffee House,2h,1
+17453,Sunny,6PM,Bar,2h,1
+20701,Sunny,10AM,Coffee House,2h,1
+16563,Sunny,6PM,Restaurant(<20),1d,1
+15062,Sunny,10AM,Coffee House,2h,1
+10558,Sunny,6PM,Bar,1d,0
+10723,Sunny,10AM,Bar,1d,1
+18151,Rainy,10PM,Bar,2h,1
+17887,Sunny,2PM,Restaurant(20-50),2h,0
+20483,Sunny,7AM,Coffee House,1d,0
+10347,Sunny,2PM,Coffee House,1d,1
+11574,Sunny,2PM,Restaurant(<20),1d,1
+18624,Snowy,7AM,Restaurant(<20),2h,0
+17661,Snowy,7AM,Restaurant(20-50),1d,0
+15184,Sunny,10PM,Carry out & Take away,1d,1
+13318,Sunny,10AM,Carry out & Take away,2h,0
+13554,Sunny,7AM,Restaurant(20-50),1d,0
+22572,Snowy,2PM,Restaurant(<20),1d,0
+12474,Sunny,2PM,Restaurant(<20),1d,1
+20866,Sunny,6PM,Carry out & Take away,2h,1
+15470,Sunny,10PM,Carry out & Take away,1d,0
+18515,Snowy,7AM,Restaurant(20-50),1d,0
+11116,Sunny,7AM,Coffee House,2h,1
+14575,Sunny,2PM,Coffee House,2h,1
+18566,Sunny,2PM,Restaurant(20-50),2h,1
+19284,Sunny,10PM,Restaurant(20-50),1d,1
+17146,Sunny,10PM,Carry out & Take away,2h,0
+17783,Snowy,10PM,Carry out & Take away,1d,1
+22549,Sunny,10AM,Carry out & Take away,2h,0
+20734,Sunny,10PM,Restaurant(20-50),1d,0
+10070,Sunny,2PM,Coffee House,1d,1
+15078,Sunny,7AM,Coffee House,2h,1
+20945,Snowy,7AM,Coffee House,1d,0
+22369,Sunny,7AM,Restaurant(20-50),2h,0
+22158,Rainy,2PM,Carry out & Take away,2h,0
+12563,Sunny,2PM,Coffee House,2h,0
+20418,Rainy,6PM,Coffee House,1d,1
+15167,Sunny,7AM,Coffee House,2h,1
+11873,Sunny,7AM,Restaurant(<20),1d,1
+20060,Sunny,10AM,Carry out & Take away,1d,1
+18496,Rainy,10PM,Bar,1d,0
+18079,Sunny,7AM,Restaurant(<20),1d,1
+16454,Sunny,6PM,Restaurant(<20),1d,1
+19103,Snowy,10PM,Restaurant(<20),2h,1
+14395,Sunny,2PM,Restaurant(<20),2h,1
+11912,Sunny,6PM,Coffee House,2h,0
+17748,Snowy,7AM,Restaurant(<20),2h,1
+16290,Sunny,6PM,Bar,2h,0
+20764,Rainy,6PM,Bar,1d,1
+16586,Sunny,10PM,Coffee House,1d,0
+10760,Sunny,7AM,Bar,1d,1
+15938,Sunny,7AM,Coffee House,1d,1
+17538,Sunny,10AM,Bar,1d,0
+15407,Sunny,10PM,Carry out & Take away,1d,1
+16397,Sunny,10PM,Restaurant(<20),2h,1
+21736,Sunny,10PM,Bar,1d,1
+14803,Sunny,7AM,Restaurant(20-50),2h,1
+15103,Sunny,7AM,Carry out & Take away,1d,1
+10362,Sunny,7AM,Carry out & Take away,2h,1
+13336,Sunny,2PM,Coffee House,1d,0
+19062,Rainy,7AM,Carry out & Take away,2h,1
+18792,Snowy,2PM,Coffee House,2h,1
+19612,Sunny,10PM,Restaurant(20-50),1d,0
+18101,Sunny,7AM,Restaurant(<20),1d,1
+17598,Sunny,7AM,Restaurant(<20),1d,1
+12342,Sunny,2PM,Carry out & Take away,1d,1
+15346,Sunny,7AM,Coffee House,1d,1
+18774,Snowy,10PM,Restaurant(20-50),2h,0
+20518,Sunny,10PM,Carry out & Take away,2h,0
+19797,Sunny,10PM,Carry out & Take away,1d,1
+15705,Sunny,2PM,Coffee House,2h,1
+12253,Sunny,2PM,Coffee House,1d,0
+13525,Sunny,6PM,Restaurant(<20),2h,1
+20752,Rainy,7AM,Bar,1d,0
+22226,Snowy,10AM,Restaurant(<20),1d,1
+17556,Snowy,6PM,Bar,1d,0
+14324,Sunny,7AM,Carry out & Take away,1d,1
+12995,Sunny,6PM,Bar,1d,1
+19956,Sunny,6PM,Restaurant(<20),1d,1
+10355,Sunny,6PM,Coffee House,2h,0
+12926,Sunny,2PM,Restaurant(<20),1d,1
+10858,Sunny,2PM,Restaurant(<20),1d,1
+16723,Sunny,6PM,Bar,2h,0
+20265,Snowy,10PM,Restaurant(<20),2h,0
+19237,Snowy,10PM,Restaurant(<20),2h,0
+10226,Sunny,6PM,Restaurant(<20),2h,1
+18449,Snowy,7AM,Restaurant(20-50),1d,1
+10733,Sunny,10AM,Coffee House,2h,1
+11641,Sunny,10AM,Carry out & Take away,2h,0
+18378,Snowy,6PM,Coffee House,1d,1
+11643,Sunny,2PM,Restaurant(<20),1d,1
+16178,Sunny,2PM,Coffee House,2h,1
+14714,Sunny,10PM,Restaurant(<20),2h,1
+10725,Sunny,2PM,Coffee House,1d,0
+17489,Rainy,10PM,Bar,2h,0
+11086,Sunny,10AM,Carry out & Take away,2h,1
+15781,Sunny,7AM,Carry out & Take away,1d,0
+19772,Snowy,7AM,Carry out & Take away,1d,1
+18972,Sunny,10PM,Restaurant(20-50),1d,0
+22293,Sunny,6PM,Carry out & Take away,1d,1
+20017,Rainy,10AM,Coffee House,1d,0
+15595,Sunny,6PM,Coffee House,1d,1
+22550,Snowy,2PM,Restaurant(<20),1d,1
+13540,Sunny,2PM,Coffee House,1d,1
+19302,Sunny,6PM,Restaurant(20-50),1d,0
+11000,Sunny,2PM,Restaurant(<20),1d,1
+19030,Snowy,2PM,Bar,1d,0
+16617,Sunny,6PM,Coffee House,1d,0
+15315,Sunny,6PM,Coffee House,1d,0
+14823,Sunny,7AM,Coffee House,2h,1
+11044,Sunny,10AM,Coffee House,2h,0
+20916,Rainy,10PM,Coffee House,2h,0
+17406,Sunny,6PM,Carry out & Take away,2h,1
+22424,Sunny,10PM,Restaurant(20-50),1d,1
+19703,Rainy,7AM,Carry out & Take away,2h,1
+17711,Sunny,6PM,Coffee House,1d,1
+20148,Sunny,2PM,Bar,1d,1
+13977,Sunny,10AM,Coffee House,2h,0
+11175,Sunny,2PM,Coffee House,2h,0
+22384,Sunny,6PM,Restaurant(20-50),1d,1
+11599,Sunny,2PM,Restaurant(<20),1d,1
+14577,Sunny,6PM,Bar,2h,0
+13767,Sunny,2PM,Restaurant(<20),1d,1
+16334,Sunny,6PM,Restaurant(<20),2h,0
+15609,Sunny,10AM,Bar,1d,1
+17192,Snowy,7AM,Restaurant(<20),2h,0
+10547,Sunny,10AM,Bar,1d,0
+19388,Snowy,2PM,Bar,1d,1
+20220,Sunny,10PM,Restaurant(20-50),1d,1
+12170,Sunny,6PM,Restaurant(<20),2h,1
+18254,Sunny,7AM,Restaurant(<20),1d,0
+11759,Sunny,7AM,Coffee House,2h,0
+22553,Sunny,10AM,Restaurant(20-50),1d,0
+21561,Sunny,6PM,Carry out & Take away,1d,1
+11604,Sunny,6PM,Coffee House,2h,0
+15636,Sunny,2PM,Restaurant(<20),2h,0
+15476,Sunny,7AM,Carry out & Take away,1d,0
+11460,Sunny,2PM,Coffee House,2h,1
+11856,Sunny,10AM,Carry out & Take away,2h,1
+20365,Sunny,2PM,Restaurant(20-50),1d,0
+16781,Sunny,6PM,Restaurant(20-50),2h,0
+12146,Sunny,10AM,Restaurant(<20),2h,1
+12547,Sunny,6PM,Restaurant(<20),2h,1
+14277,Sunny,7AM,Coffee House,2h,0
+16016,Sunny,10PM,Restaurant(<20),2h,0
+21429,Snowy,7AM,Coffee House,1d,0
+14099,Sunny,6PM,Restaurant(<20),2h,1
+18537,Snowy,7AM,Restaurant(20-50),1d,1
+14032,Sunny,6PM,Coffee House,1d,1
+18244,Sunny,2PM,Restaurant(20-50),1d,0
+10208,Sunny,6PM,Coffee House,2h,0
+21607,Rainy,7AM,Restaurant(<20),2h,0
+18556,Sunny,6PM,Bar,2h,0
+11992,Sunny,10AM,Coffee House,2h,1
+18156,Rainy,10AM,Carry out & Take away,2h,1
+20416,Sunny,10PM,Restaurant(<20),1d,0
+13164,Sunny,2PM,Restaurant(<20),1d,1
+21091,Rainy,10PM,Coffee House,2h,1
+14200,Sunny,10AM,Coffee House,1d,1
+21004,Snowy,10PM,Coffee House,2h,0
+17644,Sunny,6PM,Coffee House,1d,1
+14311,Sunny,6PM,Restaurant(20-50),2h,0
+16674,Sunny,6PM,Coffee House,2h,0
+10122,Sunny,10AM,Coffee House,2h,0
+13219,Sunny,6PM,Bar,1d,1
+13032,Sunny,2PM,Coffee House,1d,0
+19954,Sunny,6PM,Restaurant(20-50),1d,1
+14897,Sunny,10AM,Coffee House,2h,1
+11251,Sunny,6PM,Restaurant(20-50),1d,0
+13167,Sunny,2PM,Coffee House,2h,0
+13972,Sunny,7AM,Restaurant(20-50),1d,0
+18559,Snowy,7AM,Restaurant(20-50),1d,1
+17052,Rainy,2PM,Restaurant(<20),2h,1
+20000,Sunny,6PM,Restaurant(<20),1d,1
+14361,Sunny,10PM,Restaurant(<20),2h,1
+21831,Rainy,6PM,Bar,2h,0
+16878,Sunny,10PM,Carry out & Take away,1d,0
+17735,Snowy,10AM,Carry out & Take away,1d,1
+14239,Sunny,10AM,Bar,1d,1
+14634,Sunny,10AM,Coffee House,2h,0
+20680,Sunny,7AM,Bar,1d,0
+17135,Sunny,6PM,Coffee House,1d,1
+21896,Sunny,10AM,Restaurant(<20),2h,0
+11081,Sunny,2PM,Coffee House,2h,0
+14458,Sunny,2PM,Restaurant(<20),2h,0
+11731,Sunny,10AM,Coffee House,2h,0
+18338,Rainy,7AM,Restaurant(<20),2h,0
+11689,Sunny,10AM,Coffee House,2h,1
+14770,Sunny,10AM,Restaurant(20-50),2h,0
+20053,Snowy,7AM,Carry out & Take away,1d,0
+20411,Sunny,6PM,Carry out & Take away,1d,1
+11277,Sunny,7AM,Restaurant(20-50),1d,0
+19492,Sunny,10PM,Carry out & Take away,1d,0
+12151,Sunny,6PM,Coffee House,2h,1
+10802,Sunny,6PM,Coffee House,2h,0
+13636,Sunny,10AM,Coffee House,2h,1
+12828,Sunny,2PM,Carry out & Take away,1d,1
+16839,Sunny,7AM,Bar,1d,0
+20035,Rainy,10AM,Coffee House,1d,1
+17096,Sunny,10AM,Coffee House,1d,1
+18506,Sunny,2PM,Restaurant(20-50),1d,1
+16891,Sunny,10AM,Restaurant(<20),2h,1
+11479,Sunny,2PM,Restaurant(<20),1d,1
+12993,Sunny,2PM,Carry out & Take away,1d,1
+17897,Snowy,10PM,Restaurant(20-50),2h,0
+12518,Sunny,10AM,Carry out & Take away,2h,0
+15164,Sunny,10PM,Restaurant(<20),2h,0
+21304,Snowy,2PM,Restaurant(<20),1d,1
+12280,Sunny,6PM,Restaurant(<20),2h,1
+18363,Sunny,7AM,Restaurant(<20),1d,1
+22636,Sunny,6PM,Restaurant(<20),2h,0
+17225,Rainy,10PM,Bar,2h,0
+18495,Rainy,6PM,Carry out & Take away,2h,1
+16250,Sunny,10PM,Bar,1d,1
+22407,Rainy,10PM,Coffee House,2h,0
+16970,Sunny,6PM,Bar,2h,0
+22622,Sunny,6PM,Carry out & Take away,2h,1
+10166,Sunny,10AM,Coffee House,2h,0
+20739,Snowy,7AM,Carry out & Take away,1d,0
+16066,Sunny,7AM,Carry out & Take away,1d,0
+14558,Sunny,6PM,Restaurant(<20),2h,0
+18051,Snowy,10PM,Restaurant(20-50),2h,0
+13310,Sunny,7AM,Coffee House,2h,0
+15060,Sunny,7AM,Coffee House,1d,1
+15118,Sunny,10PM,Carry out & Take away,1d,1
+19514,Snowy,2PM,Bar,1d,1
+18859,Sunny,6PM,Restaurant(<20),1d,1
+18457,Sunny,6PM,Coffee House,1d,1
+15886,Sunny,6PM,Restaurant(<20),2h,1
+11273,Sunny,6PM,Restaurant(20-50),1d,0
+16986,Sunny,2PM,Restaurant(20-50),1d,0
+15575,Sunny,6PM,Coffee House,1d,0
+21525,Rainy,2PM,Carry out & Take away,2h,1
+15910,Sunny,10PM,Restaurant(<20),2h,0
+21085,Rainy,10AM,Bar,1d,1
+20135,Rainy,6PM,Coffee House,1d,0
+14767,Sunny,6PM,Restaurant(<20),1d,1
+17120,Sunny,6PM,Carry out & Take away,2h,1
+12457,Sunny,6PM,Restaurant(<20),2h,1
+19552,Rainy,7AM,Bar,1d,1
+20644,Rainy,10AM,Coffee House,1d,0
+19191,Sunny,10PM,Restaurant(<20),1d,1
+19857,Sunny,2PM,Restaurant(20-50),1d,1
+18608,Sunny,10AM,Coffee House,1d,0
+21760,Sunny,10AM,Carry out & Take away,2h,1
+13911,Sunny,10AM,Coffee House,2h,0
+17651,Rainy,10AM,Carry out & Take away,2h,1
+16782,Sunny,10PM,Coffee House,1d,1
+18013,Sunny,7AM,Restaurant(<20),1d,1
+16325,Sunny,10AM,Coffee House,2h,1
+12100,Sunny,2PM,Coffee House,2h,1
+13365,Sunny,2PM,Coffee House,2h,1
+10118,Sunny,6PM,Coffee House,2h,0
+12147,Sunny,10AM,Carry out & Take away,2h,1
+10529,Sunny,2PM,Carry out & Take away,1d,1
+14112,Sunny,2PM,Coffee House,1d,0
+13980,Sunny,2PM,Coffee House,1d,0
+13249,Sunny,7AM,Coffee House,2h,1
+12913,Sunny,7AM,Carry out & Take away,2h,0
+13204,Sunny,7AM,Restaurant(<20),1d,1
+16802,Sunny,10PM,Restaurant(20-50),1d,0
+11558,Sunny,6PM,Bar,1d,1
+13607,Sunny,2PM,Coffee House,2h,0
+13865,Sunny,7AM,Coffee House,2h,0
+11697,Sunny,7AM,Restaurant(<20),1d,1
+10418,Sunny,10AM,Bar,2h,0
+18418,Rainy,10AM,Carry out & Take away,2h,1
+10793,Sunny,2PM,Carry out & Take away,1d,1
+22665,Sunny,10AM,Carry out & Take away,2h,1
+13359,Sunny,10AM,Coffee House,2h,0
+11934,Sunny,6PM,Coffee House,2h,1
+21761,Snowy,2PM,Restaurant(<20),1d,1
+12085,Sunny,6PM,Coffee House,2h,0
+20098,Sunny,10AM,Coffee House,2h,1
+16476,Sunny,6PM,Restaurant(<20),1d,1
+12013,Sunny,2PM,Carry out & Take away,1d,1
+14505,Sunny,2PM,Coffee House,1d,1
+16505,Sunny,6PM,Coffee House,1d,1
+21480,Rainy,10AM,Bar,1d,0
+22552,Sunny,10AM,Restaurant(<20),2h,0
+18595,Snowy,2PM,Coffee House,2h,1
+20105,Sunny,2PM,Coffee House,1d,1
+18905,Rainy,6PM,Coffee House,1d,1
+17504,Rainy,10PM,Bar,1d,0
+10322,Sunny,7AM,Coffee House,2h,0
+16141,Sunny,2PM,Restaurant(<20),2h,0
+11874,Sunny,7AM,Coffee House,2h,0
+17935,Snowy,10AM,Carry out & Take away,1d,1
+16331,Sunny,6PM,Coffee House,1d,0
+21579,Sunny,6PM,Carry out & Take away,2h,1
+20501,Sunny,10PM,Restaurant(20-50),1d,0
+21114,Snowy,10PM,Coffee House,2h,1
+13100,Sunny,10AM,Carry out & Take away,2h,1
+16775,Sunny,7AM,Bar,1d,0
+14010,Sunny,6PM,Coffee House,1d,0
+12456,Sunny,2PM,Coffee House,1d,1
+15794,Sunny,6PM,Restaurant(<20),1d,1
+12516,Sunny,2PM,Restaurant(<20),1d,1
+18898,Sunny,6PM,Carry out & Take away,1d,1
+10229,Sunny,6PM,Restaurant(20-50),1d,1
+10042,Sunny,7AM,Restaurant(<20),1d,1
+18726,Rainy,2PM,Restaurant(<20),2h,1
+10403,Sunny,7AM,Coffee House,2h,0
+20317,Sunny,10PM,Coffee House,1d,1
+12593,Sunny,2PM,Carry out & Take away,1d,1
+19108,Rainy,7AM,Bar,1d,1
+10342,Sunny,7AM,Coffee House,2h,0
+19087,Snowy,7AM,Carry out & Take away,1d,1
+14602,Sunny,6PM,Restaurant(<20),2h,1
+19647,Rainy,10PM,Restaurant(20-50),2h,1
+15582,Sunny,7AM,Coffee House,2h,1
+22574,Rainy,2PM,Carry out & Take away,2h,0
+20882,Sunny,6PM,Restaurant(<20),2h,1
+17356,Snowy,10PM,Carry out & Take away,1d,1
+19717,Sunny,6PM,Restaurant(20-50),1d,1
+16786,Sunny,6PM,Coffee House,2h,1
+17825,Snowy,10AM,Carry out & Take away,1d,1
+19223,Sunny,7AM,Coffee House,1d,0
+20456,Sunny,6PM,Restaurant(20-50),2h,1
+21758,Sunny,10PM,Bar,1d,1
+12228,Sunny,10AM,Coffee House,2h,0
+18736,Sunny,7AM,Restaurant(<20),1d,1
+21744,Snowy,10AM,Restaurant(<20),1d,0
+22290,Sunny,10AM,Restaurant(<20),2h,1
+12721,Sunny,6PM,Restaurant(<20),2h,1
+10402,Sunny,6PM,Coffee House,2h,0
+16062,Sunny,10PM,Bar,1d,0
+20562,Sunny,10PM,Restaurant(20-50),1d,0
+13630,Sunny,2PM,Coffee House,1d,1
+15772,Sunny,10PM,Carry out & Take away,1d,0
+20965,Sunny,6PM,Restaurant(20-50),1d,1
+20602,Rainy,10PM,Restaurant(20-50),2h,0
+16282,Sunny,2PM,Restaurant(<20),2h,1
+11480,Sunny,10AM,Coffee House,2h,1
+10390,Sunny,10AM,Carry out & Take away,2h,1
+18367,Sunny,10AM,Coffee House,1d,1
+14479,Sunny,10AM,Coffee House,2h,1
+22348,Sunny,6PM,Restaurant(<20),2h,1
+15301,Sunny,7AM,Carry out & Take away,1d,1
+12571,Sunny,2PM,Restaurant(<20),1d,0
+13197,Sunny,6PM,Bar,1d,1
+15692,Sunny,7AM,Restaurant(20-50),2h,0
+16733,Snowy,7AM,Restaurant(<20),2h,0
+20951,Sunny,10PM,Bar,1d,0
+10810,Sunny,10AM,Coffee House,2h,1
+15448,Sunny,10PM,Carry out & Take away,1d,1
+21162,Snowy,10PM,Coffee House,2h,0
+13023,Sunny,7AM,Carry out & Take away,2h,0
+21661,Sunny,10AM,Carry out & Take away,2h,0
+22682,Snowy,7AM,Bar,1d,0
+11287,Sunny,2PM,Carry out & Take away,1d,1
+21487,Rainy,10PM,Coffee House,2h,0
+21894,Rainy,10AM,Bar,1d,1
+11760,Sunny,7AM,Bar,1d,1
+16601,Sunny,7AM,Bar,1d,0
+17657,Sunny,6PM,Coffee House,1d,1
+14054,Sunny,6PM,Coffee House,1d,0
+21687,Snowy,7AM,Restaurant(<20),1d,1
+16516,Sunny,7AM,Coffee House,1d,1
+21057,Sunny,7AM,Restaurant(20-50),2h,1
+13908,Sunny,7AM,Restaurant(<20),1d,1
+17153,Snowy,6PM,Bar,1d,0
+16374,Sunny,6PM,Coffee House,1d,1
+13894,Sunny,2PM,Coffee House,1d,0
+20664,Sunny,10PM,Coffee House,1d,0
+12820,Sunny,7AM,Restaurant(<20),1d,1
+16790,Snowy,10PM,Restaurant(20-50),2h,0
+10628,Sunny,7AM,Bar,1d,0
+13263,Sunny,6PM,Bar,1d,0
+14798,Sunny,10PM,Restaurant(<20),2h,0
+17248,Snowy,10AM,Carry out & Take away,1d,1
+14376,Sunny,2PM,Coffee House,2h,1
+11563,Sunny,7AM,Restaurant(20-50),1d,1
+16508,Sunny,6PM,Restaurant(<20),2h,1
+22356,Snowy,10AM,Restaurant(<20),1d,1
+11839,Sunny,6PM,Coffee House,2h,1
+21977,Snowy,6PM,Bar,1d,0
+13697,Sunny,10AM,Coffee House,2h,1
+14405,Sunny,7AM,Coffee House,2h,1
+10783,Sunny,7AM,Restaurant(20-50),1d,1
+13809,Sunny,10AM,Bar,2h,0
+16131,Sunny,7AM,Coffee House,2h,0
+16974,Sunny,7AM,Restaurant(<20),1d,1
+21055,Snowy,7AM,Restaurant(<20),1d,1
+17902,Snowy,7AM,Restaurant(20-50),1d,1
+18360,Rainy,7AM,Restaurant(<20),2h,1
+17311,Sunny,6PM,Carry out & Take away,1d,1
+13115,Sunny,10AM,Coffee House,2h,0
+17140,Sunny,2PM,Restaurant(20-50),1d,0
+14394,Sunny,2PM,Coffee House,1d,0
+19807,Sunny,7AM,Bar,1d,0
+17479,Snowy,7AM,Restaurant(20-50),1d,1
+18890,Sunny,10AM,Coffee House,2h,1
+21244,Sunny,10PM,Restaurant(20-50),1d,0
+19377,Sunny,7AM,Restaurant(<20),1d,1
+15227,Sunny,6PM,Coffee House,1d,0
+19250,Sunny,10PM,Coffee House,1d,0
+13723,Sunny,2PM,Carry out & Take away,1d,1
+13259,Sunny,10AM,Bar,1d,0
+13329,Sunny,7AM,Carry out & Take away,2h,1
+19222,Rainy,7AM,Carry out & Take away,2h,0
+19395,Sunny,10PM,Restaurant(20-50),1d,0
+16058,Sunny,6PM,Restaurant(<20),2h,1
+11039,Sunny,6PM,Restaurant(<20),2h,1
+15953,Sunny,6PM,Coffee House,2h,0
+11140,Sunny,7AM,Restaurant(20-50),1d,0
+15185,Sunny,10PM,Bar,1d,0
+13212,Sunny,2PM,Carry out & Take away,1d,1
+16384,Sunny,7AM,Coffee House,1d,0
+19634,Snowy,10PM,Restaurant(<20),2h,0
+17004,Sunny,10PM,Restaurant(<20),2h,1
+10827,Sunny,7AM,Carry out & Take away,2h,1
+14578,Sunny,6PM,Coffee House,1d,0
+13386,Sunny,2PM,Coffee House,1d,0
+13936,Sunny,2PM,Coffee House,1d,1
+10624,Sunny,6PM,Bar,1d,0
+17174,Sunny,10AM,Restaurant(<20),1d,1
+21792,Sunny,6PM,Carry out & Take away,2h,1
+17579,Snowy,7AM,Restaurant(<20),2h,1
+17881,Sunny,7AM,Restaurant(<20),1d,1
+10203,Sunny,2PM,Coffee House,2h,0
+15769,Sunny,6PM,Restaurant(20-50),2h,0
+12944,Sunny,2PM,Carry out & Take away,1d,1
+17927,Sunny,10AM,Restaurant(<20),1d,1
+15629,Sunny,7AM,Carry out & Take away,1d,1
+16488,Sunny,7AM,Coffee House,2h,0
+22639,Sunny,10PM,Bar,2h,0
+19825,Sunny,10PM,Restaurant(<20),1d,1
+12552,Sunny,6PM,Restaurant(20-50),1d,1
+10422,Sunny,6PM,Bar,1d,1
+14596,Sunny,10AM,Coffee House,1d,0
+22082,Rainy,7AM,Carry out & Take away,1d,1
+11727,Sunny,2PM,Carry out & Take away,1d,1
+17312,Sunny,10PM,Restaurant(<20),2h,0
+19475,Sunny,6PM,Restaurant(20-50),2h,1
+18582,Sunny,7AM,Restaurant(<20),1d,1
+17966,Rainy,7AM,Restaurant(<20),2h,0
+16003,Sunny,7AM,Coffee House,1d,1
+13025,Sunny,7AM,Coffee House,2h,0
+17223,Sunny,6PM,Coffee House,1d,0
+15176,Sunny,2PM,Restaurant(<20),2h,0
+13658,Sunny,6PM,Coffee House,2h,1
+10921,Sunny,7AM,Carry out & Take away,2h,1
+12640,Sunny,6PM,Coffee House,2h,0
+17631,Rainy,10AM,Carry out & Take away,2h,0
+18658,Snowy,10AM,Carry out & Take away,1d,0
+18528,Sunny,2PM,Restaurant(20-50),1d,1
+10551,Sunny,2PM,Coffee House,1d,0
+17577,Sunny,6PM,Bar,2h,0
+12461,Sunny,10AM,Bar,2h,0
+13266,Sunny,7AM,Coffee House,2h,1
+17925,Sunny,7AM,Restaurant(<20),1d,1
+17802,Snowy,10PM,Carry out & Take away,1d,1
+15737,Sunny,7AM,Carry out & Take away,1d,1
+14664,Sunny,6PM,Restaurant(<20),1d,1
+20167,Rainy,10AM,Coffee House,1d,1
+10234,Sunny,7AM,Carry out & Take away,2h,0
+21301,Sunny,10PM,Bar,1d,0
+18554,Snowy,10PM,Restaurant(20-50),2h,0
+12936,Sunny,7AM,Restaurant(<20),1d,1
+11548,Sunny,10AM,Carry out & Take away,2h,0
+16503,Sunny,2PM,Restaurant(<20),2h,1
+16417,Sunny,6PM,Coffee House,1d,1
+19078,Sunny,6PM,Carry out & Take away,1d,1
+22649,Sunny,6PM,Restaurant(<20),2h,1
+19442,Sunny,7AM,Coffee House,1d,1
+21951,Snowy,7AM,Coffee House,1d,1
+10321,Sunny,7AM,Restaurant(<20),1d,1
+19187,Rainy,10PM,Restaurant(20-50),2h,0
+10220,Sunny,6PM,Restaurant(<20),2h,1
+18870,Sunny,10PM,Coffee House,1d,0
+20161,Sunny,7AM,Coffee House,1d,1
+10410,Sunny,10AM,Coffee House,2h,1
+18253,Snowy,7AM,Restaurant(20-50),1d,0
+11836,Sunny,2PM,Coffee House,2h,1
+11523,Sunny,2PM,Restaurant(<20),1d,1
+16924,Snowy,10PM,Restaurant(20-50),2h,0
+15661,Sunny,6PM,Coffee House,1d,0
+21061,Sunny,10PM,Bar,1d,0
+19319,Rainy,10PM,Restaurant(20-50),2h,1
+14483,Sunny,2PM,Restaurant(<20),2h,1
+12475,Sunny,10AM,Coffee House,2h,0
+10652,Sunny,7AM,Carry out & Take away,2h,0
+22524,Sunny,6PM,Restaurant(<20),2h,1
+19817,Sunny,2PM,Restaurant(20-50),1d,1
+12544,Sunny,2PM,Coffee House,1d,1
+13114,Sunny,2PM,Restaurant(<20),1d,1
+21511,Sunny,6PM,Restaurant(20-50),1d,1
+19958,Snowy,10PM,Restaurant(<20),2h,0
+11878,Sunny,10AM,Carry out & Take away,2h,1
+10099,Sunny,2PM,Carry out & Take away,1d,1
+12497,Sunny,10AM,Carry out & Take away,2h,0
+15620,Sunny,6PM,Coffee House,2h,0
+19569,Snowy,10PM,Restaurant(<20),2h,1
+19324,Sunny,6PM,Restaurant(20-50),1d,1
+10841,Sunny,2PM,Restaurant(<20),1d,0
+16078,Sunny,6PM,Coffee House,1d,1
+10237,Sunny,2PM,Restaurant(<20),1d,1
+17614,Snowy,10PM,Restaurant(20-50),2h,1
+21587,Rainy,7AM,Carry out & Take away,1d,1
+22651,Sunny,10PM,Restaurant(20-50),2h,0
+11499,Sunny,7AM,Restaurant(<20),1d,1
+19584,Sunny,10PM,Restaurant(20-50),1d,0
+20729,Sunny,10PM,Restaurant(20-50),1d,0
+15112,Sunny,6PM,Coffee House,1d,0
+12953,Sunny,6PM,Coffee House,2h,0
+21642,Sunny,10AM,Restaurant(<20),2h,0
+16709,Snowy,7AM,Carry out & Take away,1d,1
+14090,Sunny,2PM,Coffee House,1d,0
+21306,Sunny,10AM,Restaurant(<20),2h,1
+14351,Sunny,10AM,Coffee House,1d,0
+21353,Sunny,6PM,Carry out & Take away,2h,1
+14024,Sunny,2PM,Coffee House,1d,1
+14812,Sunny,2PM,Coffee House,1d,1
+11428,Sunny,6PM,Coffee House,2h,1
+17036,Rainy,7AM,Restaurant(<20),2h,1
+12784,Sunny,2PM,Coffee House,1d,1
+15170,Sunny,7AM,Coffee House,1d,1
+11276,Sunny,7AM,Bar,1d,0
+17904,Sunny,10AM,Coffee House,1d,1
+20721,Rainy,7AM,Bar,1d,1
+14285,Sunny,2PM,Restaurant(<20),2h,1
+20402,Rainy,7AM,Bar,1d,0
+13449,Sunny,10AM,Coffee House,2h,1
+15751,Sunny,6PM,Coffee House,1d,1
+15198,Sunny,10AM,Restaurant(<20),1d,0
+16442,Sunny,10PM,Carry out & Take away,1d,1
+13049,Sunny,10AM,Coffee House,2h,1
+20663,Sunny,10AM,Coffee House,2h,0
+15291,Sunny,6PM,Bar,2h,1
+20176,Sunny,6PM,Carry out & Take away,1d,1
+22144,Sunny,6PM,Restaurant(20-50),1d,0
+15055,Sunny,7AM,Coffee House,2h,1
+18236,Sunny,10AM,Coffee House,1d,1
+18394,Rainy,10PM,Bar,2h,0
+18481,Rainy,10PM,Bar,2h,0
+15484,Sunny,6PM,Restaurant(20-50),2h,0
+17134,Sunny,2PM,Restaurant(20-50),2h,0
+21807,Snowy,2PM,Restaurant(<20),1d,1
+12667,Sunny,7AM,Coffee House,2h,1
+17256,Sunny,10PM,Carry out & Take away,2h,1
+11707,Sunny,10AM,Carry out & Take away,2h,1
+15080,Sunny,7AM,Carry out & Take away,1d,1
+19926,Sunny,10PM,Carry out & Take away,1d,1
+10950,Sunny,2PM,Coffee House,1d,1
+20454,Sunny,2PM,Coffee House,1d,1
+20178,Rainy,6PM,Bar,1d,0
+19735,Rainy,10PM,Restaurant(20-50),2h,1
+16477,Sunny,2PM,Coffee House,1d,0
+19082,Sunny,10PM,Restaurant(20-50),1d,1
+18464,Sunny,6PM,Carry out & Take away,2h,1
+10975,Sunny,10AM,Restaurant(<20),2h,1
+19553,Snowy,7AM,Carry out & Take away,1d,1
+21673,Sunny,10PM,Bar,2h,0
+11368,Sunny,7AM,Coffee House,2h,0
+10377,Sunny,6PM,Coffee House,2h,0
+18660,Sunny,10AM,Coffee House,1d,0
+19622,Sunny,10PM,Coffee House,1d,1
+14671,Sunny,10PM,Carry out & Take away,1d,1
+16072,Sunny,2PM,Restaurant(<20),2h,1
+16198,Sunny,10AM,Restaurant(20-50),2h,0
+10061,Sunny,7AM,Bar,1d,0
+10661,Sunny,2PM,Carry out & Take away,1d,1
+16988,Sunny,6PM,Carry out & Take away,2h,1
+18780,Sunny,10AM,Coffee House,1d,1
+18668,Snowy,7AM,Restaurant(<20),2h,0
+22589,Sunny,7AM,Restaurant(20-50),2h,0
+11185,Sunny,6PM,Bar,1d,1
+17106,Sunny,7AM,Restaurant(<20),1d,1
+17423,Rainy,10PM,Bar,2h,1
+21459,Sunny,10AM,Carry out & Take away,2h,1
+15821,Sunny,6PM,Coffee House,2h,0
+15290,Sunny,6PM,Restaurant(<20),1d,1
+16252,Sunny,7AM,Coffee House,2h,0
+20267,Sunny,7AM,Bar,1d,0
+21284,Rainy,2PM,Carry out & Take away,2h,0
+10745,Sunny,10AM,Carry out & Take away,2h,1
+12589,Sunny,2PM,Restaurant(<20),1d,1
+14797,Sunny,6PM,Coffee House,2h,0
+19641,Snowy,7AM,Carry out & Take away,1d,0
+10902,Sunny,2PM,Restaurant(<20),1d,1
+17011,Snowy,6PM,Coffee House,1d,0
+20994,Sunny,10PM,Bar,2h,1
+15506,Sunny,10AM,Restaurant(20-50),2h,0
+10172,Sunny,7AM,Restaurant(20-50),1d,1
+20427,Sunny,10PM,Coffee House,1d,1
+20647,Sunny,2PM,Bar,1d,1
+22279,Snowy,7AM,Coffee House,1d,1
+20441,Sunny,7AM,Bar,1d,1
+15655,Sunny,2PM,Restaurant(<20),2h,0
+16490,Sunny,7AM,Restaurant(20-50),2h,0
+17554,Rainy,6PM,Carry out & Take away,2h,0
+19744,Sunny,10PM,Restaurant(20-50),1d,1
+13822,Sunny,2PM,Restaurant(<20),1d,1
+21131,Sunny,10AM,Restaurant(<20),2h,1
+17672,Snowy,10AM,Carry out & Take away,1d,1
+11835,Sunny,2PM,Coffee House,1d,1
+13238,Sunny,2PM,Coffee House,2h,1
+14636,Sunny,6PM,Restaurant(<20),1d,1
+21868,Snowy,6PM,Bar,1d,1
+17515,Sunny,2PM,Coffee House,1d,1
+14745,Sunny,6PM,Restaurant(<20),1d,1
+16139,Sunny,6PM,Restaurant(<20),1d,1
+16238,Sunny,2PM,Restaurant(<20),2h,1
+11434,Sunny,7AM,Coffee House,2h,0
+12390,Sunny,2PM,Coffee House,1d,0
+14176,Sunny,6PM,Restaurant(<20),1d,1
+18285,Snowy,10AM,Carry out & Take away,1d,1
+14320,Sunny,7AM,Coffee House,2h,0
+10029,Sunny,2PM,Restaurant(<20),1d,1
+13506,Sunny,6PM,Restaurant(20-50),1d,1
+21618,Sunny,10AM,Carry out & Take away,2h,1
+21740,Rainy,10AM,Bar,1d,0
+18433,Sunny,10AM,Coffee House,1d,0
+16133,Sunny,7AM,Carry out & Take away,1d,1
+17847,Sunny,10AM,Bar,1d,1
+20785,Sunny,6PM,Carry out & Take away,2h,1
+22047,Sunny,10AM,Carry out & Take away,2h,0
+13498,Sunny,2PM,Carry out & Take away,1d,1
+20499,Rainy,6PM,Bar,1d,0
+14482,Sunny,2PM,Coffee House,1d,1
+13417,Sunny,6PM,Bar,1d,1
+11084,Sunny,2PM,Carry out & Take away,1d,1
+17665,Sunny,6PM,Coffee House,2h,1
+16940,Snowy,10AM,Carry out & Take away,1d,1
+14339,Sunny,6PM,Coffee House,2h,0
+16138,Sunny,2PM,Restaurant(<20),2h,0
+15945,Sunny,10AM,Restaurant(20-50),2h,1
+11192,Sunny,7AM,Restaurant(<20),1d,0
+14784,Sunny,7AM,Carry out & Take away,1d,1
+14338,Sunny,6PM,Restaurant(<20),2h,1
+16385,Sunny,10AM,Bar,1d,0
+12156,Sunny,7AM,Bar,1d,0
+17819,Sunny,2PM,Restaurant(20-50),2h,1
+12369,Sunny,2PM,Carry out & Take away,1d,1
+15987,Sunny,2PM,Restaurant(<20),2h,0
+10859,Sunny,10AM,Coffee House,2h,1
+10795,Sunny,10AM,Carry out & Take away,2h,1
+20830,Snowy,2PM,Restaurant(<20),1d,1
+19601,Rainy,10AM,Coffee House,1d,0
+21343,Sunny,7AM,Restaurant(20-50),2h,0
+12849,Sunny,2PM,Coffee House,2h,0
+21849,Snowy,2PM,Restaurant(<20),1d,0
+17999,Snowy,10PM,Carry out & Take away,1d,1
+20839,Snowy,10PM,Carry out & Take away,1d,1
+13099,Sunny,10AM,Restaurant(<20),2h,1
+17434,Snowy,7AM,Restaurant(<20),2h,0
+19912,Sunny,10PM,Bar,1d,0
+14415,Sunny,6PM,Restaurant(<20),1d,1
+15936,Sunny,7AM,Carry out & Take away,1d,0
+14568,Sunny,10AM,Coffee House,2h,1
+10084,Sunny,7AM,Restaurant(20-50),1d,1
+13328,Sunny,7AM,Restaurant(20-50),1d,0
+21441,Snowy,10AM,Restaurant(<20),1d,1
+16833,Sunny,6PM,Bar,2h,0
+19069,Rainy,10AM,Coffee House,1d,1
+10497,Sunny,10AM,Carry out & Take away,2h,0
+21589,Snowy,7AM,Bar,1d,1
+14021,Sunny,10AM,Coffee House,2h,1
+17720,Rainy,10PM,Coffee House,1d,0
+17948,Rainy,6PM,Carry out & Take away,2h,0
+12648,Sunny,10AM,Coffee House,2h,1
+10456,Sunny,2PM,Coffee House,1d,1
+15494,Sunny,7AM,Coffee House,2h,0
+18016,Sunny,6PM,Coffee House,2h,1
+12003,Sunny,7AM,Restaurant(20-50),1d,0
+19259,Sunny,6PM,Carry out & Take away,1d,1
+17815,Sunny,7AM,Restaurant(<20),1d,1
+15597,Sunny,6PM,Restaurant(<20),2h,1
+16654,Sunny,6PM,Coffee House,2h,1
+13750,Sunny,7AM,Coffee House,2h,1
+20616,Sunny,7AM,Restaurant(<20),1d,1
+19946,Sunny,10PM,Coffee House,1d,1
+20612,Sunny,10PM,Restaurant(20-50),1d,1
+17443,Sunny,6PM,Coffee House,1d,1
+15454,Sunny,7AM,Carry out & Take away,1d,1
+17516,Sunny,6PM,Carry out & Take away,2h,1
+14716,Sunny,7AM,Coffee House,2h,1
+10557,Sunny,10AM,Coffee House,2h,1
+12295,Sunny,10AM,Carry out & Take away,2h,0
+19349,Rainy,6PM,Bar,1d,0
+19346,Sunny,6PM,Restaurant(20-50),1d,0
+21550,Sunny,10PM,Bar,1d,1
+18937,Rainy,10AM,Coffee House,1d,1
+11501,Sunny,2PM,Restaurant(<20),1d,1
+20268,Rainy,7AM,Carry out & Take away,2h,0
+10513,Sunny,7AM,Restaurant(20-50),1d,0
+19380,Sunny,10AM,Coffee House,2h,1
+18072,Snowy,6PM,Coffee House,1d,0
+12816,Sunny,7AM,Coffee House,2h,1
+21404,Sunny,10PM,Restaurant(<20),2h,0
+21627,Sunny,6PM,Carry out & Take away,1d,1
+20507,Snowy,7AM,Carry out & Take away,1d,0
+18541,Sunny,2PM,Restaurant(20-50),2h,1
+19366,Snowy,2PM,Bar,1d,1
+16575,Sunny,10PM,Restaurant(<20),2h,0
+21095,Sunny,10PM,Restaurant(20-50),1d,1
+12380,Sunny,10AM,Bar,1d,1
+10821,Sunny,6PM,Coffee House,2h,0
+11811,Sunny,10AM,Carry out & Take away,2h,1
+15444,Sunny,10PM,Carry out & Take away,1d,1
+21454,Sunny,10PM,Restaurant(20-50),2h,0
+17848,Rainy,10AM,Carry out & Take away,2h,1
+15912,Sunny,7AM,Coffee House,2h,0
+20388,Sunny,10AM,Coffee House,1d,1
+21328,Rainy,2PM,Carry out & Take away,2h,1
+20225,Sunny,7AM,Coffee House,1d,1
+17427,Sunny,6PM,Carry out & Take away,2h,1
+21224,Rainy,10PM,Coffee House,2h,0
+14662,Sunny,10AM,Coffee House,1d,1
+12285,Sunny,6PM,Restaurant(20-50),1d,0
+19066,Sunny,10AM,Coffee House,2h,1
+20348,Sunny,6PM,Restaurant(20-50),1d,1
+14867,Sunny,7AM,Coffee House,2h,1
+17352,Sunny,6PM,Coffee House,1d,1
+19861,Rainy,10PM,Restaurant(20-50),2h,1
+12491,Sunny,7AM,Carry out & Take away,2h,1
+10769,Sunny,2PM,Coffee House,1d,1
+13531,Sunny,7AM,Bar,1d,1
+20773,Sunny,7AM,Coffee House,1d,1
+11424,Sunny,2PM,Restaurant(<20),1d,0
+14531,Sunny,2PM,Restaurant(<20),2h,0
+22142,Rainy,10PM,Coffee House,2h,0
+12823,Sunny,10AM,Coffee House,2h,0
+21471,Rainy,7AM,Carry out & Take away,1d,1
+13154,Sunny,2PM,Restaurant(<20),1d,1
+10758,Sunny,6PM,Coffee House,2h,1
+15251,Sunny,6PM,Coffee House,2h,0
+17144,Snowy,10PM,Restaurant(20-50),2h,0
+21215,Sunny,10AM,Carry out & Take away,2h,0
+19850,Sunny,7AM,Bar,1d,0
+17495,Snowy,6PM,Coffee House,1d,0
+21577,Rainy,6PM,Bar,2h,1
+12808,Sunny,6PM,Coffee House,2h,1
+17171,Snowy,7AM,Restaurant(20-50),1d,0
+10621,Sunny,2PM,Restaurant(<20),1d,1
+20900,Rainy,7AM,Carry out & Take away,1d,0
+12955,Sunny,7AM,Bar,1d,0
+12323,Sunny,6PM,Restaurant(<20),2h,1
+11673,Sunny,7AM,Restaurant(20-50),1d,1
+10507,Sunny,6PM,Bar,1d,0
+11231,Sunny,7AM,Coffee House,2h,0
+18975,Sunny,7AM,Coffee House,1d,1
+20920,Sunny,10PM,Restaurant(<20),2h,1
+22046,Sunny,10PM,Bar,2h,1
+10706,Sunny,10AM,Coffee House,2h,0
+13580,Sunny,2PM,Restaurant(<20),1d,1
+15230,Sunny,10PM,Restaurant(<20),2h,0
+20996,Snowy,2PM,Restaurant(<20),1d,1
+13174,Sunny,10AM,Coffee House,2h,0
+15446,Sunny,6PM,Coffee House,2h,0
+11882,Sunny,2PM,Restaurant(<20),1d,1
+20204,Rainy,7AM,Bar,1d,1
+15651,Sunny,7AM,Carry out & Take away,1d,1
+15339,Sunny,6PM,Coffee House,2h,1
+14354,Sunny,2PM,Coffee House,2h,0
+20391,Sunny,6PM,Restaurant(20-50),2h,1
+16060,Sunny,10PM,Restaurant(<20),2h,1
+15456,Sunny,7AM,Coffee House,1d,0
+19672,Snowy,2PM,Bar,1d,0
+21693,Sunny,10PM,Bar,1d,0
+22343,Sunny,6PM,Restaurant(20-50),1d,0
+15268,Sunny,2PM,Coffee House,2h,1
+10340,Sunny,7AM,Carry out & Take away,2h,1
+20340,Sunny,10PM,Coffee House,1d,1
+16137,Sunny,10AM,Coffee House,2h,1
+16506,Sunny,6PM,Coffee House,1d,1
+18335,Snowy,10PM,Restaurant(20-50),2h,0
+14222,Sunny,2PM,Restaurant(<20),2h,1
+11848,Sunny,7AM,Bar,1d,1
+22022,Sunny,10PM,Bar,2h,1
+10339,Sunny,7AM,Restaurant(20-50),1d,0
+10913,Sunny,2PM,Restaurant(<20),1d,1
+12296,Sunny,2PM,Coffee House,2h,1
+14740,Sunny,7AM,Carry out & Take away,1d,1
+22108,Sunny,6PM,Restaurant(<20),2h,1
+11597,Sunny,10AM,Carry out & Take away,2h,1
+22380,Sunny,6PM,Carry out & Take away,1d,1
+10537,Sunny,6PM,Restaurant(20-50),1d,1
+13182,Sunny,7AM,Restaurant(20-50),1d,0
+18091,Sunny,2PM,Restaurant(20-50),1d,1
+15667,Sunny,10PM,Bar,1d,1
+11169,Sunny,10AM,Coffee House,2h,0
+18432,Snowy,6PM,Bar,1d,0
+12501,Sunny,2PM,Restaurant(<20),1d,1
+10304,Sunny,2PM,Coffee House,2h,0
+11634,Sunny,10AM,Coffee House,2h,1
+20050,Rainy,7AM,Carry out & Take away,2h,0
+17214,Snowy,7AM,Restaurant(<20),2h,0
+20435,Sunny,6PM,Restaurant(20-50),1d,1
+20065,Sunny,6PM,Carry out & Take away,1d,1
+12117,Sunny,2PM,Restaurant(<20),1d,1
+21741,Sunny,10AM,Restaurant(<20),2h,1
+22592,Sunny,10PM,Bar,2h,0
+16835,Sunny,6PM,Coffee House,1d,1
+20422,Sunny,7AM,Coffee House,1d,1
+19423,Snowy,7AM,Carry out & Take away,1d,1
+10876,Sunny,7AM,Restaurant(20-50),1d,1
+21355,Rainy,10PM,Coffee House,2h,0
+12136,Sunny,7AM,Carry out & Take away,2h,0
+15394,Sunny,6PM,Restaurant(<20),1d,1
+13996,Sunny,7AM,Restaurant(<20),1d,1
+21376,Sunny,10PM,Restaurant(20-50),1d,1
+18819,Sunny,10PM,Carry out & Take away,2h,1
+11350,Sunny,2PM,Coffee House,2h,0
+14858,Sunny,6PM,Restaurant(20-50),2h,0
+15393,Sunny,2PM,Restaurant(<20),2h,1
+22270,Sunny,6PM,Carry out & Take away,2h,1
+17015,Rainy,7AM,Restaurant(<20),2h,1
+20473,Snowy,2PM,Bar,1d,0
+12661,Sunny,6PM,Coffee House,2h,0
+17752,Sunny,6PM,Coffee House,2h,0
+15701,Sunny,2PM,Coffee House,1d,1
+15633,Sunny,2PM,Restaurant(<20),2h,1
+19118,Sunny,10AM,Coffee House,1d,1
+10767,Sunny,10AM,Bar,1d,1
+22140,Sunny,6PM,Carry out & Take away,2h,0
+12709,Sunny,7AM,Carry out & Take away,2h,1
+19231,Sunny,2PM,Restaurant(20-50),1d,1
+11145,Sunny,10AM,Coffee House,2h,1
+22064,Sunny,10PM,Restaurant(20-50),2h,0
+15293,Sunny,6PM,Coffee House,1d,1
+11035,Sunny,10AM,Coffee House,2h,0
+21427,Rainy,6PM,Carry out & Take away,1d,1
+13467,Sunny,7AM,Carry out & Take away,2h,0
+22419,Sunny,10AM,Carry out & Take away,2h,1
+19847,Sunny,10PM,Restaurant(<20),1d,1
+21448,Sunny,10PM,Restaurant(<20),2h,1
+17188,Snowy,10PM,Restaurant(20-50),2h,0
+14195,Sunny,10AM,Bar,1d,1
+18542,Sunny,6PM,Coffee House,1d,1
+20840,Sunny,6PM,Restaurant(20-50),1d,1
+10336,Sunny,6PM,Coffee House,2h,0
+14127,Sunny,7AM,Carry out & Take away,1d,1
+15075,Sunny,6PM,Coffee House,2h,1
+16590,Sunny,6PM,Coffee House,2h,0
+15958,Sunny,7AM,Carry out & Take away,1d,0
+15512,Sunny,6PM,Coffee House,1d,0
+16539,Sunny,10AM,Coffee House,2h,1
+12689,Sunny,7AM,Coffee House,2h,0
+10634,Sunny,10AM,Coffee House,2h,1
+13622,Sunny,7AM,Restaurant(<20),1d,1
+22340,Sunny,6PM,Carry out & Take away,1d,0
+16377,Sunny,6PM,Coffee House,2h,0
+20360,Sunny,10AM,Coffee House,2h,0
+16551,Sunny,10PM,Carry out & Take away,1d,1
+15368,Sunny,7AM,Coffee House,1d,0
+10505,Sunny,10AM,Coffee House,2h,0
+18446,Sunny,10PM,Carry out & Take away,2h,1
+19359,Sunny,2PM,Restaurant(20-50),1d,0
+12374,Sunny,7AM,Coffee House,2h,0
+14388,Sunny,7AM,Carry out & Take away,1d,1
+20726,Rainy,10AM,Coffee House,1d,1
+22263,Sunny,10PM,Bar,2h,1
+12645,Sunny,7AM,Restaurant(<20),1d,1
+18610,Sunny,2PM,Restaurant(20-50),2h,0
+19670,Sunny,10AM,Carry out & Take away,1d,1
+17778,Sunny,10AM,Coffee House,1d,1
+12495,Sunny,10AM,Coffee House,2h,1
+21461,Rainy,10AM,Bar,1d,0
+22448,Sunny,10PM,Bar,2h,0
+13145,Sunny,10AM,Carry out & Take away,2h,1
+14866,Sunny,10PM,Bar,1d,1
+22571,Sunny,10AM,Carry out & Take away,2h,0
+10394,Sunny,2PM,Restaurant(<20),1d,1
+14793,Sunny,6PM,Coffee House,1d,1
+15556,Sunny,6PM,Coffee House,1d,1
+12067,Sunny,7AM,Coffee House,2h,0
+14499,Sunny,7AM,Carry out & Take away,1d,0
+16730,Sunny,7AM,Coffee House,1d,1
+19021,Snowy,7AM,Carry out & Take away,1d,0
+12203,Sunny,7AM,Restaurant(<20),1d,1
+11409,Sunny,7AM,Restaurant(20-50),1d,1
+13097,Sunny,6PM,Restaurant(<20),2h,1
+20262,Sunny,6PM,Carry out & Take away,1d,0
+21382,Snowy,10PM,Coffee House,2h,0
+12574,Sunny,6PM,Restaurant(20-50),1d,0
+18799,Snowy,7AM,Restaurant(<20),2h,0
+20436,Sunny,6PM,Carry out & Take away,1d,1
+15110,Sunny,2PM,Restaurant(<20),2h,1
+22590,Sunny,6PM,Restaurant(<20),2h,1
+17162,Sunny,2PM,Restaurant(20-50),1d,0
+10572,Sunny,2PM,Coffee House,2h,1
+11307,Sunny,2PM,Coffee House,1d,1
+18981,Rainy,10AM,Coffee House,1d,1
+21679,Sunny,6PM,Restaurant(20-50),1d,1
+11413,Sunny,2PM,Restaurant(<20),1d,1
+19849,Rainy,6PM,Coffee House,1d,1
+11379,Sunny,10AM,Coffee House,2h,1
+12704,Sunny,6PM,Restaurant(20-50),1d,1
+22412,Snowy,7AM,Bar,1d,0
+16218,Sunny,2PM,Coffee House,1d,1
+21161,Rainy,10PM,Coffee House,2h,0
+11136,Sunny,6PM,Restaurant(20-50),1d,0
+11297,Sunny,7AM,Coffee House,2h,0
+17107,Sunny,10AM,Coffee House,1d,1
+18252,Snowy,7AM,Restaurant(<20),2h,0
+19594,Rainy,7AM,Carry out & Take away,2h,0
+12500,Sunny,2PM,Coffee House,1d,1
+10045,Sunny,10AM,Coffee House,2h,1
+19144,Sunny,10AM,Carry out & Take away,1d,1
+10662,Sunny,10AM,Coffee House,2h,0
+19562,Sunny,10PM,Restaurant(20-50),1d,0
+12947,Sunny,10AM,Bar,1d,0
+12805,Sunny,2PM,Coffee House,2h,1
+10345,Sunny,10AM,Carry out & Take away,2h,0
+18030,Sunny,6PM,Bar,2h,1
+12675,Sunny,10AM,Coffee House,2h,1
+22635,Snowy,6PM,Bar,1d,0
+19270,Sunny,10AM,Coffee House,2h,0
+10424,Sunny,6PM,Coffee House,2h,0
+14198,Sunny,6PM,Restaurant(<20),1d,1
+14921,Sunny,6PM,Restaurant(<20),1d,1
+14444,Sunny,6PM,Bar,2h,0
+11902,Sunny,2PM,Coffee House,2h,1
+19311,Sunny,7AM,Restaurant(<20),1d,0
+10595,Sunny,2PM,Coffee House,1d,0
+12520,Sunny,2PM,Coffee House,1d,1
+14397,Sunny,6PM,Coffee House,1d,0
+22609,Snowy,7AM,Restaurant(<20),1d,0
+12522,Sunny,2PM,Carry out & Take away,1d,1
+16175,Sunny,10AM,Coffee House,1d,1
+16787,Sunny,6PM,Coffee House,1d,1
+16150,Sunny,10AM,Bar,2h,0
+15601,Sunny,10PM,Bar,1d,1
+11539,Sunny,7AM,Coffee House,2h,1
+13327,Sunny,7AM,Bar,1d,0
+14434,Sunny,10AM,Bar,1d,0
+11911,Sunny,6PM,Restaurant(20-50),1d,0
+18612,Sunny,10PM,Restaurant(<20),2h,0
+16679,Snowy,6PM,Coffee House,1d,1
+14693,Sunny,10PM,Carry out & Take away,1d,1
+12961,Sunny,10AM,Coffee House,2h,1
+14197,Sunny,2PM,Restaurant(<20),2h,1
+13692,Sunny,10AM,Carry out & Take away,2h,1
+10949,Sunny,2PM,Coffee House,2h,1
+10195,Sunny,10AM,Bar,1d,0
+11919,Sunny,2PM,Restaurant(<20),1d,1
+15027,Sunny,10AM,Bar,1d,1
+13478,Sunny,10AM,Carry out & Take away,2h,1
+22110,Sunny,10PM,Bar,2h,1
+13440,Sunny,6PM,Restaurant(20-50),1d,1
+19058,Rainy,6PM,Bar,1d,0
+18570,Snowy,10AM,Carry out & Take away,1d,1
+16300,Sunny,7AM,Carry out & Take away,1d,1
+22105,Snowy,7AM,Coffee House,1d,1
+11649,Sunny,7AM,Coffee House,2h,1
+21912,Sunny,10PM,Bar,1d,1
+18018,Sunny,6PM,Coffee House,1d,1
+10586,Sunny,7AM,Carry out & Take away,2h,0
+10582,Sunny,6PM,Coffee House,2h,1
+11233,Sunny,7AM,Restaurant(20-50),1d,1
+22648,Sunny,10AM,Restaurant(<20),2h,1
+14501,Sunny,10AM,Bar,1d,0
+22502,Sunny,6PM,Restaurant(<20),2h,1
+13510,Sunny,7AM,Restaurant(20-50),1d,0
+15402,Sunny,6PM,Coffee House,1d,1
+10862,Sunny,2PM,Coffee House,1d,0
+17947,Sunny,7AM,Restaurant(<20),1d,1
+16471,Sunny,7AM,Carry out & Take away,1d,1
+13295,Sunny,10AM,Coffee House,2h,1
+16121,Sunny,10AM,Coffee House,1d,0
+10366,Sunny,10AM,Coffee House,2h,1
+18139,Snowy,10PM,Restaurant(20-50),2h,0
+16717,Sunny,10PM,Restaurant(20-50),1d,0
+19348,Sunny,6PM,Restaurant(<20),1d,0
+16387,Sunny,2PM,Restaurant(<20),2h,1
+12254,Sunny,2PM,Coffee House,2h,0
+17281,Snowy,7AM,Restaurant(20-50),1d,0
+10730,Sunny,6PM,Restaurant(<20),2h,1
+16166,Sunny,7AM,Carry out & Take away,1d,0
+21606,Sunny,10PM,Restaurant(20-50),1d,1
+19933,Sunny,6PM,Carry out & Take away,1d,1
+11048,Sunny,6PM,Restaurant(20-50),1d,0
+19541,Sunny,6PM,Restaurant(<20),1d,0
+22606,Rainy,7AM,Restaurant(<20),2h,0
+12209,Sunny,2PM,Coffee House,1d,0
+18230,Snowy,7AM,Restaurant(<20),2h,0
+19567,Sunny,6PM,Restaurant(<20),1d,1
+13050,Sunny,10AM,Carry out & Take away,2h,0
+22315,Sunny,6PM,Carry out & Take away,2h,0
+21111,Sunny,6PM,Carry out & Take away,2h,1
+17905,Sunny,6PM,Coffee House,2h,1
+21205,Sunny,10PM,Restaurant(20-50),1d,0
+10976,Sunny,10AM,Carry out & Take away,2h,1
+15956,Sunny,7AM,Coffee House,2h,0
+17526,Sunny,10AM,Restaurant(<20),1d,1
+12692,Sunny,10AM,Carry out & Take away,2h,0
+19043,Snowy,7AM,Carry out & Take away,1d,1
+19190,Snowy,2PM,Bar,1d,1
+14013,Sunny,10PM,Restaurant(<20),2h,1
+17781,Rainy,10PM,Bar,2h,0
+14419,Sunny,10AM,Coffee House,1d,0
+15853,Sunny,2PM,Restaurant(<20),2h,1
+20432,Rainy,10AM,Coffee House,1d,1
+14292,Sunny,6PM,Restaurant(<20),1d,1
+11495,Sunny,7AM,Coffee House,2h,1
+18519,Snowy,6PM,Bar,1d,1
+16953,Sunny,10AM,Coffee House,1d,1
+14620,Sunny,10PM,Carry out & Take away,1d,1
+15505,Sunny,10AM,Coffee House,1d,0
+22153,Sunny,10PM,Bar,1d,0
+11842,Sunny,2PM,Carry out & Take away,1d,1
+12178,Sunny,7AM,Bar,1d,1
+22633,Sunny,7AM,Restaurant(20-50),2h,0
+10616,Sunny,6PM,Restaurant(<20),2h,1
+14799,Sunny,10PM,Carry out & Take away,1d,1
+16171,Sunny,10AM,Coffee House,2h,1
+15706,Sunny,6PM,Restaurant(<20),1d,1
+20556,Sunny,10PM,Restaurant(<20),1d,1
+19741,Sunny,6PM,Restaurant(<20),1d,1
+16419,Sunny,6PM,Coffee House,1d,1
+20837,Rainy,10PM,Coffee House,2h,1
+10979,Sunny,2PM,Restaurant(<20),1d,1
+13128,Sunny,6PM,Bar,1d,1
+11220,Sunny,2PM,Coffee House,2h,1
+18825,Sunny,10PM,Coffee House,1d,1
+10283,Sunny,10AM,Carry out & Take away,2h,0
+18503,Rainy,10PM,Bar,2h,1
+14973,Sunny,10PM,Restaurant(<20),2h,0
+19620,Sunny,10AM,Coffee House,2h,1
+12141,Sunny,10AM,Carry out & Take away,2h,1
+11534,Sunny,2PM,Restaurant(<20),1d,1
+13255,Sunny,6PM,Restaurant(<20),2h,1
+20615,Sunny,7AM,Coffee House,1d,1
+15543,Sunny,7AM,Coffee House,1d,0
+12988,Sunny,2PM,Coffee House,1d,0
+10845,Sunny,6PM,Coffee House,2h,0
+13552,Sunny,7AM,Coffee House,2h,1
+12070,Sunny,7AM,Carry out & Take away,2h,1
+15395,Sunny,2PM,Coffee House,1d,1
+13383,Sunny,10AM,Coffee House,2h,1
+19391,Sunny,6PM,Carry out & Take away,1d,0
+18587,Sunny,10PM,Restaurant(<20),2h,1
+14982,Sunny,7AM,Coffee House,1d,1
+12208,Sunny,2PM,Coffee House,2h,0
+12040,Sunny,2PM,Restaurant(<20),1d,1
+13344,Sunny,6PM,Coffee House,2h,0
+22568,Sunny,6PM,Restaurant(<20),2h,1
+15768,Sunny,2PM,Restaurant(<20),2h,1
+15479,Sunny,10AM,Coffee House,2h,0
+20231,Rainy,10AM,Coffee House,1d,1
+13400,Sunny,7AM,Restaurant(20-50),1d,1
+11624,Sunny,6PM,Bar,1d,1
+17836,Snowy,7AM,Restaurant(20-50),1d,0
+16480,Sunny,6PM,Coffee House,1d,0
+10213,Sunny,7AM,Restaurant(<20),1d,1
+13587,Sunny,10AM,Coffee House,2h,1
+22245,Sunny,10AM,Restaurant(<20),2h,1
+21308,Rainy,6PM,Bar,2h,0
+18454,Sunny,10AM,Coffee House,1d,1
+18555,Sunny,6PM,Coffee House,1d,0
+17706,Sunny,7AM,Restaurant(<20),1d,1
+18564,Sunny,10AM,Coffee House,1d,1
+16286,Sunny,10AM,Restaurant(20-50),2h,1
+16448,Sunny,7AM,Carry out & Take away,1d,1
+12905,Sunny,2PM,Carry out & Take away,1d,1
+16566,Sunny,10AM,Restaurant(20-50),2h,1
+17099,Snowy,6PM,Coffee House,1d,0
+14470,Sunny,10PM,Bar,1d,0
+12145,Sunny,2PM,Carry out & Take away,1d,1
+18913,Sunny,2PM,Restaurant(20-50),1d,0
+19159,Snowy,7AM,Carry out & Take away,1d,0
+10659,Sunny,2PM,Coffee House,1d,0
+18179,Snowy,2PM,Coffee House,2h,0
+19305,Rainy,6PM,Bar,1d,1
+13568,Sunny,2PM,Coffee House,2h,0
+12448,Sunny,7AM,Restaurant(20-50),1d,0
+10140,Sunny,10AM,Carry out & Take away,2h,1
+15182,Sunny,6PM,Coffee House,2h,0
+13194,Sunny,10AM,Bar,2h,1
+10090,Sunny,10AM,Bar,1d,1
+11770,Sunny,6PM,Restaurant(<20),2h,1
+20469,Sunny,10AM,Coffee House,2h,0
+16633,Sunny,6PM,Coffee House,1d,0
+21780,Snowy,6PM,Bar,1d,1
+15294,Sunny,6PM,Restaurant(<20),2h,1
+18243,Snowy,10PM,Carry out & Take away,1d,1
+14097,Sunny,6PM,Coffee House,1d,0
+19374,Sunny,7AM,Bar,1d,1
+22073,Sunny,6PM,Restaurant(<20),2h,1
+15341,Sunny,10PM,Carry out & Take away,1d,1
+19075,Sunny,6PM,Restaurant(20-50),2h,1
+12284,Sunny,6PM,Bar,1d,1
+17464,Sunny,2PM,Restaurant(20-50),2h,1
+21451,Snowy,7AM,Coffee House,1d,0
+15385,Sunny,7AM,Coffee House,2h,0
+15993,Sunny,6PM,Coffee House,2h,0
+14045,Sunny,6PM,Restaurant(<20),1d,1
+12436,Sunny,2PM,Carry out & Take away,1d,1
+12272,Sunny,10AM,Coffee House,2h,1
+11490,Sunny,6PM,Restaurant(<20),2h,1
+11304,Sunny,10AM,Coffee House,2h,1
+19795,Sunny,10AM,Coffee House,2h,1
+16061,Sunny,10PM,Carry out & Take away,1d,1
+17741,Snowy,2PM,Coffee House,2h,0
+14370,Sunny,2PM,Restaurant(<20),2h,1
+13171,Sunny,10AM,Coffee House,2h,0
+15113,Sunny,6PM,Coffee House,1d,0
+14713,Sunny,6PM,Coffee House,2h,0
+20517,Sunny,6PM,Restaurant(20-50),2h,0
+15697,Sunny,10AM,Bar,1d,1
+22235,Rainy,7AM,Carry out & Take away,1d,0
+18897,Sunny,10PM,Restaurant(<20),1d,0
+20486,Sunny,10AM,Coffee House,2h,0
+19713,Sunny,10AM,Carry out & Take away,1d,1
+18946,Sunny,6PM,Carry out & Take away,1d,1
+19692,Sunny,10PM,Restaurant(<20),1d,1
+10490,Sunny,7AM,Bar,1d,0
+17540,Rainy,2PM,Restaurant(<20),2h,0
+18613,Rainy,10PM,Bar,2h,1
+13239,Sunny,2PM,Carry out & Take away,1d,1
+15804,Sunny,7AM,Carry out & Take away,1d,1
+14842,Sunny,10PM,Restaurant(<20),2h,0
+21249,Rainy,10PM,Coffee House,2h,0
+14562,Sunny,7AM,Coffee House,2h,1
+12450,Sunny,7AM,Restaurant(<20),1d,1
+10893,Sunny,6PM,Bar,1d,0
+10201,Sunny,6PM,Coffee House,2h,0
+15585,Sunny,7AM,Carry out & Take away,1d,1
+16401,Sunny,7AM,Coffee House,2h,0
+13508,Sunny,7AM,Coffee House,2h,0
+19093,Sunny,10PM,Restaurant(<20),1d,1
+18956,Sunny,10AM,Coffee House,2h,1
+11925,Sunny,2PM,Coffee House,1d,1
+18214,Sunny,2PM,Restaurant(20-50),2h,0
+20127,Sunny,10PM,Restaurant(<20),1d,1
+11167,Sunny,10AM,Restaurant(20-50),1d,1
+14684,Sunny,10AM,Bar,2h,0
+22627,Sunny,6PM,Restaurant(<20),1d,1
+14393,Sunny,6PM,Restaurant(<20),1d,1
+21386,Snowy,7AM,Bar,1d,0
+17870,Snowy,10PM,Carry out & Take away,1d,1
+16542,Sunny,2PM,Coffee House,1d,1
+10096,Sunny,6PM,Coffee House,2h,1
+19166,Sunny,10AM,Carry out & Take away,1d,1
+20253,Rainy,10AM,Coffee House,1d,0
+16928,Snowy,7AM,Restaurant(<20),2h,0
+17894,Sunny,2PM,Coffee House,1d,1
+21034,Snowy,7AM,Bar,1d,1
+11438,Sunny,10AM,Carry out & Take away,2h,0
+18766,Snowy,10PM,Carry out & Take away,1d,0
+11818,Sunny,10AM,Bar,1d,0
+19922,Sunny,10AM,Coffee House,2h,1
+22001,Sunny,10AM,Carry out & Take away,2h,1
+19070,Snowy,2PM,Bar,1d,0
+19487,Snowy,7AM,Carry out & Take away,1d,0
+17928,Sunny,6PM,Coffee House,2h,1
+11493,Sunny,6PM,Restaurant(20-50),1d,0
+20437,Sunny,6PM,Restaurant(<20),1d,1
+13364,Sunny,2PM,Coffee House,1d,1
+21109,Sunny,10AM,Restaurant(<20),2h,1
+13987,Sunny,2PM,Carry out & Take away,1d,1
+17889,Sunny,10PM,Restaurant(<20),2h,0
+19869,Rainy,6PM,Bar,1d,1
+22554,Rainy,6PM,Bar,2h,0
+14657,Sunny,2PM,Restaurant(<20),2h,1
+10484,Sunny,2PM,Carry out & Take away,1d,1
+21419,Snowy,10AM,Restaurant(<20),1d,1
+16703,Sunny,7AM,Coffee House,1d,1
+10352,Sunny,10AM,Bar,1d,0
+11600,Sunny,2PM,Restaurant(<20),1d,1
+18984,Sunny,10AM,Coffee House,1d,1
+10458,Sunny,2PM,Coffee House,1d,1
+19435,Sunny,6PM,Carry out & Take away,1d,1
+20314,Rainy,7AM,Bar,1d,0
+14134,Sunny,10AM,Restaurant(<20),1d,1
+17696,Rainy,2PM,Restaurant(<20),2h,0
+20331,Snowy,10PM,Restaurant(<20),2h,0
+16427,Sunny,7AM,Carry out & Take away,1d,1
+20533,Rainy,10AM,Coffee House,1d,0
+11591,Sunny,10AM,Carry out & Take away,2h,1
+10654,Sunny,7AM,Coffee House,2h,0
+10701,Sunny,10AM,Carry out & Take away,2h,1
+12834,Sunny,6PM,Coffee House,2h,0
+13899,Sunny,2PM,Carry out & Take away,1d,1
+11492,Sunny,6PM,Bar,1d,0
+11300,Sunny,7AM,Carry out & Take away,2h,1
+11632,Sunny,7AM,Coffee House,2h,1
+10736,Sunny,6PM,Coffee House,2h,1
+22515,Snowy,10PM,Coffee House,2h,0
+21870,Sunny,10PM,Bar,1d,0
+18412,Sunny,10PM,Restaurant(<20),2h,1
+14885,Sunny,6PM,Coffee House,1d,1
+17481,Sunny,10AM,Coffee House,1d,0
+15040,Sunny,10AM,Carry out & Take away,1d,1
+14421,Sunny,6PM,Restaurant(<20),1d,1
+13726,Sunny,6PM,Restaurant(20-50),1d,1
+15939,Sunny,10AM,Bar,1d,0
+19742,Rainy,6PM,Bar,1d,0
+11301,Sunny,7AM,Restaurant(<20),1d,1
+20798,Sunny,6PM,Restaurant(<20),2h,0
+16612,Sunny,6PM,Coffee House,2h,0
+17421,Sunny,6PM,Carry out & Take away,1d,1
+13687,Sunny,7AM,Carry out & Take away,2h,1
+16433,Sunny,2PM,Coffee House,1d,0
+14941,Sunny,10AM,Coffee House,2h,0
+12881,Sunny,10AM,Bar,1d,0
+12132,Sunny,6PM,Coffee House,2h,0
+21257,Sunny,10PM,Bar,1d,1
+13847,Sunny,10AM,Carry out & Take away,2h,0
+19217,Sunny,10PM,Restaurant(<20),1d,0
+15561,Sunny,7AM,Coffee House,2h,1
+10517,Sunny,10AM,Bar,1d,0
+13043,Sunny,7AM,Bar,1d,0
+10298,Sunny,7AM,Carry out & Take away,2h,0
+15952,Sunny,6PM,Restaurant(<20),2h,1
+16207,Sunny,10PM,Restaurant(<20),2h,1
+10576,Sunny,6PM,Restaurant(<20),2h,0
+12723,Sunny,2PM,Carry out & Take away,1d,1
+13600,Sunny,7AM,Restaurant(<20),1d,1
+17010,Sunny,6PM,Carry out & Take away,2h,1
+20886,Snowy,2PM,Restaurant(<20),1d,1
+20282,Sunny,6PM,Restaurant(20-50),1d,1
+12045,Sunny,7AM,Coffee House,2h,1
+19961,Rainy,7AM,Carry out & Take away,2h,0
+17805,Rainy,2PM,Restaurant(<20),2h,1
+14268,Sunny,6PM,Coffee House,1d,0
+18821,Snowy,7AM,Restaurant(<20),2h,0
+11083,Sunny,6PM,Restaurant(<20),2h,1
+13129,Sunny,6PM,Restaurant(20-50),1d,0
+14302,Sunny,7AM,Carry out & Take away,1d,1
+11443,Sunny,6PM,Coffee House,2h,0
+17893,Sunny,2PM,Restaurant(20-50),1d,1
+12986,Sunny,2PM,Coffee House,1d,1
+19012,Sunny,6PM,Restaurant(<20),1d,1
+16661,Sunny,10PM,Carry out & Take away,1d,1
+11525,Sunny,10AM,Carry out & Take away,2h,1
+20932,Snowy,2PM,Restaurant(<20),1d,1
+14418,Sunny,10AM,Restaurant(20-50),2h,0
+17492,Sunny,10AM,Coffee House,1d,0
+14231,Sunny,10PM,Bar,1d,1
+19427,Sunny,10AM,Restaurant(<20),2h,0
+18903,Sunny,10PM,Restaurant(<20),1d,1
+14561,Sunny,10PM,Carry out & Take away,1d,0
+12312,Sunny,7AM,Carry out & Take away,2h,1
+16222,Sunny,2PM,Restaurant(<20),2h,0
+11047,Sunny,6PM,Bar,1d,0
+21899,Sunny,6PM,Carry out & Take away,1d,1
+20825,Rainy,6PM,Carry out & Take away,1d,0
+22127,Snowy,7AM,Coffee House,1d,1
+18275,Snowy,7AM,Restaurant(20-50),1d,1
+11661,Sunny,2PM,Carry out & Take away,1d,0
+20622,Sunny,10AM,Restaurant(<20),2h,1
+19673,Sunny,10PM,Restaurant(<20),1d,1
+20747,Sunny,6PM,Restaurant(<20),1d,1
+19326,Sunny,6PM,Restaurant(<20),1d,1
+16231,Sunny,7AM,Coffee House,2h,0
+21626,Sunny,6PM,Carry out & Take away,2h,1
+18114,Sunny,2PM,Coffee House,1d,1
+15957,Sunny,7AM,Coffee House,2h,0
+11147,Sunny,2PM,Coffee House,2h,0
+19838,Snowy,2PM,Bar,1d,1
+13279,Sunny,10AM,Coffee House,2h,1
+18339,Snowy,7AM,Restaurant(<20),2h,0
+12113,Sunny,7AM,Restaurant(20-50),1d,0
+12079,Sunny,2PM,Carry out & Take away,1d,0
+13804,Sunny,2PM,Coffee House,1d,0
+12264,Sunny,6PM,Coffee House,2h,0
+19749,Rainy,7AM,Bar,1d,0
+10526,Sunny,2PM,Coffee House,2h,1
+12835,Sunny,6PM,Bar,1d,1
+11045,Sunny,6PM,Restaurant(<20),2h,1
+14157,Sunny,10AM,Restaurant(20-50),2h,0
+10607,Sunny,7AM,Restaurant(20-50),1d,1
+10307,Sunny,2PM,Carry out & Take away,1d,0
+18973,Sunny,7AM,Bar,1d,0
+21237,Sunny,10PM,Bar,1d,0
+15204,Sunny,6PM,Coffee House,1d,0
+21534,Sunny,10PM,Restaurant(20-50),1d,1
+17882,Rainy,6PM,Carry out & Take away,2h,1
+21747,Rainy,10PM,Coffee House,2h,0
+19064,Rainy,7AM,Bar,1d,0
+21512,Sunny,10PM,Restaurant(20-50),1d,0
+13720,Sunny,6PM,Coffee House,2h,0
+15513,Sunny,6PM,Restaurant(<20),2h,1
+21484,Snowy,10AM,Restaurant(<20),1d,0
+10280,Sunny,7AM,Coffee House,2h,0
+21791,Sunny,10PM,Bar,2h,0
+13148,Sunny,6PM,Restaurant(<20),2h,1
+14640,Sunny,6PM,Coffee House,1d,1
+11602,Sunny,6PM,Bar,1d,0
+22175,Sunny,10PM,Bar,2h,0
+20074,Rainy,7AM,Bar,1d,0
+14212,Sunny,7AM,Coffee House,2h,1
+21563,Snowy,10PM,Coffee House,2h,0
+21536,Rainy,7AM,Carry out & Take away,1d,0
+14146,Sunny,7AM,Coffee House,2h,1
+10482,Sunny,6PM,Restaurant(<20),2h,1
+19918,Rainy,7AM,Carry out & Take away,2h,0
+19835,Sunny,10PM,Coffee House,1d,0
+16951,Snowy,7AM,Restaurant(20-50),1d,0
+18447,Rainy,7AM,Restaurant(<20),2h,0
+18039,Sunny,2PM,Restaurant(20-50),2h,0
+16107,Sunny,10PM,Restaurant(<20),2h,0
+14600,Sunny,6PM,Coffee House,1d,0
+21898,Sunny,6PM,Carry out & Take away,2h,1
+15517,Sunny,7AM,Coffee House,2h,0
+13994,Sunny,7AM,Restaurant(20-50),1d,1
+15109,Sunny,2PM,Coffee House,1d,1
+19486,Rainy,7AM,Bar,1d,0
+11462,Sunny,6PM,Restaurant(<20),2h,1
+19814,Sunny,10PM,Carry out & Take away,1d,1
+18386,Sunny,10AM,Coffee House,1d,1
+14519,Sunny,7AM,Coffee House,2h,1
+12035,Sunny,2PM,Carry out & Take away,1d,1
+17238,Sunny,7AM,Restaurant(<20),1d,0
+10540,Sunny,7AM,Bar,1d,1
+19360,Sunny,10PM,Coffee House,1d,1
+20183,Sunny,7AM,Coffee House,1d,1
+12555,Sunny,7AM,Bar,1d,1
+19915,Rainy,6PM,Coffee House,1d,0
+13565,Sunny,2PM,Restaurant(<20),1d,1
+18741,Sunny,6PM,Coffee House,2h,0
+16361,Sunny,10PM,Restaurant(<20),2h,0
+14120,Sunny,6PM,Coffee House,1d,0
+10849,Sunny,7AM,Carry out & Take away,2h,0
+10244,Sunny,2PM,Restaurant(<20),1d,1
+10210,Sunny,7AM,Bar,1d,0
+13671,Sunny,2PM,Coffee House,2h,0
+15603,Sunny,7AM,Coffee House,2h,1
+21425,Sunny,6PM,Restaurant(<20),1d,1
+19737,Snowy,2PM,Bar,1d,0
+15608,Sunny,7AM,Coffee House,1d,1
+14573,Sunny,10AM,Restaurant(20-50),2h,0
+16020,Sunny,7AM,Coffee House,2h,1
+11188,Sunny,7AM,Coffee House,2h,0
+12821,Sunny,7AM,Coffee House,2h,0
+18054,Rainy,7AM,Restaurant(20-50),1d,0
+18940,Sunny,10AM,Coffee House,1d,1
+15749,Sunny,2PM,Restaurant(<20),2h,1
+13702,Sunny,6PM,Bar,1d,1
+22111,Sunny,10AM,Carry out & Take away,2h,1
+16145,Sunny,2PM,Coffee House,2h,1
+18413,Rainy,10PM,Bar,2h,1
+20541,Sunny,10PM,Restaurant(20-50),1d,1
+18142,Rainy,7AM,Restaurant(20-50),1d,0
+12001,Sunny,7AM,Coffee House,2h,1
+18665,Sunny,6PM,Bar,2h,0
+14929,Sunny,6PM,Coffee House,1d,0
+18180,Sunny,6PM,Carry out & Take away,2h,1
+18055,Snowy,7AM,Restaurant(<20),2h,0
+18998,Rainy,7AM,Bar,1d,0
+16090,Sunny,7AM,Carry out & Take away,1d,1
+11302,Sunny,7AM,Coffee House,2h,0
+14928,Sunny,6PM,Coffee House,1d,0
+11068,Sunny,6PM,Bar,1d,1
+16982,Sunny,10PM,Restaurant(<20),2h,1
+17012,Snowy,10PM,Restaurant(20-50),2h,1
+16236,Sunny,10AM,Bar,1d,1
+17436,Sunny,7AM,Restaurant(<20),1d,0
+18700,Snowy,10PM,Carry out & Take away,1d,1
+15884,Sunny,6PM,Coffee House,1d,0
+13313,Sunny,7AM,Carry out & Take away,2h,1
+19631,Sunny,6PM,Carry out & Take away,1d,1
+17559,Sunny,10PM,Carry out & Take away,2h,0
+13956,Sunny,10AM,Bar,1d,0
+12799,Sunny,7AM,Coffee House,2h,0
+22054,Sunny,10PM,Bar,2h,0
+17307,Sunny,6PM,Coffee House,2h,0
+22305,Sunny,6PM,Restaurant(<20),2h,0
+21565,Rainy,7AM,Carry out & Take away,1d,1
+18530,Sunny,6PM,Carry out & Take away,2h,0
+21316,Sunny,10PM,Restaurant(<20),2h,1
+19589,Sunny,6PM,Restaurant(<20),1d,0
+17447,Snowy,10PM,Carry out & Take away,1d,0
+14050,Sunny,2PM,Coffee House,2h,0
+20654,Sunny,10PM,Restaurant(<20),1d,0
+17090,Sunny,10AM,Coffee House,1d,1
+21240,Snowy,2PM,Restaurant(<20),1d,0
+12657,Sunny,2PM,Restaurant(<20),1d,1
+20448,Sunny,10PM,Coffee House,1d,1
+16817,Sunny,7AM,Bar,1d,0
+16274,Sunny,10PM,Carry out & Take away,1d,1
+16763,Snowy,2PM,Bar,1d,0
+15181,Sunny,6PM,Restaurant(<20),2h,0
+11212,Sunny,7AM,Carry out & Take away,2h,1
+16647,Sunny,10PM,Coffee House,1d,1
+18385,Sunny,7AM,Restaurant(<20),1d,1
+17710,Sunny,2PM,Restaurant(20-50),2h,0
+19332,Sunny,7AM,Coffee House,1d,1
+16549,Sunny,6PM,Coffee House,2h,1
+22519,Rainy,6PM,Carry out & Take away,1d,1
+18272,Sunny,10PM,Carry out & Take away,2h,1
+13315,Sunny,7AM,Coffee House,2h,0
+11720,Sunny,7AM,Coffee House,2h,0
+20574,Sunny,10PM,Restaurant(<20),1d,0
+11054,Sunny,7AM,Restaurant(<20),1d,1
+17937,Sunny,10AM,Coffee House,1d,1
+10363,Sunny,7AM,Restaurant(<20),1d,0
+13387,Sunny,6PM,Restaurant(<20),2h,1
+14533,Sunny,6PM,Coffee House,1d,1
+21277,Sunny,7AM,Restaurant(20-50),2h,1
+15142,Sunny,7AM,Coffee House,2h,0
+16991,Sunny,6PM,Bar,2h,0
+18877,Sunny,10PM,Restaurant(<20),1d,1
+15126,Sunny,7AM,Coffee House,1d,0
+18844,Rainy,7AM,Bar,1d,0
+18761,Sunny,2PM,Restaurant(20-50),2h,0
+11436,Sunny,10AM,Coffee House,2h,0
+20479,Sunny,10PM,Restaurant(20-50),1d,1
+19700,Rainy,6PM,Coffee House,1d,1
+12410,Sunny,10AM,Bar,1d,0
+21102,Sunny,6PM,Restaurant(<20),2h,1
+11115,Sunny,6PM,Coffee House,2h,0
+12797,Sunny,7AM,Carry out & Take away,2h,0
+22038,Snowy,7AM,Coffee House,1d,0
+17018,Sunny,7AM,Restaurant(<20),1d,1
+22490,Sunny,6PM,Carry out & Take away,2h,1
+22584,Rainy,7AM,Restaurant(<20),2h,0
+10685,Sunny,10AM,Carry out & Take away,2h,1
+14649,Sunny,7AM,Coffee House,2h,0
+10879,Sunny,7AM,Coffee House,2h,0
+14330,Sunny,6PM,Restaurant(<20),1d,1
+19988,Sunny,10AM,Coffee House,2h,1
+19379,Snowy,7AM,Carry out & Take away,1d,1
+14775,Sunny,6PM,Coffee House,1d,0
+11453,Sunny,7AM,Restaurant(20-50),1d,1
+15536,Sunny,10PM,Bar,1d,0
+19959,Sunny,10PM,Restaurant(20-50),1d,0
+21616,Sunny,10PM,Bar,1d,1
+11585,Sunny,7AM,Restaurant(20-50),1d,1
+10916,Sunny,6PM,Restaurant(20-50),1d,1
+18753,Sunny,6PM,Bar,2h,0
+13007,Sunny,2PM,Coffee House,2h,0
+18580,Snowy,7AM,Restaurant(<20),2h,1
+17961,Sunny,6PM,Carry out & Take away,2h,0
+16170,Sunny,10AM,Bar,1d,0
+21291,Snowy,10PM,Carry out & Take away,1d,1
+15397,Sunny,10AM,Restaurant(20-50),2h,1
+20205,Snowy,7AM,Carry out & Take away,1d,1
+12842,Sunny,7AM,Restaurant(<20),1d,1
+11099,Sunny,7AM,Coffee House,2h,0
+17967,Snowy,7AM,Restaurant(<20),2h,0
+10049,Sunny,2PM,Coffee House,2h,1
+12779,Sunny,10AM,Coffee House,2h,1
+16467,Sunny,7AM,Coffee House,2h,1
+11473,Sunny,7AM,Coffee House,2h,0
+13226,Sunny,7AM,Restaurant(<20),1d,1
+14738,Sunny,7AM,Carry out & Take away,1d,1
+19632,Sunny,6PM,Restaurant(<20),1d,0
+21728,Sunny,10PM,Restaurant(20-50),1d,0
+22192,Snowy,7AM,Restaurant(<20),1d,1
+16371,Sunny,6PM,Restaurant(<20),1d,0
+15715,Sunny,7AM,Coffee House,2h,1
+16119,Sunny,10AM,Coffee House,1d,0
+13778,Sunny,2PM,Restaurant(<20),1d,1
+19623,Sunny,10AM,Restaurant(<20),2h,1
+12691,Sunny,10AM,Coffee House,2h,1
+15311,Sunny,2PM,Coffee House,2h,0
+19464,Rainy,7AM,Bar,1d,0
+17780,Sunny,10PM,Restaurant(<20),2h,0
+13027,Sunny,10AM,Coffee House,2h,0
+11578,Sunny,2PM,Carry out & Take away,1d,1
+11614,Sunny,10AM,Carry out & Take away,2h,1
+14060,Sunny,7AM,Coffee House,2h,0
+18227,Sunny,6PM,Bar,2h,0
+10555,Sunny,2PM,Coffee House,2h,1
+12744,Sunny,2PM,Coffee House,2h,0
+21169,Sunny,10PM,Bar,1d,0
+13394,Sunny,6PM,Bar,1d,0
+21032,Snowy,7AM,Coffee House,1d,0
+17533,Rainy,10PM,Bar,2h,0
+17512,Snowy,10AM,Carry out & Take away,1d,0
+21359,Sunny,10PM,Restaurant(20-50),1d,0
+18650,Sunny,10AM,Restaurant(<20),1d,1
+17206,Sunny,2PM,Restaurant(20-50),1d,1
+22455,Snowy,7AM,Coffee House,1d,1
+21542,Snowy,6PM,Bar,1d,0
+10469,Sunny,7AM,Restaurant(20-50),1d,1
+16160,Sunny,10PM,Restaurant(<20),2h,0
+10644,Sunny,2PM,Carry out & Take away,1d,1
+19722,Sunny,10PM,Restaurant(20-50),1d,1
+12915,Sunny,7AM,Coffee House,2h,0
+14658,Sunny,6PM,Restaurant(<20),1d,1
+10349,Sunny,2PM,Carry out & Take away,1d,1
+20565,Sunny,7AM,Coffee House,1d,1
+14205,Sunny,6PM,Bar,2h,1
+21247,Sunny,6PM,Carry out & Take away,2h,0
+19450,Snowy,2PM,Bar,1d,0
+19518,Sunny,6PM,Carry out & Take away,1d,1
+13468,Sunny,7AM,Restaurant(<20),1d,1
+14690,Sunny,6PM,Restaurant(<20),2h,1
+20370,Rainy,6PM,Bar,1d,0
+15069,Sunny,2PM,Coffee House,2h,1
+17136,Sunny,10PM,Restaurant(<20),2h,0
+14228,Sunny,6PM,Coffee House,2h,1
+18935,Sunny,10PM,Coffee House,1d,1
+17982,Sunny,2PM,Coffee House,1d,0
+22266,Rainy,10AM,Bar,1d,1
+21049,Snowy,10PM,Carry out & Take away,1d,1
+18294,Rainy,7AM,Restaurant(20-50),1d,1
+12453,Sunny,10AM,Coffee House,2h,1
+15515,Sunny,10PM,Restaurant(<20),2h,0
+12903,Sunny,6PM,Restaurant(<20),2h,1
+11983,Sunny,7AM,Restaurant(<20),1d,1
+18764,Rainy,10PM,Bar,2h,0
+16755,Sunny,7AM,Restaurant(<20),2h,0
+21875,Sunny,10AM,Restaurant(<20),2h,1
+16916,Snowy,10PM,Carry out & Take away,1d,1
+10392,Sunny,2PM,Coffee House,2h,0
+14813,Sunny,2PM,Restaurant(<20),2h,1
+13663,Sunny,7AM,Bar,1d,0
+15162,Sunny,6PM,Restaurant(<20),2h,0
+18291,Snowy,10PM,Restaurant(20-50),2h,1
+22432,Rainy,7AM,Carry out & Take away,1d,1
+18170,Sunny,6PM,Coffee House,1d,1
+11734,Sunny,6PM,Bar,1d,0
+21608,Rainy,7AM,Carry out & Take away,1d,1
+15261,Sunny,2PM,Restaurant(<20),2h,1
+15262,Sunny,6PM,Restaurant(<20),1d,1
+12576,Sunny,7AM,Coffee House,2h,0
+12690,Sunny,2PM,Restaurant(<20),1d,1
+17269,Sunny,10PM,Restaurant(<20),1d,0
+15839,Sunny,6PM,Restaurant(<20),2h,1
+19252,Sunny,10PM,Carry out & Take away,1d,1
+15504,Sunny,2PM,Coffee House,1d,0
+19413,Sunny,6PM,Carry out & Take away,1d,1
+10959,Sunny,6PM,Bar,1d,1
+13828,Sunny,2PM,Carry out & Take away,1d,1
+17067,Sunny,10PM,Restaurant(<20),2h,1
+22383,Snowy,10PM,Carry out & Take away,1d,1
+13963,Sunny,6PM,Restaurant(<20),2h,1
+10435,Sunny,2PM,Coffee House,2h,0
+15150,Sunny,10AM,Coffee House,2h,1
+19628,Snowy,2PM,Bar,1d,1
+18012,Snowy,7AM,Restaurant(20-50),1d,0
+19803,Snowy,10PM,Restaurant(<20),2h,0
+13358,Sunny,2PM,Coffee House,2h,1
+15440,Sunny,2PM,Restaurant(<20),2h,0
+20445,Rainy,7AM,Bar,1d,1
+10619,Sunny,10AM,Carry out & Take away,2h,1
+12143,Sunny,2PM,Coffee House,1d,1
+13877,Sunny,6PM,Restaurant(<20),2h,1
+11134,Sunny,6PM,Coffee House,2h,1
+10901,Sunny,7AM,Coffee House,2h,0
+17142,Sunny,6PM,Carry out & Take away,2h,1
+12042,Sunny,6PM,Bar,1d,1
+17354,Rainy,10PM,Bar,2h,0
+17826,Snowy,10PM,Carry out & Take away,1d,0
+14848,Sunny,7AM,Carry out & Take away,1d,1
+18305,Snowy,10PM,Carry out & Take away,1d,0
+14334,Sunny,6PM,Restaurant(<20),1d,1
+16995,Snowy,7AM,Restaurant(20-50),1d,1
+20543,Rainy,7AM,Carry out & Take away,2h,1
+21245,Sunny,10PM,Restaurant(20-50),2h,0
+21216,Snowy,2PM,Restaurant(<20),1d,0
+16501,Sunny,10AM,Carry out & Take away,1d,1
+21388,Sunny,6PM,Restaurant(<20),2h,1
+10354,Sunny,2PM,Restaurant(<20),1d,0
+15042,Sunny,2PM,Restaurant(<20),2h,1
+14348,Sunny,2PM,Restaurant(<20),2h,1
+18224,Rainy,10PM,Coffee House,1d,1
+17499,Rainy,7AM,Restaurant(20-50),1d,0
+14529,Sunny,10AM,Carry out & Take away,1d,1
+14233,Sunny,7AM,Coffee House,2h,1
+22012,Sunny,6PM,Restaurant(20-50),1d,0
+15843,Sunny,10PM,Bar,1d,1
+14864,Sunny,10PM,Restaurant(<20),2h,0
+17609,Snowy,10PM,Carry out & Take away,1d,1
+14892,Sunny,7AM,Coffee House,2h,1
+14883,Sunny,2PM,Coffee House,2h,0
+16914,Rainy,10PM,Bar,2h,1
+17127,Snowy,7AM,Restaurant(20-50),1d,0
+14502,Sunny,10AM,Coffee House,2h,1
+16829,Sunny,10AM,Coffee House,2h,1
+15071,Sunny,6PM,Bar,2h,0
+17288,Rainy,10PM,Bar,2h,0
+12349,Sunny,6PM,Bar,1d,1
+11037,Sunny,2PM,Coffee House,2h,0
+18376,Sunny,2PM,Coffee House,1d,1
+11846,Sunny,6PM,Coffee House,2h,1
+21261,Rainy,10AM,Bar,1d,1
+18976,Rainy,7AM,Bar,1d,1
+18269,Snowy,6PM,Coffee House,1d,0
+17368,Snowy,7AM,Restaurant(<20),2h,1
+18000,Sunny,10PM,Restaurant(<20),1d,0
+13004,Sunny,2PM,Restaurant(<20),1d,1
+10273,Sunny,6PM,Restaurant(20-50),1d,1
+19028,Sunny,10AM,Carry out & Take away,1d,1
+21979,Sunny,10PM,Bar,1d,0
+21659,Sunny,10PM,Bar,1d,1
+11267,Sunny,6PM,Coffee House,2h,0
+15173,Sunny,2PM,Restaurant(<20),2h,0
+17075,Snowy,2PM,Coffee House,2h,1
+12368,Sunny,2PM,Coffee House,2h,0
+18203,Snowy,6PM,Coffee House,1d,0
+19025,Sunny,10AM,Restaurant(<20),2h,1
+11832,Sunny,10AM,Coffee House,2h,1
+14944,Sunny,2PM,Coffee House,1d,0
+21439,Sunny,10AM,Restaurant(20-50),1d,1
+16289,Sunny,6PM,Restaurant(<20),1d,1
+10144,Sunny,6PM,Coffee House,2h,0
+14463,Sunny,6PM,Coffee House,1d,0
+17226,Snowy,10AM,Carry out & Take away,1d,1
+10034,Sunny,10AM,Coffee House,2h,0
+12652,Sunny,6PM,Restaurant(<20),2h,1
+18891,Sunny,10PM,Coffee House,1d,1
+10076,Sunny,2PM,Restaurant(<20),1d,1
+13283,Sunny,6PM,Restaurant(<20),2h,1
+15698,Sunny,10AM,Coffee House,2h,1
+10364,Sunny,7AM,Coffee House,2h,0
+17449,Sunny,2PM,Coffee House,1d,0
+21640,Rainy,10AM,Bar,1d,1
+11190,Sunny,7AM,Restaurant(20-50),1d,1
+20941,Rainy,10PM,Coffee House,2h,0
+11077,Sunny,7AM,Coffee House,2h,0
+10796,Sunny,10AM,Bar,1d,0
+19873,Rainy,7AM,Carry out & Take away,2h,0
+19581,Sunny,10PM,Restaurant(<20),1d,1
+13286,Sunny,6PM,Restaurant(20-50),1d,1
+16276,Sunny,7AM,Coffee House,2h,1
+21207,Rainy,7AM,Carry out & Take away,1d,1
+17118,Rainy,2PM,Restaurant(<20),2h,0
+11799,Sunny,6PM,Coffee House,2h,0
+13661,Sunny,6PM,Coffee House,2h,1
+19266,Sunny,7AM,Coffee House,1d,0
+14807,Sunny,7AM,Coffee House,1d,1
+19531,Snowy,7AM,Carry out & Take away,1d,1
+12825,Sunny,2PM,Coffee House,2h,0
+14844,Sunny,10PM,Bar,1d,1
+14924,Sunny,10AM,Carry out & Take away,1d,1
+16621,Sunny,7AM,Bar,1d,0
+21042,Rainy,2PM,Carry out & Take away,2h,0
+19583,Sunny,2PM,Coffee House,1d,0
+22210,Rainy,10PM,Coffee House,2h,0
+22567,Sunny,7AM,Restaurant(20-50),2h,0
+19205,Sunny,10PM,Coffee House,1d,0
+15712,Sunny,10PM,Restaurant(<20),2h,0
+17700,Snowy,10PM,Restaurant(20-50),2h,0
+12795,Sunny,7AM,Bar,1d,1
+19544,Sunny,10PM,Bar,1d,1
+12716,Sunny,2PM,Coffee House,1d,1
+11888,Sunny,6PM,Bar,1d,1
+18989,Sunny,6PM,Bar,2h,1
+10375,Sunny,2PM,Restaurant(<20),1d,1
+17873,Rainy,10PM,Coffee House,1d,1
+15526,Sunny,2PM,Coffee House,1d,0
+15373,Sunny,2PM,Coffee House,1d,1
+15159,Sunny,6PM,Bar,2h,1
+15252,Sunny,10PM,Restaurant(<20),2h,0
+14007,Sunny,2PM,Coffee House,2h,1
+21180,Snowy,10PM,Coffee House,2h,0
+18907,Sunny,7AM,Carry out & Take away,1d,1
+10899,Sunny,7AM,Carry out & Take away,2h,1
+13067,Sunny,7AM,Carry out & Take away,2h,1
+18088,Rainy,10PM,Bar,2h,0
+15207,Sunny,6PM,Coffee House,2h,0
+19788,Sunny,10PM,Restaurant(20-50),1d,0
+17467,Rainy,10PM,Bar,2h,1
+19590,Rainy,6PM,Bar,1d,0
+11457,Sunny,2PM,Restaurant(<20),1d,1
+13143,Sunny,2PM,Restaurant(<20),1d,1
+15755,Sunny,6PM,Coffee House,2h,1
+14126,Sunny,7AM,Coffee House,2h,0
+15648,Sunny,7AM,Restaurant(20-50),2h,0
+12290,Sunny,7AM,Carry out & Take away,2h,0
+14152,Sunny,10AM,Coffee House,2h,0
+10898,Sunny,7AM,Restaurant(20-50),1d,1
+14904,Sunny,2PM,Restaurant(<20),2h,1
+17517,Snowy,6PM,Coffee House,1d,1
+14025,Sunny,10AM,Coffee House,1d,1
+20261,Sunny,6PM,Bar,2h,0
+13585,Sunny,6PM,Restaurant(<20),2h,1
+21763,Rainy,2PM,Carry out & Take away,2h,1
+14614,Sunny,6PM,Restaurant(<20),1d,1
+21604,Snowy,10PM,Carry out & Take away,1d,0
+22430,Snowy,10PM,Coffee House,2h,0
+21637,Sunny,10PM,Bar,2h,1
+12614,Sunny,2PM,Restaurant(<20),1d,0
+14905,Sunny,2PM,Coffee House,2h,0
+12885,Sunny,6PM,Bar,1d,1
+10000,Sunny,2PM,Restaurant(<20),1d,1
+18150,Sunny,10PM,Restaurant(<20),2h,1
+10502,Sunny,10AM,Coffee House,2h,0
+16082,Sunny,10PM,Restaurant(<20),2h,1
+21159,Sunny,6PM,Carry out & Take away,2h,1
+14984,Sunny,10AM,Coffee House,2h,0
+11203,Sunny,10AM,Bar,1d,0
+22464,Rainy,2PM,Carry out & Take away,2h,1
+18826,Sunny,10PM,Carry out & Take away,1d,1
+10256,Sunny,7AM,Carry out & Take away,2h,1
+22623,Sunny,6PM,Carry out & Take away,1d,1
+10734,Sunny,6PM,Bar,1d,1
+22015,Rainy,6PM,Carry out & Take away,1d,0
+11722,Sunny,10AM,Coffee House,2h,0
+19411,Sunny,10PM,Restaurant(<20),1d,1
+11858,Sunny,2PM,Coffee House,2h,1
+21523,Snowy,2PM,Restaurant(<20),1d,1
+10094,Sunny,2PM,Coffee House,1d,1
+18882,Snowy,10PM,Restaurant(<20),2h,0
+10553,Sunny,6PM,Coffee House,2h,0
+13976,Sunny,2PM,Restaurant(<20),1d,1
+15298,Sunny,7AM,Coffee House,2h,1
+12734,Sunny,2PM,Restaurant(<20),1d,1
+14410,Sunny,7AM,Carry out & Take away,1d,0
+18514,Snowy,7AM,Restaurant(<20),2h,0
+18959,Rainy,10AM,Coffee House,1d,1
+19230,Snowy,2PM,Bar,1d,0
+12764,Sunny,10AM,Carry out & Take away,2h,1
+15714,Sunny,7AM,Coffee House,2h,1
+21705,Rainy,10PM,Coffee House,2h,0
+16065,Sunny,7AM,Restaurant(20-50),2h,0
+13151,Sunny,10AM,Carry out & Take away,2h,0
+13594,Sunny,6PM,Restaurant(20-50),1d,1
+12109,Sunny,6PM,Restaurant(20-50),1d,1
+14819,Sunny,6PM,Coffee House,2h,0
+11057,Sunny,10AM,Coffee House,2h,1
+15226,Sunny,6PM,Coffee House,1d,0
+14995,Sunny,10PM,Restaurant(<20),2h,0
+11149,Sunny,6PM,Restaurant(<20),2h,1
+20470,Sunny,10PM,Coffee House,1d,1
+17184,Sunny,10AM,Coffee House,1d,1
+20711,Sunny,10PM,Carry out & Take away,2h,0
+20171,Sunny,2PM,Coffee House,1d,0
+21475,Sunny,6PM,Restaurant(<20),2h,1
+14506,Sunny,10AM,Coffee House,1d,1
+15810,Sunny,6PM,Restaurant(<20),1d,1
+10981,Sunny,6PM,Bar,1d,0
+20216,Rainy,6PM,Bar,1d,0
+16815,Sunny,10PM,Carry out & Take away,1d,1
+11218,Sunny,10AM,Carry out & Take away,2h,1
+10942,Sunny,7AM,Restaurant(20-50),1d,0
+19515,Sunny,2PM,Restaurant(20-50),1d,1
+20079,Sunny,10AM,Restaurant(<20),2h,0
+20914,Sunny,6PM,Carry out & Take away,2h,1
+12101,Sunny,2PM,Coffee House,1d,1
+17473,Snowy,6PM,Coffee House,1d,0
+15009,Sunny,2PM,Coffee House,1d,0
+10489,Sunny,7AM,Coffee House,2h,1
+20681,Rainy,7AM,Carry out & Take away,2h,0
+10768,Sunny,10AM,Carry out & Take away,2h,0
+17302,Snowy,7AM,Restaurant(<20),2h,1
+12962,Sunny,10AM,Carry out & Take away,2h,0
+19281,Snowy,10PM,Restaurant(<20),2h,0
+19335,Snowy,7AM,Carry out & Take away,1d,0
+18620,Snowy,10PM,Restaurant(20-50),2h,0
+19648,Sunny,10AM,Carry out & Take away,1d,1
+13712,Sunny,2PM,Restaurant(<20),1d,1
+13013,Sunny,10AM,Bar,1d,0
+20650,Sunny,6PM,Restaurant(<20),1d,1
+17168,Sunny,10PM,Carry out & Take away,2h,1
+14894,Sunny,7AM,Carry out & Take away,1d,0
+14412,Sunny,10AM,Bar,1d,0
+13360,Sunny,2PM,Restaurant(<20),1d,1
+14171,Sunny,7AM,Carry out & Take away,1d,1
+20621,Sunny,10PM,Coffee House,1d,1
+11337,Sunny,10AM,Coffee House,2h,1
+19208,Snowy,2PM,Bar,1d,0
+21199,Sunny,6PM,Carry out & Take away,2h,1
+12029,Sunny,2PM,Restaurant(<20),1d,1
+13504,Sunny,6PM,Coffee House,2h,0
+13667,Sunny,7AM,Coffee House,2h,1
+13331,Sunny,7AM,Coffee House,2h,0
+10600,Sunny,2PM,Carry out & Take away,1d,1
+21405,Rainy,6PM,Carry out & Take away,1d,1
+18573,Sunny,2PM,Coffee House,1d,1
+11472,Sunny,6PM,Coffee House,2h,0
+18709,Sunny,6PM,Coffee House,1d,1
+10145,Sunny,6PM,Bar,1d,0
+21017,Sunny,10AM,Carry out & Take away,2h,1
+21545,Sunny,10PM,Restaurant(20-50),2h,0
+16386,Sunny,10AM,Coffee House,2h,1
+19570,Sunny,10PM,Restaurant(20-50),1d,0
+12622,Sunny,7AM,Restaurant(20-50),1d,0
+20008,Rainy,7AM,Bar,1d,0
+18840,Sunny,7AM,Bar,1d,1
+12813,Sunny,6PM,Bar,1d,0
+10643,Sunny,2PM,Coffee House,2h,1
+12138,Sunny,7AM,Coffee House,2h,0
+11610,Sunny,7AM,Coffee House,2h,0
+14407,Sunny,7AM,Restaurant(20-50),2h,0
+18264,Snowy,10AM,Carry out & Take away,1d,1
+13775,Sunny,7AM,Carry out & Take away,2h,1
+16694,Sunny,10PM,Restaurant(20-50),1d,0
+10509,Sunny,6PM,Restaurant(20-50),1d,1
+20011,Sunny,2PM,Restaurant(20-50),1d,0
+12329,Sunny,6PM,Coffee House,2h,1
+17042,Sunny,6PM,Coffee House,2h,1
+18596,Sunny,6PM,Carry out & Take away,2h,1
+12985,Sunny,10AM,Carry out & Take away,2h,0
+17305,Sunny,10AM,Coffee House,1d,0
+21726,Snowy,10PM,Carry out & Take away,1d,1
+12948,Sunny,2PM,Restaurant(<20),1d,1
+18759,Sunny,10AM,Coffee House,1d,0
+15624,Sunny,7AM,Coffee House,2h,1
+10330,Sunny,10AM,Coffee House,2h,1
+19976,Rainy,6PM,Bar,1d,0
+15523,Sunny,10AM,Coffee House,2h,0
+15028,Sunny,10AM,Coffee House,2h,1
+16700,Sunny,6PM,Coffee House,1d,0
+18727,Snowy,2PM,Coffee House,2h,0
+11381,Sunny,6PM,Bar,1d,1
+19013,Rainy,6PM,Bar,1d,0
+11348,Sunny,10AM,Coffee House,2h,1
+17351,Sunny,2PM,Restaurant(20-50),2h,0
+20026,Sunny,7AM,Bar,1d,1
+15449,Sunny,10PM,Bar,1d,0
+20754,Sunny,10AM,Coffee House,2h,1
+16532,Sunny,7AM,Coffee House,2h,1
+20029,Sunny,7AM,Restaurant(<20),1d,1
+12242,Sunny,6PM,Coffee House,2h,0
+11994,Sunny,10AM,Bar,2h,1
+16247,Sunny,6PM,Coffee House,2h,1
+14073,Sunny,2PM,Coffee House,2h,0
+21653,Snowy,7AM,Restaurant(<20),1d,0
+15780,Sunny,7AM,Restaurant(20-50),2h,0
+10214,Sunny,7AM,Coffee House,2h,0
+13172,Sunny,10AM,Restaurant(20-50),1d,0
+13444,Sunny,7AM,Restaurant(20-50),1d,1
+10476,Sunny,10AM,Carry out & Take away,2h,1
+20658,Sunny,7AM,Carry out & Take away,1d,1
+13464,Sunny,7AM,Coffee House,2h,0
+19932,Sunny,6PM,Restaurant(20-50),1d,1
+19225,Snowy,7AM,Carry out & Take away,1d,0
+16316,Sunny,10PM,Bar,1d,0
+16358,Sunny,6PM,Coffee House,1d,1
+12772,Sunny,7AM,Coffee House,2h,0
+10830,Sunny,2PM,Restaurant(<20),1d,0
+17551,Snowy,7AM,Restaurant(<20),2h,0
+20628,Sunny,10PM,Restaurant(<20),1d,1
+15374,Sunny,2PM,Restaurant(<20),2h,0
+18881,Rainy,6PM,Bar,1d,1
+16396,Sunny,6PM,Coffee House,2h,0
+14428,Sunny,10PM,Carry out & Take away,1d,1
+11821,Sunny,6PM,Coffee House,2h,0
+22491,Sunny,6PM,Carry out & Take away,1d,1
+12781,Sunny,10AM,Carry out & Take away,2h,1
+10367,Sunny,10AM,Carry out & Take away,2h,0
+20327,Sunny,6PM,Bar,2h,0
+18979,Sunny,10PM,Coffee House,1d,1
+14945,Sunny,2PM,Restaurant(<20),2h,1
+17362,Sunny,6PM,Carry out & Take away,2h,1
+12864,Sunny,7AM,Restaurant(<20),1d,0
+16441,Sunny,10PM,Restaurant(<20),2h,1
+15898,Sunny,6PM,Restaurant(<20),1d,1
+15645,Sunny,10PM,Bar,1d,1
+18767,Sunny,10PM,Restaurant(<20),1d,0
+17003,Sunny,6PM,Coffee House,1d,1
+22354,Rainy,2PM,Carry out & Take away,2h,1
+10332,Sunny,10AM,Bar,2h,0
+18740,Sunny,10AM,Coffee House,1d,1
+12548,Sunny,2PM,Coffee House,2h,1
+17246,Sunny,10PM,Restaurant(<20),2h,0
+17658,Sunny,6PM,Bar,2h,0
+16099,Sunny,10AM,Coffee House,1d,0
+17141,Sunny,2PM,Coffee House,1d,1
+20180,Sunny,10PM,Restaurant(20-50),1d,1
+16804,Sunny,10AM,Restaurant(<20),2h,1
+16086,Sunny,7AM,Coffee House,2h,1
+14776,Sunny,6PM,Coffee House,1d,0
+21434,Sunny,10PM,Bar,2h,1
+18619,Snowy,6PM,Coffee House,1d,0
+12923,Sunny,10AM,Restaurant(<20),2h,0
+11837,Sunny,2PM,Coffee House,1d,1
+20939,Sunny,6PM,Carry out & Take away,2h,0
+16918,Sunny,10AM,Bar,1d,0
+10676,Sunny,7AM,Coffee House,2h,0
+20096,Rainy,7AM,Bar,1d,0
+12680,Sunny,6PM,Bar,1d,0
+14109,Sunny,10AM,Coffee House,2h,0
+18793,Sunny,6PM,Carry out & Take away,2h,1
+19254,Sunny,10AM,Carry out & Take away,1d,1
+14033,Sunny,6PM,Restaurant(<20),2h,0
+22017,Snowy,7AM,Coffee House,1d,1
+10408,Sunny,7AM,Coffee House,2h,0
+13780,Sunny,10AM,Bar,1d,1
+22493,Snowy,10PM,Coffee House,2h,0
+14194,Sunny,7AM,Coffee House,1d,0
+15008,Sunny,6PM,Restaurant(<20),1d,1
+11740,Sunny,7AM,Carry out & Take away,2h,1
+16890,Rainy,6PM,Restaurant(<20),2h,1
+11395,Sunny,2PM,Coffee House,1d,1
+18313,Snowy,10PM,Restaurant(20-50),2h,1
+20967,Snowy,7AM,Coffee House,1d,1
+20119,Snowy,7AM,Carry out & Take away,1d,1
+20046,Sunny,10PM,Restaurant(20-50),1d,0
+18893,Rainy,10AM,Coffee House,1d,1
+17989,Snowy,7AM,Restaurant(<20),2h,1
+12739,Sunny,2PM,Coffee House,2h,0
+21900,Rainy,10PM,Coffee House,2h,0
+12509,Sunny,6PM,Coffee House,2h,1
+11316,Sunny,6PM,Bar,1d,0
+12464,Sunny,6PM,Bar,1d,1
+12898,Sunny,2PM,Coffee House,1d,1
+13333,Sunny,10AM,Coffee House,2h,1
+20640,Snowy,7AM,Carry out & Take away,1d,1
+20659,Rainy,7AM,Carry out & Take away,2h,1
+15115,Sunny,6PM,Restaurant(<20),2h,1
+21329,Sunny,10AM,Restaurant(<20),2h,1
+17431,Sunny,6PM,Bar,2h,1
+17460,Rainy,10PM,Bar,1d,1
+11268,Sunny,6PM,Restaurant(<20),2h,1
+16101,Sunny,6PM,Restaurant(<20),1d,1
+10315,Sunny,6PM,Restaurant(20-50),1d,0
+21116,Sunny,6PM,Restaurant(20-50),1d,1
+14392,Sunny,2PM,Restaurant(<20),2h,0
+15530,Sunny,6PM,Coffee House,1d,0
+13106,Sunny,6PM,Restaurant(20-50),1d,0
+19678,Sunny,10PM,Restaurant(20-50),1d,0
+10724,Sunny,10AM,Carry out & Take away,2h,0
+18993,Snowy,10PM,Restaurant(<20),2h,0
+19235,Sunny,6PM,Restaurant(<20),1d,1
+21380,Sunny,6PM,Carry out & Take away,1d,1
+14697,Sunny,7AM,Carry out & Take away,1d,1
+19468,Sunny,10PM,Carry out & Take away,1d,1
+18398,Sunny,6PM,Carry out & Take away,2h,1
+17919,Snowy,10PM,Restaurant(20-50),2h,1
+22133,Sunny,10AM,Carry out & Take away,2h,0
+17747,Rainy,7AM,Restaurant(<20),2h,1
+15156,Sunny,10AM,Coffee House,1d,1
+15338,Sunny,6PM,Restaurant(<20),2h,1
+13433,Sunny,2PM,Restaurant(<20),1d,1
+13120,Sunny,2PM,Coffee House,1d,0
+16382,Sunny,7AM,Carry out & Take away,1d,0
+15214,Sunny,7AM,Coffee House,1d,0
+21068,Sunny,10PM,Restaurant(20-50),1d,0
+14696,Sunny,7AM,Carry out & Take away,1d,1
+11576,Sunny,6PM,Restaurant(<20),2h,1
+11119,Sunny,7AM,Carry out & Take away,2h,0
+12696,Sunny,2PM,Carry out & Take away,1d,1
+13113,Sunny,7AM,Coffee House,2h,1
+11440,Sunny,2PM,Coffee House,2h,0
+15615,Sunny,6PM,Restaurant(20-50),2h,0
+20609,Sunny,6PM,Restaurant(<20),1d,1
+20386,Snowy,2PM,Bar,1d,0
+19626,Sunny,10AM,Carry out & Take away,1d,1
+22181,Snowy,10AM,Restaurant(<20),1d,1
+20099,Sunny,10PM,Coffee House,1d,1
+11394,Sunny,10AM,Carry out & Take away,2h,0
+22248,Snowy,10AM,Restaurant(<20),1d,1
+17906,Sunny,2PM,Restaurant(20-50),2h,1
+14907,Sunny,6PM,Coffee House,1d,1
+13931,Sunny,7AM,Coffee House,2h,0
+21828,Rainy,10AM,Bar,1d,0
+12796,Sunny,7AM,Restaurant(20-50),1d,1
+11139,Sunny,7AM,Bar,1d,0
+13786,Sunny,6PM,Coffee House,2h,1
+17875,Snowy,10PM,Restaurant(20-50),2h,1
+16765,Rainy,10PM,Bar,1d,0
+16470,Sunny,7AM,Carry out & Take away,1d,1
+17604,Sunny,2PM,Restaurant(20-50),2h,1
+12587,Sunny,2PM,Coffee House,2h,1
+16719,Sunny,10AM,Coffee House,2h,0
+19883,Rainy,10PM,Restaurant(20-50),2h,0
+13829,Sunny,10AM,Restaurant(<20),2h,0
+20323,Sunny,2PM,Coffee House,1d,1
+20586,Sunny,7AM,Bar,1d,0
+11224,Sunny,6PM,Restaurant(<20),2h,1
+13892,Sunny,2PM,Coffee House,1d,0
+20174,Sunny,10PM,Carry out & Take away,2h,0
+15330,Sunny,10AM,Coffee House,1d,1
+20378,Rainy,7AM,Carry out & Take away,2h,0
+14446,Sunny,6PM,Coffee House,1d,1
+19023,Sunny,2PM,Restaurant(20-50),1d,0
+11691,Sunny,6PM,Restaurant(20-50),1d,0
+15960,Sunny,7AM,Coffee House,1d,0
+20551,Sunny,10PM,Carry out & Take away,1d,1
+19815,Rainy,10AM,Coffee House,1d,1
+21310,Sunny,6PM,Carry out & Take away,2h,0
+17097,Sunny,6PM,Carry out & Take away,2h,1
+13746,Sunny,6PM,Bar,1d,1
+18065,Sunny,10PM,Restaurant(<20),2h,0
+18499,Sunny,6PM,Coffee House,2h,1
+20289,Rainy,7AM,Carry out & Take away,2h,1
+18219,Rainy,10PM,Bar,2h,0
+15890,Sunny,7AM,Coffee House,2h,0
+20159,Sunny,7AM,Carry out & Take away,1d,1
+19337,Sunny,2PM,Restaurant(20-50),1d,0
+17178,Sunny,10AM,Coffee House,1d,1
+10883,Sunny,10AM,Carry out & Take away,2h,0
+19396,Sunny,7AM,Bar,1d,1
+18057,Sunny,7AM,Restaurant(<20),1d,0
+20112,Rainy,6PM,Bar,1d,1
+14747,Sunny,2PM,Restaurant(<20),2h,1
+11618,Sunny,2PM,Restaurant(<20),1d,1
+20018,Snowy,2PM,Bar,1d,1
+21018,Snowy,2PM,Restaurant(<20),1d,1
+20746,Sunny,6PM,Carry out & Take away,1d,1
+22101,Sunny,6PM,Restaurant(<20),1d,1
+13397,Sunny,6PM,Coffee House,2h,1
+20883,Sunny,10PM,Bar,1d,0
+20815,Rainy,7AM,Carry out & Take away,1d,0
+21154,Sunny,10AM,Restaurant(<20),2h,1
+13522,Sunny,10AM,Restaurant(20-50),1d,1
+18879,Sunny,6PM,Carry out & Take away,1d,1
+17061,Snowy,7AM,Restaurant(20-50),1d,0
+20972,Sunny,10PM,Bar,2h,1
+16367,Sunny,7AM,Coffee House,1d,1
+11295,Sunny,6PM,Restaurant(20-50),1d,0
+21655,Sunny,7AM,Restaurant(20-50),2h,0
+18129,Sunny,10AM,Coffee House,1d,0
+10017,Sunny,7AM,Bar,1d,0
+17172,Sunny,7AM,Restaurant(<20),1d,1
+10542,Sunny,7AM,Carry out & Take away,2h,1
+11820,Sunny,2PM,Restaurant(<20),1d,0
+22447,Sunny,10PM,Restaurant(20-50),2h,0
+11732,Sunny,6PM,Restaurant(<20),2h,1
+16819,Sunny,7AM,Bar,1d,0
+13490,Sunny,7AM,Restaurant(<20),1d,1
+16946,Snowy,10PM,Restaurant(20-50),2h,0
+13477,Sunny,10AM,Restaurant(<20),2h,1
+18518,Rainy,10PM,Bar,1d,1
+21173,Rainy,10AM,Bar,1d,0
+18444,Snowy,10PM,Restaurant(20-50),2h,0
+10799,Sunny,6PM,Coffee House,2h,0
+13657,Sunny,2PM,Restaurant(<20),1d,1
+12856,Sunny,10AM,Coffee House,2h,1
+20860,Rainy,6PM,Bar,2h,1
+22092,Sunny,10AM,Restaurant(<20),2h,1
+17764,Sunny,6PM,Carry out & Take away,2h,1
+17733,Sunny,10PM,Restaurant(<20),2h,1
+22297,Sunny,6PM,Restaurant(20-50),1d,1
+11380,Sunny,6PM,Restaurant(<20),2h,1
+21718,Rainy,10AM,Bar,1d,1
+10569,Sunny,10AM,Bar,1d,1
+21924,Snowy,10PM,Carry out & Take away,1d,1
+12889,Sunny,7AM,Bar,1d,1
+20678,Snowy,10PM,Restaurant(<20),2h,0
+18365,Rainy,10PM,Bar,1d,0
+14307,Sunny,2PM,Restaurant(<20),2h,1
+20626,Rainy,10AM,Coffee House,1d,0
+15285,Sunny,2PM,Coffee House,1d,0
+15628,Sunny,7AM,Carry out & Take away,1d,1
+10014,Sunny,6PM,Restaurant(20-50),1d,1
+16230,Sunny,10PM,Carry out & Take away,1d,1
+17563,Sunny,6PM,Coffee House,1d,1
+17717,Snowy,10PM,Carry out & Take away,1d,0
+17391,Snowy,7AM,Restaurant(20-50),1d,1
+14266,Sunny,2PM,Restaurant(<20),2h,0
+14067,Sunny,6PM,Restaurant(<20),1d,1
+22229,Rainy,10PM,Coffee House,2h,0
+13041,Sunny,6PM,Coffee House,2h,0
+10287,Sunny,2PM,Carry out & Take away,1d,0
+10686,Sunny,10AM,Bar,1d,0
+13782,Sunny,2PM,Coffee House,1d,1
+13640,Sunny,7AM,Coffee House,2h,1
+15032,Sunny,2PM,Restaurant(<20),2h,1
+20508,Sunny,10AM,Coffee House,2h,0
+21394,Sunny,10AM,Restaurant(<20),2h,1
+13277,Sunny,6PM,Restaurant(<20),2h,1
+15172,Sunny,10AM,Coffee House,2h,0
+16273,Sunny,10PM,Restaurant(<20),2h,0
+11476,Sunny,7AM,Carry out & Take away,2h,1
+20623,Sunny,10PM,Carry out & Take away,1d,1
+20097,Snowy,7AM,Carry out & Take away,1d,0
+16269,Sunny,6PM,Coffee House,1d,1
+11887,Sunny,10AM,Coffee House,2h,1
+12899,Sunny,2PM,Coffee House,2h,1
+20467,Rainy,7AM,Bar,1d,0
+11706,Sunny,10AM,Restaurant(<20),2h,1
+15849,Sunny,7AM,Carry out & Take away,1d,1
+11393,Sunny,10AM,Bar,1d,1
+18951,Sunny,7AM,Bar,1d,0
+11234,Sunny,7AM,Carry out & Take away,2h,1
+16854,Sunny,6PM,Restaurant(20-50),1d,1
+19840,Sunny,2PM,Bar,1d,1
+18094,Snowy,6PM,Coffee House,1d,1
+22094,Rainy,6PM,Bar,2h,1
+20779,Sunny,10AM,Carry out & Take away,2h,1
+17785,Sunny,6PM,Carry out & Take away,2h,0
+14816,Sunny,6PM,Coffee House,1d,1
+21481,Sunny,10AM,Restaurant(<20),2h,0
+21264,Snowy,10AM,Restaurant(<20),1d,1
+19572,Rainy,7AM,Carry out & Take away,2h,1
+10543,Sunny,7AM,Restaurant(<20),1d,1
+14261,Sunny,10AM,Bar,1d,1
+15390,Sunny,7AM,Coffee House,1d,0
+18484,Sunny,10AM,Coffee House,1d,1
+21596,Rainy,10AM,Bar,1d,1
+17077,Snowy,6PM,Coffee House,1d,0
+12259,Sunny,2PM,Coffee House,2h,0
+17719,Sunny,6PM,Carry out & Take away,2h,1
+19898,Rainy,7AM,Bar,1d,1
+11815,Sunny,2PM,Carry out & Take away,1d,1
+17545,Snowy,6PM,Coffee House,1d,1
+16867,Sunny,6PM,Coffee House,1d,1
+10633,Sunny,2PM,Restaurant(<20),1d,1
+18271,Sunny,6PM,Bar,2h,0
+11792,Sunny,6PM,Restaurant(<20),2h,1
+19965,Snowy,7AM,Carry out & Take away,1d,1
+14589,Sunny,10AM,Bar,1d,0
+11415,Sunny,10AM,Carry out & Take away,2h,0
+16094,Sunny,2PM,Restaurant(<20),2h,0
+21720,Sunny,10AM,Restaurant(<20),2h,1
+18435,Sunny,2PM,Restaurant(20-50),2h,0
+20113,Snowy,10PM,Restaurant(<20),2h,1
+21796,Sunny,6PM,Restaurant(20-50),1d,0
+11913,Sunny,7AM,Coffee House,2h,0
+18256,Rainy,10PM,Bar,1d,0
+14954,Sunny,10PM,Bar,1d,0
+11995,Sunny,10AM,Coffee House,2h,1
+10722,Sunny,10AM,Coffee House,2h,1
+21889,Sunny,6PM,Restaurant(<20),2h,1
+10381,Sunny,7AM,Coffee House,2h,1
+11595,Sunny,2PM,Carry out & Take away,1d,1
+11013,Sunny,10AM,Coffee House,2h,1
+14908,Sunny,6PM,Coffee House,1d,1
+22024,Snowy,2PM,Restaurant(<20),1d,1
+22458,Sunny,6PM,Restaurant(<20),2h,1
+22562,Sunny,10PM,Restaurant(<20),2h,0
+19687,Sunny,10PM,Carry out & Take away,1d,1
+17167,Sunny,6PM,Bar,2h,1
+17771,Snowy,7AM,Restaurant(20-50),1d,0
+17725,Rainy,7AM,Restaurant(20-50),1d,0
+14644,Sunny,6PM,Coffee House,2h,0
+16548,Sunny,6PM,Restaurant(<20),2h,0
+14048,Sunny,10AM,Restaurant(20-50),2h,1
+15726,Sunny,6PM,Coffee House,1d,1
+19478,Sunny,6PM,Carry out & Take away,1d,0
+21033,Snowy,7AM,Restaurant(<20),1d,0
+15367,Sunny,7AM,Carry out & Take away,1d,1
+19536,Snowy,2PM,Bar,1d,1
+19192,Sunny,6PM,Restaurant(20-50),1d,1
+11414,Sunny,10AM,Coffee House,2h,1
+13884,Sunny,7AM,Restaurant(20-50),1d,0
+22452,Snowy,10PM,Coffee House,2h,0
+19697,Sunny,10PM,Bar,1d,0
+14717,Sunny,7AM,Coffee House,2h,1
+22070,Snowy,2PM,Restaurant(<20),1d,1
+20081,Rainy,10PM,Restaurant(20-50),2h,0
+12907,Sunny,6PM,Bar,1d,1
+18053,Rainy,7AM,Restaurant(<20),2h,0
+11901,Sunny,2PM,Coffee House,1d,1
+18123,Sunny,7AM,Restaurant(<20),1d,0
+21037,Sunny,10PM,Bar,1d,0
+22143,Snowy,10PM,Coffee House,2h,0
+18486,Rainy,10PM,Coffee House,1d,0
+13955,Sunny,10AM,Coffee House,2h,1
+16997,Rainy,6PM,Carry out & Take away,2h,0
+16024,Sunny,7AM,Carry out & Take away,1d,1
+14888,Sunny,6PM,Coffee House,2h,0
+18965,Sunny,6PM,Restaurant(20-50),2h,1
+20690,Sunny,10PM,Restaurant(20-50),1d,1
+16140,Sunny,2PM,Coffee House,1d,1
+11498,Sunny,7AM,Carry out & Take away,2h,0
+16404,Sunny,7AM,Carry out & Take away,1d,1
+16834,Snowy,10PM,Restaurant(20-50),2h,0
+20423,Rainy,7AM,Bar,1d,0
+21274,Snowy,7AM,Coffee House,1d,1
+21074,Snowy,10PM,Coffee House,2h,0
+15072,Sunny,6PM,Coffee House,1d,1
+10015,Sunny,6PM,Coffee House,2h,0
+13979,Sunny,10AM,Carry out & Take away,2h,1
+21764,Sunny,10AM,Restaurant(<20),2h,1
+13062,Sunny,6PM,Restaurant(20-50),1d,1
+21280,Sunny,10PM,Bar,2h,1
+17291,Sunny,10PM,Restaurant(<20),1d,1
+20285,Rainy,6PM,Bar,1d,0
+18714,Sunny,7AM,Restaurant(<20),1d,0
+20283,Sunny,6PM,Carry out & Take away,1d,1
+10326,Sunny,2PM,Coffee House,2h,1
+16460,Sunny,10PM,Carry out & Take away,1d,1
+13537,Sunny,10AM,Coffee House,2h,1
+13378,Sunny,7AM,Restaurant(20-50),1d,1
+20608,Sunny,6PM,Carry out & Take away,1d,1
+12294,Sunny,10AM,Coffee House,2h,1
+21713,Sunny,6PM,Restaurant(<20),2h,1
+10432,Sunny,10AM,Bar,1d,1
+14845,Sunny,7AM,Coffee House,2h,0
+12826,Sunny,2PM,Coffee House,1d,0
+22461,Sunny,10AM,Carry out & Take away,2h,1
+17446,Snowy,10AM,Carry out & Take away,1d,0
+12671,Sunny,2PM,Coffee House,2h,1
+15623,Sunny,10PM,Bar,1d,0
+14520,Sunny,7AM,Carry out & Take away,1d,0
+13362,Sunny,10AM,Bar,1d,1
+21615,Sunny,6PM,Restaurant(<20),2h,1
+14005,Sunny,10AM,Bar,2h,1
+13519,Sunny,6PM,Restaurant(<20),2h,1
+14632,Sunny,7AM,Coffee House,1d,1
+18095,Snowy,10PM,Restaurant(20-50),2h,1
+12973,Sunny,6PM,Bar,1d,1
+20807,Sunny,6PM,Carry out & Take away,2h,0
+19389,Sunny,10PM,Restaurant(<20),1d,1
+11210,Sunny,7AM,Bar,1d,1
+18172,Rainy,10PM,Bar,2h,0
+20634,Sunny,10PM,Restaurant(20-50),1d,0
+17148,Snowy,7AM,Restaurant(<20),2h,0
+22104,Rainy,7AM,Carry out & Take away,1d,1
+13647,Sunny,10AM,Coffee House,2h,1
+17768,Sunny,6PM,Bar,2h,1
+11174,Sunny,10AM,Carry out & Take away,2h,1
+12024,Sunny,7AM,Bar,1d,0
+16880,Sunny,7AM,Bar,1d,0
+10185,Sunny,6PM,Restaurant(<20),2h,1
+13087,Sunny,7AM,Bar,1d,1
+18448,Snowy,7AM,Restaurant(<20),2h,0
+11196,Sunny,10AM,Carry out & Take away,2h,1
+19142,Sunny,10PM,Carry out & Take away,1d,1
+17373,Sunny,2PM,Restaurant(20-50),2h,0
+12996,Sunny,6PM,Restaurant(20-50),1d,0
+10267,Sunny,10AM,Carry out & Take away,2h,0
+12771,Sunny,6PM,Coffee House,2h,0
+19604,Sunny,2PM,Bar,1d,1
+11132,Sunny,2PM,Restaurant(<20),1d,0
+19579,Rainy,10AM,Coffee House,1d,0
+12202,Sunny,7AM,Carry out & Take away,2h,1
+12621,Sunny,7AM,Bar,1d,0
+13611,Sunny,6PM,Restaurant(<20),2h,1
+14480,Sunny,2PM,Restaurant(<20),2h,1
+20750,Rainy,7AM,Carry out & Take away,2h,0
+21008,Rainy,7AM,Restaurant(<20),2h,0
+19174,Snowy,10PM,Restaurant(<20),2h,0
+21929,Snowy,7AM,Restaurant(<20),1d,1
+18140,Sunny,6PM,Bar,2h,1
+20879,Snowy,7AM,Restaurant(<20),1d,0
+20864,Sunny,10PM,Restaurant(20-50),2h,0
+17911,Snowy,10PM,Carry out & Take away,1d,1
+19790,Rainy,7AM,Carry out & Take away,2h,0
+20605,Snowy,2PM,Bar,1d,0
+17370,Sunny,7AM,Restaurant(<20),1d,1
+17655,Snowy,6PM,Coffee House,1d,0
+14095,Sunny,6PM,Restaurant(<20),1d,1
+10043,Sunny,7AM,Coffee House,2h,0
+10069,Sunny,2PM,Coffee House,2h,1
+11171,Sunny,6PM,Bar,1d,1
+20560,Rainy,6PM,Bar,1d,1
+13748,Sunny,6PM,Restaurant(20-50),1d,0
+14365,Sunny,7AM,Carry out & Take away,1d,1
+17891,Snowy,10AM,Carry out & Take away,1d,0
+18356,Snowy,6PM,Coffee House,1d,0
+15791,Sunny,10AM,Restaurant(20-50),2h,1
+13424,Sunny,7AM,Restaurant(<20),1d,1
+17702,Sunny,6PM,Bar,2h,1
+19819,Sunny,10PM,Restaurant(<20),1d,0
+14158,Sunny,10AM,Coffee House,1d,0
+21005,Snowy,10PM,Carry out & Take away,1d,1
+19949,Rainy,10PM,Restaurant(20-50),2h,1
+16287,Sunny,10AM,Coffee House,1d,1
+13018,Sunny,6PM,Restaurant(20-50),1d,0
+17187,Snowy,6PM,Coffee House,1d,1
+21783,Sunny,10PM,Bar,2h,0
+10539,Sunny,7AM,Coffee House,2h,0
+15379,Sunny,6PM,Restaurant(<20),2h,1
+19785,Sunny,6PM,Restaurant(<20),1d,1
+19566,Sunny,6PM,Carry out & Take away,1d,1
+12150,Sunny,2PM,Restaurant(<20),1d,1
+20782,Rainy,2PM,Carry out & Take away,2h,1
+21772,Sunny,10PM,Restaurant(20-50),1d,0
+13718,Sunny,2PM,Coffee House,1d,0
